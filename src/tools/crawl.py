@@ -1,6 +1,7 @@
 import asyncio
 import tempfile
 import os
+import time
 import requests
 from typing import Any, Dict, List, Optional, Union
 
@@ -30,13 +31,13 @@ class CrawlTools(Toolkit):
         check_robots_txt: bool = False,
         verbose: bool = False,
         remove_forms: bool = True,
-        exclude_external_links: bool = True,
+        exclude_external_links: bool = False,
         exclude_social_media_links: bool = True,
         excluded_tags: Optional[list[str]] = [
             "script",
             "style",
-            "nav",
-            "header",
+            # "nav",
+            # "header",
             "footer",
         ],
         use_pruning: bool = False,
@@ -185,6 +186,8 @@ class CrawlTools(Toolkit):
                 # Truncate if needed
                 if self.max_length and len(content) > self.max_length:
                     content = content[: self.max_length] + "..."
+
+                time.sleep(10) # Sleep to avoid rate limiting issues
 
                 return content
 

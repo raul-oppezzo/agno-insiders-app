@@ -1,6 +1,7 @@
 from datetime import datetime
 import os
 from textwrap import dedent
+import time
 from typing import Iterator, List, Optional
 from pydantic import BaseModel, Field
 import json
@@ -11,6 +12,7 @@ from agno.run.response import RunEvent
 from agno.models.google import Gemini
 from agno.tools.googlesearch import GoogleSearchTools
 from agno.tools.reasoning import ReasoningTools
+from agno.tools.sleep import SleepTools
 from agno.utils.pprint import pprint_run_response
 from agno.utils.log import log_debug, log_warning
 
@@ -19,50 +21,50 @@ from tools.pdf import PDFTools
 
 
 class Role(BaseModel):
-    role_name: str = Field(..., description="name of the role")
+    role_name: Optional[str] = Field(None, description="name of the role")
     reports_to: Optional[str] = Field(
-        ...,
+        None,
         description="who the role reports to based on the corporate governance model",
     )
     member_of: Optional[str] = Field(
-        ..., description="the board or committee the role belongs to (if any)"
+        None, description="the board or committee the role belongs to (if any)"
     )
     date_of_first_appointment: Optional[str] = Field(
-        ..., description="date of first appointment (if available). Format: dd-MM-YYYY"
+        None, description="date of first appointment (if available). Format: dd-MM-YYYY"
     )
 
 
 class Insider(BaseModel):
-    name: str = Field(..., description="name of the insider")
-    role: List[Role] = Field(
-        ..., description="list of specific roles held by the insider"
+    name: Optional[str] = Field(..., description="name of the insider")
+    role: Optional[List[Role]] = Field(
+        None, description="list of specific roles held by the insider"
     )
     date_of_birth: Optional[str] = Field(
-        ...,
+        None,
         description="date of birth of the insider (if available). Format: dd-MM-YYYY",
     )
     city_of_birth: Optional[str] = Field(
-        ..., description="city of birth of the insider (if available)"
+        None, description="city of birth of the insider (if available)"
     )
     other_info: Optional[str] = Field(
-        ..., description="any other information about the insider (few lines summary)"
+        None, description="any other information about the insider (few lines summary)"
     )
 
 
 class GovernanceReportResults(BaseModel):
-    url: str = Field(..., description="URL of the governance report")
+    url: str = Field(None, description="URL of the governance report")
     insiders: List[Insider] = Field(
-        ..., description="list of insiders found in the report"
+        None, description="list of insiders found in the report"
     )
 
 
 class SearchResult(BaseModel):
     insider: Insider
-    source: str = Field(..., description="source used for this result")
+    source: str = Field(None, description="source used for this result")
 
 
 class SearchResults(BaseModel):
-    results: List[SearchResult] = Field(..., description="list of search results")
+    results: List[SearchResult] = Field(None, description="list of search results")
 
 
 class InsidersWorkflow(Workflow):
@@ -73,9 +75,7 @@ class InsidersWorkflow(Workflow):
         name="Governance Report Agent",
         model=Gemini(id="gemini-2.5-flash", temperature=0.1, top_p=0.95),
         tools=[
-            GoogleSearchTools(
-                fixed_max_results=10, cache_results=True
-            ),
+            GoogleSearchTools(fixed_max_results=3, cache_results=True),
             PDFTools(cache_results=True),
             CrawlTools(max_length=50000, cache_results=True),
             ReasoningTools(add_instructions=True),
@@ -85,7 +85,7 @@ class InsidersWorkflow(Workflow):
             You are an agent specialized in corporate governance.
 
             <task>
-            Your specific task is to search the web, find the latest annual governance report (2025) of a company specified by the user and extract all the insiders (see **context** section below).
+            Your specific task is to search the web, find the latest annual governance report of a company specified by the user and extract all the insiders (see **context** section below).
             For each insider you have also to extract the following information:
             - name
             - role (be specific, see **context** section below)
@@ -127,24 +127,31 @@ class InsidersWorkflow(Workflow):
 
             <instructions>
             Follow these instructions carefully:
-            1. Search for the latest annual governance report of the company using the search tool.
-            2. If you find the report in PDF format: use the **pdf_tools** to extract the text from the PDF (pass the URL of the PDF to the tool). If you DO NOT find the report in PDF format, use the **crawl_tool** to crawl the page where the report is available and possibly find a reference to the PDF of the report.
-            3. When you have the text of the report, read it and extract all the information about the insiders. If some information is not available, just leave it empty. Be sure to extract all the information you have to find.
+            1. Search for the latest annual governance report of the company using **google_search_tools**. Start with a general query like "company_name corporate governance".
+            2. Scan the search results for the URL of the governance report in PDF format:
+               - If the report URL is in search results: use the **pdf_tools** to extract the content of the report.
+               - If the report URL is NOT in search results: use the **crawl_tools** to crawl the pages returned by the search query and search a reference to the report.
+            3. When you have the report content, extract all the insiders and their information.
             </instructions>
 
             <considerations>
-            - The annual governance report is usually in PDF format and only few sections are relevant for the insiders search.
-            - A search query like "company_name governance report type:pdf" should return the latest report in top results.
-            - If you DO NOT find the report return an empty string.
-            - Make sure to extract only the most recent annual report available (It's a must). Preferably 2025 report. If you dont't find the 2025 report, try 2024 report, etc.
+            - If the PDF is not in the search results, you have to crawl the web pages returned in the search results to find a reference to the report. These pages can be trickier to parse, and may contain references to all the annual reports of the company, so you have to be careful to extract the correct one (the latest).
+            - Avoid scanning PDFs from unofficial sources, or that are NOT linked from the official company website.
+            - If some information is not available in the report, just leave it empty. Be sure to search the information before leaving it empty.
+            - Use the **reasoning_tools** to plan your actions.
+            - Be sure to exctract the governance report, not the financial report or other types of reports.
+            - Be sure to extract the report of the company specified by the user.
+            - Do NOT compose search queries that are too long or complex, keep them simple and with few keywords. Example: "company_name documenti governance", "company_name governance", "company_name investors", etc.
+            - Refine your queries based on the results you get, if you don't find the report in the first attempt.
             </considerations>
             """
         ),
         debug_mode=True,
         show_tool_calls=True,
         tool_call_limit=10,
+        add_datetime_to_instructions=True,
         exponential_backoff=True,
-        retries=2,
+        retries=3,
         use_json_mode=True,
         response_model=GovernanceReportResults,
     )
@@ -228,7 +235,7 @@ class InsidersWorkflow(Workflow):
         show_tool_calls=True,
         tool_call_limit=50,
         exponential_backoff=True,
-        retries=2,
+        retries=3,
         use_json_mode=True,
         response_model=SearchResults,
     )
@@ -239,7 +246,7 @@ class InsidersWorkflow(Workflow):
         """
 
         governance_report_agent_response = self.governance_report_agent.run(
-            f"Please search the web to find the latest annual governance report of the company {company_name} and extract all the insiders and informations related.",
+            f"Please search the web to find the latest governance report of the company {company_name} and extract all the insiders and informations related.",
         )
 
         if not isinstance(
@@ -251,6 +258,9 @@ class InsidersWorkflow(Workflow):
             return RunResponse(
                 content="Failed to crawl governance report.",
             )
+
+        # Sleep for 30 seconds to avoid rate limiting issues
+        time.sleep(30)
 
         insiders_web_agent_response = self.insiders_web_agent.run(
             f"Please search the web to find all the insiders of the company {company_name} and extract all the insiders and informations related.",
