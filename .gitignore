@@ -1,11 +1,5 @@
-.gitignore
-
 # Virtual environments
 .venv
 
 # Environment variables
 .env
-
-temp.json
-thoughts.txt
-results
