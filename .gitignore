@@ -1,3 +1,5 @@
+.gitignore
+
 # Virtual environments
 .venv
 
@@ -6,3 +8,4 @@
 
 temp.json
 thoughts.txt
+results
