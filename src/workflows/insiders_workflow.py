@@ -1,77 +1,275 @@
 from textwrap import dedent
-from typing import Iterator, List
+from typing import Iterator, List, Optional
+from pydantic import BaseModel, Field
+import json
 
 from agno.agent import Agent, RunResponse
 from agno.workflow import Workflow
 from agno.run.response import RunEvent
-from agno.utils.log import logger
 from agno.models.google import Gemini
 from agno.tools.googlesearch import GoogleSearchTools
 from agno.tools.reasoning import ReasoningTools
-from pydantic import BaseModel, Field
+from agno.utils.pprint import pprint_run_response
+from agno.utils.log import log_debug, log_warning
 
 from tools.crawl import CrawlTools
+from tools.pdf import PDFTools
 
 
-class Result(BaseModel):
-    url: str = Field(..., description="URL of the page")
-    content: str = Field(..., description="Content of the page that contains information about insiders")
-    
+class Role(BaseModel):
+    role_name: str = Field(..., description="name of the role")
+    reports_to: Optional[str] = Field(
+        ...,
+        description="who the role reports to based on the corporate governance model",
+    )
+    member_of: Optional[str] = Field(
+        ..., description="the board or committee the role belongs to (if any)"
+    )
+    date_of_first_appointment: Optional[str] = Field(
+        ..., description="date of first appointment (if available). Format: dd-MM-YYYY"
+    )
+
+
+class Insider(BaseModel):
+    name: str = Field(..., description="name of the insider")
+    role: List[Role] = Field(
+        ..., description="list of specific roles held by the insider"
+    )
+    date_of_birth: Optional[str] = Field(
+        ...,
+        description="date of birth of the insider (if available). Format: dd-MM-YYYY",
+    )
+    city_of_birth: Optional[str] = Field(
+        ..., description="city of birth of the insider (if available)"
+    )
+    other_info: Optional[str] = Field(
+        ..., description="any other information about the insider (few lines summary)"
+    )
+
+
+class GovernanceReportResults(BaseModel):
+    url: str = Field(..., description="URL of the governance report")
+    insiders: List[Insider] = Field(
+        ..., description="list of insiders found in the report"
+    )
+
+
+class SearchResult(BaseModel):
+    insider: Insider
+    source: str = Field(..., description="source used for this result")
+
+
 class SearchResults(BaseModel):
-    results: List[Result] = Field(..., description="list of search results")
+    results: List[SearchResult] = Field(..., description="list of search results")
+
 
 class InsidersWorkflow(Workflow):
-    """Workflow to search for insiders of a company using web crawling."""
+    """Workflow to search for insiders of a company"""
 
-    # An agent to search the insiders on the web
-    insiders_crawl_agent = Agent(
-        name="Insiders Crawl Agent",
-        model=Gemini(id="gemini-2.5-pro", temperature=0.1, top_p=0.95),
+    # An agent to scan corporate governance reports
+    governance_report_agent = Agent(
+        name="Governance Report Agent",
+        model=Gemini(id="gemini-2.5-flash", temperature=0.1),
         tools=[
-            GoogleSearchTools(cache_results=True, fixed_max_results=5), 
-            CrawlTools(max_length=None, cache_results=True), 
-            ReasoningTools(add_instructions=True)],
-        description=dedent("""
-            You are a web search agent specialized in finding the isiders of a given company and their roles (see context for definition of insiders). 
-            Your task is to search the web to find ALL the insiders of the given company and for each insider the specific roles and responsibilities.
-            You can search the web using **google_search_tools** and get pages content as markdown using **crawl_tools**.
-        """),
-        context=dedent("""
-            ## INSIDERS DEFINITION:
-                - Insiders are individuals who have access to non-public information about a company that could influence its stock price.
-                - Insiders can be employees, directors, executives, managers, statutory auditors, legal advisors.
-                - Companies do not disclose the names of insiders to the public, but only to regulatory authorities.
-                - We can only know of **potential** insiders based on their roles, responsibilities, and relationships with the company. In the following will use the term "insiders" to refer to this category of individuals.
-                - Insiders can be found in various sources such as company websites, press releases, financial reports, and news articles.
-                - The roles and responsibilities of insiders can vary depending on the company and its structure. Generally, insiders can be categorized as follows:
-                    - **board members**: Individuals who are part of the company's board of directors and are responsible for overseeing the company's management and making strategic decisions. Board members can be independent or not and could be part of internal committees such as audit, compensation, or governance committees.
-                    - **top managers**: Senior executives who are responsible for the overall management and direction of the company or specific departments. CEOs, CFOs, and COOs are examples of top managers.
-                    - **statutory auditors**: Individuals who are responsible for auditing the company's financial statements and ensuring compliance with legal and regulatory requirements.
-                    - **legal advisors**: Professionals who provide legal advice and support to the company, including contract negotiations, compliance issues, and litigation matters.
-        """),
-        instructions=dedent("""
-            You have to implement a search loop following these steps:
-                1. Search the web using **google_search_tools** to find pages that mention the insiders of the company. Pass the tool a **search query**, the tool will return a list of page urls that potentially contain the informations you need.
-                2. For each returned page url get the content using **crawl_tools**. Pass the tool a **page_url** and it will return the page content as markdown. Read ALL the page content and extract ALL the informations about the insiders. You donn't have to follow any link, just read the page content.
-                3. Final loop step (conditional step): if you have found enough information about the insiders, you can stop the search and return the results. Otherwise, you can continue searching for more pages.
+            GoogleSearchTools(
+                fixed_max_results=10, cache_results=True
+            ),  # Cache results during testing
+            PDFTools(cache_results=True),
+            CrawlTools(max_length=50000, cache_results=True),
+            ReasoningTools(add_instructions=True),
+        ],
+        system_message=dedent(
+            """
+            You are an agent specialized in corporate governance.
 
-            ## IMPORTANT CONSTRAINTS:
-            - Be thorough and exhaustive in your search, do not skip any page that might contain useful information.
-            - DO NOT repeat the search loop for more than 10 times (It's a MUST). BUT DO at least 3 iterations.
-            - Multiple pages may contain the same information, don't worry about duplicates, just extract all the information you can find.
-            - Start by general searches and then narrow down the search to specific pages that might contain informations you don't have found in the previos loop cycles.
-            - The final OUTPUT must be a list of sources (page urls) and the extracted information about the insiders. The information must be complete and detailed, but in a concise format.
-        """),
+            <task>
+            Your specific task is to search the web, find the latest annual governance report of a company specified by the user and extract all the insiders (see **context** section below).
+            For each insider you have also to extract the following information:
+            - name
+            - role (be specific, see **context** section below)
+            - who the insider reports to based on his role (see **context** section below)
+            - date of birth (if available, in the format dd-MM-YYYY)
+            - country of birdth (if available)
+            - date of first appointment (if available, in the format dd-MM-YYYY)
+            - any other information you can find about the insider (few lines summary)
+            </task>
+
+            <context>
+                <corporate_governance_model>
+                We are interested in italian companies, usually these companies corporate governance model is structured as follows:
+                - board of directors (approves the financial statements, manages the company). Is composed by directors which can be executive or non-executive, independent or not. Usually there is a chairman, a lead independent director and a president of the board of directors.
+                - board of statutory auditors (supervises the board of directors, ensures compliance with laws and regulations). Usually there is a president of the board of statutory auditors and other members. The board of statutory auditors is composed by independent members.
+                - top managers (responsible for the day-to-day management of the company). Usually there is a Chief Executive Officer (CEO), other can be Chief Financial Officer (CFO), Chief Operating Officer (COO), etc.
+                - committees (support the board of directors in specific areas, e.g. audit committee, compensation committee, etc.). Usually there is a chairman and other members.
+                - auditors (legal advisors, external auditors).
+                </corporate_governance_model>
+
+                <insiders>
+                Insiders are individuals who have access to non-public information about a company because of their position within the company. They can be:
+                - directors: members of the board of directors.
+                - auditors: members of the board of statutory auditors.
+                - managers: senior management roles that oversee specific departments or functions. Can be part of the board of directors.
+                - members of internal committees: usually are members of the board of directors.
+                </insiders>
+
+                <reports_to_chain>
+                Usually:
+                - president and chairman of the board of directors reports to the shareholders' meeting.
+                - directors report to the board of directors.
+                - chairman of the board of statutory auditors reports to the shareholders' meeting.
+                - auditors report to the board of statutory auditors.
+                - CEO reports to the board of directors.
+                - other managers report to the CEO or the board of directors.
+                </reports_to_chain>
+            </context>
+
+            <instructions>
+            Follow these instructions carefully:
+            1. Search for the latest annual governance report of the company using the search tool.
+            2. If you find the report in PDF format: use the **pdf_tools** to extract the text from the PDF (pass the URL of the PDF to the tool). If you DO NOT find the report in PDF format, use the **crawl_tool** to crawl the page where the report is available and possibly find a reference to the PDF of the report.
+            3. When you have the text of the report, read it and extract all the information about the insiders. If some information is not available, just leave it empty. Be sure to extract all the information you have to find.
+            </instructions>
+
+            <considerations>
+            - The annual governance report is usually in PDF format and only few sections are relevant for the insiders search.
+            - A search query like "company_name governance report type:pdf" should return the latest report in top results.
+            - If you DO NOT find the report return an empty string.
+            </considerations>
+            """
+        ),
         debug_mode=True,
         show_tool_calls=True,
+        tool_call_limit=10,
         exponential_backoff=True,
-        tool_call_limit=50,
+        retries=2,
         add_datetime_to_instructions=True,
-        markdown=True,
-        retries=5,
+        use_json_mode=True,
+        response_model=GovernanceReportResults,
+    )
+
+    # An agent to search the insiders on the web
+    insiders_web_agent = Agent(
+        name="Insiders Crawl Agent",
+        model=Gemini(id="gemini-2.5-flash", temperature=0.1),
+        tools=[
+            GoogleSearchTools(fixed_max_results=5, cache_results=True), # Cache results during testing
+            CrawlTools(max_length=25000, cache_results=True, governance_mode=False),
+            ReasoningTools(add_instructions=True),
+        ],
+        system_message=dedent(
+            """
+            You are an advanced web search agent specialized in corporate governance.
+            
+            <task>
+            Your specific task is to search the web, find and extract all the insiders (see **context section beloe).
+            For each insider you have also to extract the following information:
+            - name
+            - role (be specific, see **context section below**)
+            - who the insider reports to based on his role (see **context section below**)
+            - date of birth (if available, in the format dd-MM-YYYY)
+            - city of birth (if available)
+            - date of first appointment (if available, in the format dd-MM-YYYY)
+            - any other information you can find about the insider (few lines summary)
+            </task>
+
+            <context>
+                <corporate_governance_model>
+                We are interested in italian companies, usually these companies corporate governance model is structured as follows:
+                - board of directors (approves the financial statements, manages the company). Is composed by directors which can be executive or non-executive, independent or not. Usually there is a chairman, a lead independent director and a president of the board of directors.
+                - board of statutory auditors (supervises the board of directors, ensures compliance with laws and regulations). Usually there is a president of the board of statutory auditors and other members. The board of statutory auditors is composed by independent members.
+                - top managers (responsible for the day-to-day management of the company). Usually there is a Chief Executive Officer (CEO), other can be Chief Financial Officer (CFO), Chief Operating Officer (COO), etc.
+                - committees (support the board of directors in specific areas, e.g. audit committee, compensation committee, etc.). Usually there is a chairman and other members.
+                - auditors (legal advisors, external auditors).
+                </corporate_governance_model>
+
+                <insiders>
+                Insiders are individuals who have access to non-public information about a company because of their position within the company. They can be:
+                - directors: members of the board of directors.
+                - auditors: members of the board of statutory auditors.
+                - managers: senior management roles that oversee specific departments or functions. Can be part of the board of directors.
+                - members of internal committees: usually are members of the board of directors.
+                </insiders>
+
+                <reports_to_chain>
+                Usually:
+                - president and chairman of the board of directors reports to the shareholders' meeting.
+                - directors report to the board of directors.
+                - chairman of the board of statutory auditors reports to the shareholders' meeting.
+                - auditors report to the board of statutory auditors.
+                - CEO reports to the board of directors.
+                - other managers report to the CEO or the board of directors.
+                </reports_to_chain>
+            </context>
+
+            <instructions>
+            Follow these instructions carefully:
+            1. Search: create a search query and pass it to **google_search** tool.
+            2. Crawl: for each result pass the page URL to the **crawl_tools** tool to get the page content (DO NOT crawl URLs that you have already crawled).
+            3. Extract: read the page content and extract ALL the information about the insiders (Note: the page content is unstructured). DO NOT follow any link on the page, just read the content and extract the information you need.
+            4. Loop: if you have not found enough information or you think you counld potentially find more information repeat from step 1
+            </instructions>
+
+            <considerations>
+            - Always crawl the official company website. It usually has the most complete and updated information about the insiders. It usually has sections like "governance", "management", etc.
+            - Be sure to search for all the categories of insiders (see **context** section).
+            - For each result output the exact source were you found the information
+            - Avoid duplicated results, add multiple sources instead.
+            - DO NOT crawl PDF files or corporate governance reports.
+            - When you have crawled 20 URLs you have to stop and return the results. Use the **reasoning_tools** to decide if you have to stop or not.
+            - If you DO NOT find any insider return an empty string.
+            </considerations>
+        """
+        ),
+        debug_mode=True,
+        show_tool_calls=True,
+        tool_call_limit=50,
+        exponential_backoff=True,
+        retries=2,
         use_json_mode=True,
         response_model=SearchResults,
     )
 
     def run(self, company_name: str) -> Iterator[RunResponse]:
-        yield from self.insiders_crawl_agent.run(f"Please search the web to find information about the insiders of the company {company_name}.", stream=True)
+        """
+        Run the insiders search workflow.
+        """
+
+        governance_report_agent_response = self.governance_report_agent.run(
+            f"Please search the web to find the latest annual governance report of the company {company_name} and extract all the insiders and informations related.",
+        )
+
+        if not isinstance(
+            governance_report_agent_response.content, GovernanceReportResults
+        ):
+            log_warning(
+                f"Governance report agent failed to find governance report for {company_name}."
+            )
+            return RunResponse(
+                content="Failed to crawl governance report.",
+                event=RunEvent.run_error,
+            )
+
+        insiders_web_agent_response = self.insiders_web_agent.run(
+            f"Please search the web to find all the insiders of the company {company_name} and extract all the insiders and informations related.",
+        )
+
+        if not isinstance(insiders_web_agent_response.content, SearchResults):
+            log_warning(
+                f"Insiders web agent failed to find insiders for {company_name}."
+            )
+            return RunResponse(
+                content="Failed to crawl insiders.",
+                event=RunEvent.run_error,
+            )
+
+        print(
+            f"Governance report results: {json.dumps(governance_report_agent_response.content.model_dump(), indent=2)}"
+        )
+
+        print(
+            f"\n\nInsiders web search results: {json.dumps(insiders_web_agent_response.content.model_dump(), indent=2)}"
+        )
+
+        return RunResponse(
+            event=RunEvent.run_completed,
+        )

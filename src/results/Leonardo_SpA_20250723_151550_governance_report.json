@@ -1,0 +1,221 @@
+{
+  "company_name": "Leonardo S.p.A.",
+  "timestamp": "20250723_151550",
+  "agent": "governance_report_agent",
+  "status": "success",
+  "data": {
+    "url": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319",
+    "insiders": [
+      {
+        "name": "Stefano Pontecorvo",
+        "date_of_birth": "1957",
+        "city_of_birth": "",
+        "other_info": "Executive and non-independent Director. Vested with powers concerning Institutional Relations, Group Safety, coordination of Subsidized financing projects, and implementation of corporate governance rules with reference to integrity in business conduct and fighting corruption."
+      },
+      {
+        "name": "Roberto Cingolani",
+        "date_of_birth": "1961",
+        "city_of_birth": "",
+        "other_info": "Responsible for setting up and maintaining the Internal Control and Risk Management System. Vested with all powers for the ordinary management of the Company and to represent the Company."
+      },
+      {
+        "name": "Trifone Altieri",
+        "date_of_birth": "1975",
+        "city_of_birth": "",
+        "other_info": "Independent Director. Member of the Control and Risks Committee and Remuneration Committee."
+      },
+      {
+        "name": "Giancarlo Ghislanzoni",
+        "date_of_birth": "1960",
+        "city_of_birth": "",
+        "other_info": "Independent Director. Member of the Nomination and Governance Committee and Sustainability and Innovation Committee."
+      },
+      {
+        "name": "Enrica Giorgetti",
+        "date_of_birth": "1956",
+        "city_of_birth": "",
+        "other_info": "Independent Director. Chairman of the Remuneration Committee and member of the Nomination and Governance Committee."
+      },
+      {
+        "name": "Dominique Levy",
+        "date_of_birth": "1969",
+        "city_of_birth": "",
+        "other_info": "Independent Director. Member of the Control and Risks Committee and Nomination and Governance Committee."
+      },
+      {
+        "name": "Francesco Macrì",
+        "date_of_birth": "1973",
+        "city_of_birth": "",
+        "other_info": "Independent Director. Member of the Nomination and Governance Committee and Sustainability and Innovation Committee."
+      },
+      {
+        "name": "Cristina Manara",
+        "date_of_birth": "1978",
+        "city_of_birth": "",
+        "other_info": "Independent Director. Chairman of the Sustainability and Innovation Committee and member of the Control and Risks Committee."
+      },
+      {
+        "name": "Marcello Sala",
+        "date_of_birth": "1968",
+        "city_of_birth": "",
+        "other_info": "Non-independent Director (due to employment relationship with Ministry of Economy and Finance). Member of the Control and Risks Committee and Sustainability and Innovation Committee."
+      },
+      {
+        "name": "Silvia Stefini",
+        "date_of_birth": "1964",
+        "city_of_birth": "",
+        "other_info": "Independent Director. Chairman of the Control and Risks Committee and member of the Nomination and Governance Committee."
+      },
+      {
+        "name": "Elena Vasco",
+        "date_of_birth": "1964",
+        "city_of_birth": "",
+        "other_info": "Independent Director. Chairman of the Nomination and Governance Committee and member of the Remuneration Committee."
+      },
+      {
+        "name": "Steven Duncan Wood",
+        "date_of_birth": "1982",
+        "city_of_birth": "",
+        "other_info": "Independent Director. Member of the Remuneration Committee and Sustainability and Innovation Committee."
+      },
+      {
+        "name": "Luca Rossi",
+        "date_of_birth": "1967",
+        "city_of_birth": "",
+        "other_info": "Independent Auditor. Previously served as Alternate Auditor from 15 May 2018."
+      },
+      {
+        "name": "Marco Fazzini",
+        "date_of_birth": "1974",
+        "city_of_birth": "",
+        "other_info": "Independent Auditor."
+      },
+      {
+        "name": "Giulia Pusterla",
+        "date_of_birth": "1960",
+        "city_of_birth": "",
+        "other_info": "Independent Auditor."
+      },
+      {
+        "name": "Paola Simonelli",
+        "date_of_birth": "1964",
+        "city_of_birth": "",
+        "other_info": "Independent Auditor."
+      },
+      {
+        "name": "Alessandro Zavaglia",
+        "date_of_birth": "1970",
+        "city_of_birth": "",
+        "other_info": "Independent Auditor."
+      },
+      {
+        "name": "Giuseppe Cerati",
+        "date_of_birth": "1962",
+        "city_of_birth": "",
+        "other_info": ""
+      },
+      {
+        "name": "Fabrizio Pezzani",
+        "date_of_birth": "1948",
+        "city_of_birth": "",
+        "other_info": ""
+      },
+      {
+        "name": "Serenella Rossano",
+        "date_of_birth": "1964",
+        "city_of_birth": "",
+        "other_info": ""
+      },
+      {
+        "name": "Monica Scipione",
+        "date_of_birth": "1971",
+        "city_of_birth": "",
+        "other_info": ""
+      },
+      {
+        "name": "Anna Rita de Mauro",
+        "date_of_birth": "1970",
+        "city_of_birth": "",
+        "other_info": "Independent Auditor."
+      },
+      {
+        "name": "Sara Fornasiero",
+        "date_of_birth": "1968",
+        "city_of_birth": "",
+        "other_info": "Independent Auditor."
+      },
+      {
+        "name": "Leonardo Quagliata",
+        "date_of_birth": "1953",
+        "city_of_birth": "",
+        "other_info": "Independent Auditor."
+      },
+      {
+        "name": "Amedeo Sacrestano",
+        "date_of_birth": "1968",
+        "city_of_birth": "",
+        "other_info": "Independent Auditor."
+      },
+      {
+        "name": "Eugenio Pinto",
+        "date_of_birth": "1959",
+        "city_of_birth": "",
+        "other_info": ""
+      },
+      {
+        "name": "Alessandra Genco",
+        "date_of_birth": "",
+        "city_of_birth": "",
+        "other_info": "Vested with all powers necessary for the correct performance of duties required by law. Responsible for certifications related to financial reporting and sustainability statements."
+      },
+      {
+        "name": "Salvatore Lampone",
+        "date_of_birth": "",
+        "city_of_birth": "",
+        "other_info": "Responsible for verifying whether the Internal Control and Risk Management System (ICRMS) is operational and adequate. Ex-officio internal board member of the Surveillance Body."
+      },
+      {
+        "name": "Domenica Lista",
+        "date_of_birth": "",
+        "city_of_birth": "",
+        "other_info": "Also acts as the Secretary of the Coordination and Consultation Body for the Prevention of Corruption. Supports the Chairman and Committees, provides impartial assistance and advice on corporate governance."
+      },
+      {
+        "name": "Lorenzo Mariani",
+        "date_of_birth": "",
+        "city_of_birth": "",
+        "other_info": "Reports directly to the Chief Executive Officer and General Manager. Takes part in the Board of Directors’ Meetings on a permanent basis."
+      },
+      {
+        "name": "Federico Maurizo D’Andrea",
+        "date_of_birth": "",
+        "city_of_birth": "",
+        "other_info": "External professional member of the Surveillance Body."
+      },
+      {
+        "name": "Giandomenico Caiazza",
+        "date_of_birth": "",
+        "city_of_birth": "",
+        "other_info": "External professional member of the Surveillance Body."
+      },
+      {
+        "name": "Raffaele Cusmai",
+        "date_of_birth": "",
+        "city_of_birth": "",
+        "other_info": "External professional member of the Surveillance Body."
+      },
+      {
+        "name": "Romina Guglielmetti",
+        "date_of_birth": "",
+        "city_of_birth": "",
+        "other_info": "External professional member of the Surveillance Body."
+      },
+      {
+        "name": "Tommaso Miele",
+        "date_of_birth": "",
+        "city_of_birth": "",
+        "other_info": "Attends meetings of the Board of Directors and the Board of Statutory Auditors to audit financial transactions."
+      }
+    ]
+  }
+}

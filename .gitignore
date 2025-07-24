@@ -3,3 +3,6 @@
 
 # Environment variables
 .env
+
+temp.json
+thoughts.txt
