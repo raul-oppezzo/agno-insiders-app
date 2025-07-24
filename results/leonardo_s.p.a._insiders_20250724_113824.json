@@ -1,0 +1,1079 @@
+{
+  "company_name": "Leonardo S.p.A.",
+  "timestamp": "2025-07-24T11:38:24.412939",
+  "governance_report": {
+    "url": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319",
+    "insiders": [
+      {
+        "name": "Stefano Pontecorvo",
+        "role": [
+          {
+            "role_name": "Chairman of the Board of Directors",
+            "reports_to": "Shareholders' Meeting",
+            "member_of": "Board of Directors",
+            "date_of_first_appointment": "09-05-2023"
+          },
+          {
+            "role_name": "Executive Director",
+            "reports_to": "Board of Directors",
+            "member_of": "Board of Directors",
+            "date_of_first_appointment": "09-05-2023"
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": "Vested with authority as legal representative and signatory powers. Also has powers concerning Institutional Relations, Group Safety, coordination of Subsidized financing projects, and implementation of corporate governance rules with reference to integrity in business conduct and fighting corruption. Confirmed as Executive Chairman and non-independent Director."
+      },
+      {
+        "name": "Roberto Cingolani",
+        "role": [
+          {
+            "role_name": "Chief Executive Officer (CEO)",
+            "reports_to": "Board of Directors",
+            "member_of": "Board of Directors",
+            "date_of_first_appointment": "09-05-2023"
+          },
+          {
+            "role_name": "General Manager",
+            "reports_to": "Board of Directors",
+            "member_of": "Board of Directors",
+            "date_of_first_appointment": "09-05-2023"
+          },
+          {
+            "role_name": "Executive Director",
+            "reports_to": "Board of Directors",
+            "member_of": "Board of Directors",
+            "date_of_first_appointment": "09-05-2023"
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": "Vested with all powers for ordinary management and to represent the Company. Head of General Business & Operations Department."
+      },
+      {
+        "name": "Trifone Altieri",
+        "role": [
+          {
+            "role_name": "Director",
+            "reports_to": "Board of Directors",
+            "member_of": "Board of Directors",
+            "date_of_first_appointment": "09-05-2023"
+          },
+          {
+            "role_name": "Member of Control and Risks Committee",
+            "reports_to": "Board of Directors",
+            "member_of": "Control and Risks Committee",
+            "date_of_first_appointment": null
+          },
+          {
+            "role_name": "Member of Remuneration Committee",
+            "reports_to": "Board of Directors",
+            "member_of": "Remuneration Committee",
+            "date_of_first_appointment": null
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Giancarlo Ghislanzoni",
+        "role": [
+          {
+            "role_name": "Director",
+            "reports_to": "Board of Directors",
+            "member_of": "Board of Directors",
+            "date_of_first_appointment": "09-05-2023"
+          },
+          {
+            "role_name": "Lead Independent Director",
+            "reports_to": "Board of Directors",
+            "member_of": "Board of Directors",
+            "date_of_first_appointment": "09-05-2023"
+          },
+          {
+            "role_name": "Member of Nomination and Governance Committee",
+            "reports_to": "Board of Directors",
+            "member_of": "Nomination and Governance Committee",
+            "date_of_first_appointment": null
+          },
+          {
+            "role_name": "Member of Sustainability and Innovation Committee",
+            "reports_to": "Board of Directors",
+            "member_of": "Sustainability and Innovation Committee",
+            "date_of_first_appointment": null
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Enrica Giorgetti",
+        "role": [
+          {
+            "role_name": "Director",
+            "reports_to": "Board of Directors",
+            "member_of": "Board of Directors",
+            "date_of_first_appointment": "09-05-2023"
+          },
+          {
+            "role_name": "Member of Nomination and Governance Committee",
+            "reports_to": "Board of Directors",
+            "member_of": "Nomination and Governance Committee",
+            "date_of_first_appointment": null
+          },
+          {
+            "role_name": "Chairman of Remuneration Committee",
+            "reports_to": "Board of Directors",
+            "member_of": "Remuneration Committee",
+            "date_of_first_appointment": null
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Dominique Levy",
+        "role": [
+          {
+            "role_name": "Director",
+            "reports_to": "Board of Directors",
+            "member_of": "Board of Directors",
+            "date_of_first_appointment": "09-05-2023"
+          },
+          {
+            "role_name": "Member of Control and Risks Committee",
+            "reports_to": "Board of Directors",
+            "member_of": "Control and Risks Committee",
+            "date_of_first_appointment": null
+          },
+          {
+            "role_name": "Member of Nomination and Governance Committee",
+            "reports_to": "Board of Directors",
+            "member_of": "Nomination and Governance Committee",
+            "date_of_first_appointment": null
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Francesco Macrì",
+        "role": [
+          {
+            "role_name": "Director",
+            "reports_to": "Board of Directors",
+            "member_of": "Board of Directors",
+            "date_of_first_appointment": "09-05-2023"
+          },
+          {
+            "role_name": "Member of Nomination and Governance Committee",
+            "reports_to": "Board of Directors",
+            "member_of": "Nomination and Governance Committee",
+            "date_of_first_appointment": null
+          },
+          {
+            "role_name": "Member of Sustainability and Innovation Committee",
+            "reports_to": "Board of Directors",
+            "member_of": "Sustainability and Innovation Committee",
+            "date_of_first_appointment": null
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Cristina Manara",
+        "role": [
+          {
+            "role_name": "Director",
+            "reports_to": "Board of Directors",
+            "member_of": "Board of Directors",
+            "date_of_first_appointment": "09-05-2023"
+          },
+          {
+            "role_name": "Member of Control and Risks Committee",
+            "reports_to": "Board of Directors",
+            "member_of": "Control and Risks Committee",
+            "date_of_first_appointment": null
+          },
+          {
+            "role_name": "Chairman of Sustainability and Innovation Committee",
+            "reports_to": "Board of Directors",
+            "member_of": "Sustainability and Innovation Committee",
+            "date_of_first_appointment": null
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Marcello Sala",
+        "role": [
+          {
+            "role_name": "Director",
+            "reports_to": "Board of Directors",
+            "member_of": "Board of Directors",
+            "date_of_first_appointment": "09-05-2023"
+          },
+          {
+            "role_name": "Member of Control and Risks Committee",
+            "reports_to": "Board of Directors",
+            "member_of": "Control and Risks Committee",
+            "date_of_first_appointment": null
+          },
+          {
+            "role_name": "Member of Sustainability and Innovation Committee",
+            "reports_to": "Board of Directors",
+            "member_of": "Sustainability and Innovation Committee",
+            "date_of_first_appointment": null
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": "Not independent due to employment relationship with Ministry of Economy and Finance."
+      },
+      {
+        "name": "Silvia Stefini",
+        "role": [
+          {
+            "role_name": "Director",
+            "reports_to": "Board of Directors",
+            "member_of": "Board of Directors",
+            "date_of_first_appointment": "09-05-2023"
+          },
+          {
+            "role_name": "Chairman of Control and Risks Committee",
+            "reports_to": "Board of Directors",
+            "member_of": "Control and Risks Committee",
+            "date_of_first_appointment": null
+          },
+          {
+            "role_name": "Member of Nomination and Governance Committee",
+            "reports_to": "Board of Directors",
+            "member_of": "Nomination and Governance Committee",
+            "date_of_first_appointment": null
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Elena Vasco",
+        "role": [
+          {
+            "role_name": "Director",
+            "reports_to": "Board of Directors",
+            "member_of": "Board of Directors",
+            "date_of_first_appointment": "09-05-2023"
+          },
+          {
+            "role_name": "Chairman of Nomination and Governance Committee",
+            "reports_to": "Board of Directors",
+            "member_of": "Nomination and Governance Committee",
+            "date_of_first_appointment": null
+          },
+          {
+            "role_name": "Member of Remuneration Committee",
+            "reports_to": "Board of Directors",
+            "member_of": "Remuneration Committee",
+            "date_of_first_appointment": null
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Steven Duncan Wood",
+        "role": [
+          {
+            "role_name": "Director",
+            "reports_to": "Board of Directors",
+            "member_of": "Board of Directors",
+            "date_of_first_appointment": "09-05-2023"
+          },
+          {
+            "role_name": "Member of Remuneration Committee",
+            "reports_to": "Board of Directors",
+            "member_of": "Remuneration Committee",
+            "date_of_first_appointment": null
+          },
+          {
+            "role_name": "Member of Sustainability and Innovation Committee",
+            "reports_to": "Board of Directors",
+            "member_of": "Sustainability and Innovation Committee",
+            "date_of_first_appointment": null
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Luca Rossi",
+        "role": [
+          {
+            "role_name": "Chairman of the Board of Statutory Auditors",
+            "reports_to": "Shareholders' Meeting",
+            "member_of": "Board of Statutory Auditors",
+            "date_of_first_appointment": "08-11-2018"
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": "Appointed Chairman of the Board of Statutory Auditors from 24 May 2024."
+      },
+      {
+        "name": "Marco Fazzini",
+        "role": [
+          {
+            "role_name": "Regular Auditor",
+            "reports_to": "Board of Statutory Auditors",
+            "member_of": "Board of Statutory Auditors",
+            "date_of_first_appointment": "24-05-2024"
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Giulia Pusterla",
+        "role": [
+          {
+            "role_name": "Regular Auditor",
+            "reports_to": "Board of Statutory Auditors",
+            "member_of": "Board of Statutory Auditors",
+            "date_of_first_appointment": "24-05-2024"
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Paola Simonelli",
+        "role": [
+          {
+            "role_name": "Regular Auditor",
+            "reports_to": "Board of Statutory Auditors",
+            "member_of": "Board of Statutory Auditors",
+            "date_of_first_appointment": "24-05-2024"
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Alessandro Zavaglia",
+        "role": [
+          {
+            "role_name": "Regular Auditor",
+            "reports_to": "Board of Statutory Auditors",
+            "member_of": "Board of Statutory Auditors",
+            "date_of_first_appointment": "24-05-2024"
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Giuseppe Cerati",
+        "role": [
+          {
+            "role_name": "Alternate Auditor",
+            "reports_to": "Board of Statutory Auditors",
+            "member_of": "Board of Statutory Auditors",
+            "date_of_first_appointment": "16-05-2019"
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Fabrizio Pezzani",
+        "role": [
+          {
+            "role_name": "Alternate Auditor",
+            "reports_to": "Board of Statutory Auditors",
+            "member_of": "Board of Statutory Auditors",
+            "date_of_first_appointment": "24-05-2024"
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Serenella Rossano",
+        "role": [
+          {
+            "role_name": "Alternate Auditor",
+            "reports_to": "Board of Statutory Auditors",
+            "member_of": "Board of Statutory Auditors",
+            "date_of_first_appointment": "24-05-2024"
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Monica Scipione",
+        "role": [
+          {
+            "role_name": "Alternate Auditor",
+            "reports_to": "Board of Statutory Auditors",
+            "member_of": "Board of Statutory Auditors",
+            "date_of_first_appointment": "24-05-2024"
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Lorenzo Mariani",
+        "role": [
+          {
+            "role_name": "Co-General Manager",
+            "reports_to": "Chief Executive Officer",
+            "member_of": null,
+            "date_of_first_appointment": "01-06-2023"
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Alessandra Genco",
+        "role": [
+          {
+            "role_name": "Officer in charge of Financial Reporting",
+            "reports_to": "Board of Directors",
+            "member_of": null,
+            "date_of_first_appointment": "09-05-2023"
+          },
+          {
+            "role_name": "Chief Financial Officer (CFO)",
+            "reports_to": "Board of Directors",
+            "member_of": null,
+            "date_of_first_appointment": "09-05-2023"
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Domenica Lista",
+        "role": [
+          {
+            "role_name": "Secretary of the Board of Directors",
+            "reports_to": "Chairman of the Board of Directors",
+            "member_of": null,
+            "date_of_first_appointment": null
+          },
+          {
+            "role_name": "Secretary of Internal Board Committees",
+            "reports_to": "Chairman of the Board of Directors",
+            "member_of": null,
+            "date_of_first_appointment": null
+          },
+          {
+            "role_name": "Chief Corporate Bodies Affairs Officer",
+            "reports_to": null,
+            "member_of": null,
+            "date_of_first_appointment": null
+          },
+          {
+            "role_name": "Secretary of the Coordination and Consultation Body for the Prevention of Corruption",
+            "reports_to": null,
+            "member_of": "Coordination and Consultation Body for the Prevention of Corruption",
+            "date_of_first_appointment": null
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Salvatore Lampone",
+        "role": [
+          {
+            "role_name": "Chief Audit Executive (CAE)",
+            "reports_to": "Board of Directors",
+            "member_of": null,
+            "date_of_first_appointment": "15-05-2024"
+          },
+          {
+            "role_name": "Head of the Group Internal Audit OU",
+            "reports_to": "Board of Directors",
+            "member_of": null,
+            "date_of_first_appointment": "15-05-2024"
+          },
+          {
+            "role_name": "Internal Board Member of the Surveillance Body",
+            "reports_to": "Board of Directors",
+            "member_of": "Surveillance Body",
+            "date_of_first_appointment": null
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Federico Maurizo D’Andrea",
+        "role": [
+          {
+            "role_name": "Chairman of the Surveillance Body",
+            "reports_to": "Board of Directors",
+            "member_of": "Surveillance Body",
+            "date_of_first_appointment": "28-07-2023"
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Giandomenico Caiazza",
+        "role": [
+          {
+            "role_name": "Member of the Surveillance Body",
+            "reports_to": "Board of Directors",
+            "member_of": "Surveillance Body",
+            "date_of_first_appointment": "28-07-2023"
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Raffaele Cusmai",
+        "role": [
+          {
+            "role_name": "Member of the Surveillance Body",
+            "reports_to": "Board of Directors",
+            "member_of": "Surveillance Body",
+            "date_of_first_appointment": "28-07-2023"
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Romina Guglielmetti",
+        "role": [
+          {
+            "role_name": "Member of the Surveillance Body",
+            "reports_to": "Board of Directors",
+            "member_of": "Surveillance Body",
+            "date_of_first_appointment": "28-07-2023"
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": null
+      },
+      {
+        "name": "Tommaso Miele",
+        "role": [
+          {
+            "role_name": "Delegated Judge of the Court of Auditors",
+            "reports_to": "Court of Auditors",
+            "member_of": null,
+            "date_of_first_appointment": "25-07-2022"
+          }
+        ],
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "other_info": "Attends meetings of the Board of Directors and the Board of Statutory Auditors."
+      }
+    ]
+  },
+  "web_search": {
+    "results": [
+      {
+        "insider": {
+          "name": "Stefano Pontecorvo",
+          "role": [
+            {
+              "role_name": "Chairman Executive (non-independent)",
+              "reports_to": "Shareholders' Meeting",
+              "member_of": "Board of Directors",
+              "date_of_first_appointment": "2023"
+            }
+          ],
+          "date_of_birth": "1957",
+          "city_of_birth": null,
+          "other_info": "No shares held at December 31, 2023."
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-directors/composition"
+      },
+      {
+        "insider": {
+          "name": "Roberto Cingolani",
+          "role": [
+            {
+              "role_name": "Chief Executive Officer",
+              "reports_to": "Board of Directors",
+              "member_of": null,
+              "date_of_first_appointment": "2023"
+            },
+            {
+              "role_name": "General Manager",
+              "reports_to": "Board of Directors",
+              "member_of": null,
+              "date_of_first_appointment": "2023"
+            }
+          ],
+          "date_of_birth": "1961",
+          "city_of_birth": null,
+          "other_info": "No shares held at December 31, 2023."
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-directors/composition"
+      },
+      {
+        "insider": {
+          "name": "Trifone Altieri",
+          "role": [
+            {
+              "role_name": "Member (independent)",
+              "reports_to": "Board of Directors",
+              "member_of": "Board of Directors",
+              "date_of_first_appointment": "2023"
+            }
+          ],
+          "date_of_birth": "1975",
+          "city_of_birth": null,
+          "other_info": "No shares held at December 31, 2023."
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-directors/composition"
+      },
+      {
+        "insider": {
+          "name": "Giancarlo Ghislanzoni",
+          "role": [
+            {
+              "role_name": "Lead Independent Director",
+              "reports_to": "Board of Directors",
+              "member_of": "Board of Directors",
+              "date_of_first_appointment": "2023"
+            }
+          ],
+          "date_of_birth": "1960",
+          "city_of_birth": null,
+          "other_info": "N. 36,415 shares held at December 31, 2023."
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-directors/composition"
+      },
+      {
+        "insider": {
+          "name": "Enrica Giorgetti",
+          "role": [
+            {
+              "role_name": "Member (independent)",
+              "reports_to": "Board of Directors",
+              "member_of": "Board of Directors",
+              "date_of_first_appointment": "2023"
+            }
+          ],
+          "date_of_birth": "1956",
+          "city_of_birth": null,
+          "other_info": "No shares held at December 31, 2023."
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-directors/composition"
+      },
+      {
+        "insider": {
+          "name": "Dominique Levy",
+          "role": [
+            {
+              "role_name": "Member (independent)",
+              "reports_to": "Board of Directors",
+              "member_of": "Board of Directors",
+              "date_of_first_appointment": "2023"
+            }
+          ],
+          "date_of_birth": "1969",
+          "city_of_birth": null,
+          "other_info": "N. 15,000 shares held at December 31, 2023."
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-directors/composition"
+      },
+      {
+        "insider": {
+          "name": "Francesco Macrì",
+          "role": [
+            {
+              "role_name": "Member (independent)",
+              "reports_to": "Board of Directors",
+              "member_of": "Board of Directors",
+              "date_of_first_appointment": "2023"
+            }
+          ],
+          "date_of_birth": "1973",
+          "city_of_birth": null,
+          "other_info": "No shares held at December 31, 2023."
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-directors/composition"
+      },
+      {
+        "insider": {
+          "name": "Cristina Manara",
+          "role": [
+            {
+              "role_name": "Member (independent)",
+              "reports_to": "Board of Directors",
+              "member_of": "Board of Directors",
+              "date_of_first_appointment": "2023"
+            }
+          ],
+          "date_of_birth": "1978",
+          "city_of_birth": null,
+          "other_info": "No shares held at December 31, 2023."
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-directors/composition"
+      },
+      {
+        "insider": {
+          "name": "Marcello Sala",
+          "role": [
+            {
+              "role_name": "Member",
+              "reports_to": "Board of Directors",
+              "member_of": "Board of Directors",
+              "date_of_first_appointment": "2023"
+            }
+          ],
+          "date_of_birth": "1968",
+          "city_of_birth": null,
+          "other_info": "N. 17,170 shares held at December 31, 2023."
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-directors/composition"
+      },
+      {
+        "insider": {
+          "name": "Silvia Stefini",
+          "role": [
+            {
+              "role_name": "Member (independent)",
+              "reports_to": "Board of Directors",
+              "member_of": "Board of Directors",
+              "date_of_first_appointment": "2023"
+            }
+          ],
+          "date_of_birth": "1964",
+          "city_of_birth": null,
+          "other_info": "No shares held at December 31, 2023."
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-directors/composition"
+      },
+      {
+        "insider": {
+          "name": "Elena Vasco",
+          "role": [
+            {
+              "role_name": "Member (independent)",
+              "reports_to": "Board of Directors",
+              "member_of": "Board of Directors",
+              "date_of_first_appointment": "2023"
+            }
+          ],
+          "date_of_birth": "1964",
+          "city_of_birth": null,
+          "other_info": "No shares held at December 31, 2023."
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-directors/composition"
+      },
+      {
+        "insider": {
+          "name": "Steven Duncan Wood",
+          "role": [
+            {
+              "role_name": "Member (independent)",
+              "reports_to": "Board of Directors",
+              "member_of": "Board of Directors",
+              "date_of_first_appointment": "2023"
+            }
+          ],
+          "date_of_birth": "1982",
+          "city_of_birth": null,
+          "other_info": "N. 6,889 shares held at December 31, 2023."
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-directors/composition"
+      },
+      {
+        "insider": {
+          "name": "Luca Rossi",
+          "role": [
+            {
+              "role_name": "Chairman",
+              "reports_to": "Shareholders' Meeting",
+              "member_of": "Board of Statutory Auditors",
+              "date_of_first_appointment": "2018"
+            }
+          ],
+          "date_of_birth": "1967",
+          "city_of_birth": null,
+          "other_info": null
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-statutory-auditors"
+      },
+      {
+        "insider": {
+          "name": "Marco Fazzini",
+          "role": [
+            {
+              "role_name": "Regulatory Statutory Auditor",
+              "reports_to": "Board of Statutory Auditors",
+              "member_of": "Board of Statutory Auditors",
+              "date_of_first_appointment": "2024"
+            }
+          ],
+          "date_of_birth": "1974",
+          "city_of_birth": null,
+          "other_info": null
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-statutory-auditors"
+      },
+      {
+        "insider": {
+          "name": "Giulia Pusterla",
+          "role": [
+            {
+              "role_name": "Regulatory Statutory Auditor",
+              "reports_to": "Board of Statutory Auditors",
+              "member_of": "Board of Statutory Auditors",
+              "date_of_first_appointment": "2024"
+            }
+          ],
+          "date_of_birth": "1960",
+          "city_of_birth": null,
+          "other_info": null
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-statutory-auditors"
+      },
+      {
+        "insider": {
+          "name": "Paola Simonelli",
+          "role": [
+            {
+              "role_name": "Regulatory Statutory Auditor",
+              "reports_to": "Board of Statutory Auditors",
+              "member_of": "Board of Statutory Auditors",
+              "date_of_first_appointment": "2024"
+            }
+          ],
+          "date_of_birth": "1964",
+          "city_of_birth": null,
+          "other_info": null
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-statutory-auditors"
+      },
+      {
+        "insider": {
+          "name": "Alessandro Zavaglia",
+          "role": [
+            {
+              "role_name": "Regulatory Statutory Auditor",
+              "reports_to": "Board of Statutory Auditors",
+              "member_of": "Board of Statutory Auditors",
+              "date_of_first_appointment": "2024"
+            }
+          ],
+          "date_of_birth": "1970",
+          "city_of_birth": null,
+          "other_info": null
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-statutory-auditors"
+      },
+      {
+        "insider": {
+          "name": "Giuseppe Cerati",
+          "role": [
+            {
+              "role_name": "Alternate Statutory Auditor",
+              "reports_to": "Board of Statutory Auditors",
+              "member_of": "Board of Statutory Auditors",
+              "date_of_first_appointment": "2019"
+            }
+          ],
+          "date_of_birth": "1962",
+          "city_of_birth": null,
+          "other_info": null
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-statutory-auditors"
+      },
+      {
+        "insider": {
+          "name": "Fabrizio Pezzani",
+          "role": [
+            {
+              "role_name": "Alternate Statutory Auditor",
+              "reports_to": "Board of Statutory Auditors",
+              "member_of": "Board of Statutory Auditors",
+              "date_of_first_appointment": "2024"
+            }
+          ],
+          "date_of_birth": "1948",
+          "city_of_birth": null,
+          "other_info": null
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-statutory-auditors"
+      },
+      {
+        "insider": {
+          "name": "Serenella Rossano",
+          "role": [
+            {
+              "role_name": "Alternate Statutory Auditor",
+              "reports_to": "Board of Statutory Auditors",
+              "member_of": "Board of Statutory Auditors",
+              "date_of_first_appointment": "2024"
+            }
+          ],
+          "date_of_birth": "1964",
+          "city_of_birth": null,
+          "other_info": null
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-statutory-auditors"
+      },
+      {
+        "insider": {
+          "name": "Monica Scipione",
+          "role": [
+            {
+              "role_name": "Alternate Statutory Auditor",
+              "reports_to": "Board of Statutory Auditors",
+              "member_of": "Board of Statutory Auditors",
+              "date_of_first_appointment": "2024"
+            }
+          ],
+          "date_of_birth": "1971",
+          "city_of_birth": null,
+          "other_info": null
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/board-of-statutory-auditors"
+      },
+      {
+        "insider": {
+          "name": "Federico Maurizo D’Andrea",
+          "role": [
+            {
+              "role_name": "Chairman",
+              "reports_to": "Board of Directors",
+              "member_of": "Surveillance Body",
+              "date_of_first_appointment": "28-07-2023"
+            }
+          ],
+          "date_of_birth": null,
+          "city_of_birth": null,
+          "other_info": "External professional member of the Surveillance Body."
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/surveillance-body"
+      },
+      {
+        "insider": {
+          "name": "Giandomenico Caiazza",
+          "role": [
+            {
+              "role_name": "Member",
+              "reports_to": "Board of Directors",
+              "member_of": "Surveillance Body",
+              "date_of_first_appointment": "28-07-2023"
+            }
+          ],
+          "date_of_birth": null,
+          "city_of_birth": null,
+          "other_info": "External professional member of the Surveillance Body."
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/surveillance-body"
+      },
+      {
+        "insider": {
+          "name": "Raffaele Cusmai",
+          "role": [
+            {
+              "role_name": "Member",
+              "reports_to": "Board of Directors",
+              "member_of": "Surveillance Body",
+              "date_of_first_appointment": "28-07-2023"
+            }
+          ],
+          "date_of_birth": null,
+          "city_of_birth": null,
+          "other_info": "External professional member of the Surveillance Body."
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/surveillance-body"
+      },
+      {
+        "insider": {
+          "name": "Romina Guglielmetti",
+          "role": [
+            {
+              "role_name": "Member",
+              "reports_to": "Board of Directors",
+              "member_of": "Surveillance Body",
+              "date_of_first_appointment": "28-07-2023"
+            }
+          ],
+          "date_of_birth": null,
+          "city_of_birth": null,
+          "other_info": "External professional member of the Surveillance Body."
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/surveillance-body"
+      },
+      {
+        "insider": {
+          "name": "Salvatore Lampone",
+          "role": [
+            {
+              "role_name": "Chief Audit Executive",
+              "reports_to": "Board of Directors",
+              "member_of": "Surveillance Body",
+              "date_of_first_appointment": "28-07-2023"
+            }
+          ],
+          "date_of_birth": null,
+          "city_of_birth": null,
+          "other_info": "Internal member by right of the Surveillance Body."
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance/surveillance-body"
+      },
+      {
+        "insider": {
+          "name": "Tommaso Miele",
+          "role": [
+            {
+              "role_name": "Delegated Judge",
+              "reports_to": "Court of Auditors",
+              "member_of": "Court of Auditors",
+              "date_of_first_appointment": "25-07-2022"
+            }
+          ],
+          "date_of_birth": null,
+          "city_of_birth": null,
+          "other_info": "Carries out the activity of supervising Leonardo's financial management on behalf of the Court of Auditors."
+        },
+        "source": "https://www.leonardo.com/en/investors/corporate-governance"
+      }
+    ]
+  },
+  "status": "success"
+}

@@ -1,3 +1,5 @@
+from datetime import datetime
+import os
 from textwrap import dedent
 from typing import Iterator, List, Optional
 from pydantic import BaseModel, Field
@@ -69,11 +71,11 @@ class InsidersWorkflow(Workflow):
     # An agent to scan corporate governance reports
     governance_report_agent = Agent(
         name="Governance Report Agent",
-        model=Gemini(id="gemini-2.5-flash", temperature=0.1),
+        model=Gemini(id="gemini-2.5-flash", temperature=0.1, top_p=0.95),
         tools=[
             GoogleSearchTools(
                 fixed_max_results=10, cache_results=True
-            ),  # Cache results during testing
+            ),
             PDFTools(cache_results=True),
             CrawlTools(max_length=50000, cache_results=True),
             ReasoningTools(add_instructions=True),
@@ -83,7 +85,7 @@ class InsidersWorkflow(Workflow):
             You are an agent specialized in corporate governance.
 
             <task>
-            Your specific task is to search the web, find the latest annual governance report of a company specified by the user and extract all the insiders (see **context** section below).
+            Your specific task is to search the web, find the latest annual governance report (2025) of a company specified by the user and extract all the insiders (see **context** section below).
             For each insider you have also to extract the following information:
             - name
             - role (be specific, see **context** section below)
@@ -134,6 +136,7 @@ class InsidersWorkflow(Workflow):
             - The annual governance report is usually in PDF format and only few sections are relevant for the insiders search.
             - A search query like "company_name governance report type:pdf" should return the latest report in top results.
             - If you DO NOT find the report return an empty string.
+            - Make sure to extract only the most recent annual report available (It's a must). Preferably 2025 report. If you dont't find the 2025 report, try 2024 report, etc.
             </considerations>
             """
         ),
@@ -142,7 +145,6 @@ class InsidersWorkflow(Workflow):
         tool_call_limit=10,
         exponential_backoff=True,
         retries=2,
-        add_datetime_to_instructions=True,
         use_json_mode=True,
         response_model=GovernanceReportResults,
     )
@@ -150,9 +152,11 @@ class InsidersWorkflow(Workflow):
     # An agent to search the insiders on the web
     insiders_web_agent = Agent(
         name="Insiders Crawl Agent",
-        model=Gemini(id="gemini-2.5-flash", temperature=0.1),
+        model=Gemini(id="gemini-2.5-flash", temperature=0.1, top_p=0.95),
         tools=[
-            GoogleSearchTools(fixed_max_results=5, cache_results=True), # Cache results during testing
+            GoogleSearchTools(
+                fixed_max_results=5, cache_results=True
+            ),  # Cache results during testing
             CrawlTools(max_length=25000, cache_results=True, governance_mode=False),
             ReasoningTools(add_instructions=True),
         ],
@@ -246,7 +250,6 @@ class InsidersWorkflow(Workflow):
             )
             return RunResponse(
                 content="Failed to crawl governance report.",
-                event=RunEvent.run_error,
             )
 
         insiders_web_agent_response = self.insiders_web_agent.run(
@@ -259,17 +262,27 @@ class InsidersWorkflow(Workflow):
             )
             return RunResponse(
                 content="Failed to crawl insiders.",
-                event=RunEvent.run_error,
             )
 
-        print(
-            f"Governance report results: {json.dumps(governance_report_agent_response.content.model_dump(), indent=2)}"
-        )
+        os.makedirs("../results", exist_ok=True)
 
-        print(
-            f"\n\nInsiders web search results: {json.dumps(insiders_web_agent_response.content.model_dump(), indent=2)}"
-        )
+        # Prepare results data
+        results_data = {
+            "company_name": company_name,
+            "timestamp": datetime.now().isoformat(),
+            "governance_report": governance_report_agent_response.content.model_dump(),
+            "web_search": insiders_web_agent_response.content.model_dump(),
+            "status": "success",
+        }
+
+        filename = f"{company_name.replace(' ', '_').lower()}_insiders_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+        filepath = os.path.join("../results", filename)
+
+        with open(filepath, "w") as f:
+            json.dump(results_data, f, indent=2, ensure_ascii=False)
+
+        print(f"\nResults saved to: {filepath}")
 
         return RunResponse(
-            event=RunEvent.run_completed,
+            content="Workflow completed successfully.",
         )

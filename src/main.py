@@ -5,11 +5,11 @@ from workflows.insiders_workflow import InsidersWorkflow
 if __name__ == "__main__":
     load_dotenv()
 
-    parser = ArgumentParser(description="Run the insiders workflow.")
+    parser = ArgumentParser()
     parser.add_argument(
-        "-company_name",
+        "-c",
+        "--company_name",
         type=str,
-        description="Name of the company to process",
         required=True,
     )
 
