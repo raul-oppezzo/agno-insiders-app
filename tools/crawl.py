@@ -37,13 +37,14 @@ class CrawlTools(Toolkit):
             "script",
             "style",
             # "nav",
-            # "header",
+            "header",
             "footer",
         ],
         use_pruning: bool = False,
         pruning_threshold: float = 0.48,
         bm25_threshold: float = 0.5,
-        magic: bool = True,
+        # magic: bool = True,
+        remove_overlay_elements: bool = True,
         governance_mode: bool = False,
         **kwargs,
     ):
@@ -62,7 +63,8 @@ class CrawlTools(Toolkit):
         self.use_pruning = use_pruning
         self.pruning_threshold = pruning_threshold
         self.bm25_threshold = bm25_threshold
-        self.magic = magic
+        # self.magic = magic,
+        self.remove_overlay_elements = remove_overlay_elements
         self.governance_mode = governance_mode
 
     def _build_config(self, search_query: Optional[str] = None) -> Dict[str, Any]:
@@ -76,7 +78,7 @@ class CrawlTools(Toolkit):
             "exclude_external_links": self.exclude_external_links,
             "exclude_social_media_links": self.exclude_social_media_links,
             "excluded_tags": self.excluded_tags,
-            "magic": self.magic,
+            # "magic": self.magic,
         }
 
         # Ensure excluded_tags is a list, not a tuple or nested structure
@@ -105,14 +107,14 @@ class CrawlTools(Toolkit):
         return config_params
 
     def crawl(
-        self, url: Union[str, List[str]], search_query: Optional[str] = None
+        self,
+        url: Union[str, List[str]],  # search_query: Optional[str] = None
     ) -> Union[str, Dict[str, str]]:
         """
         Crawl URLs and extract their text content.
 
         Args:
             url: Single URL string or list of URLs to crawl
-            search_query: Optional query string to filter content using BM25 algorithm
 
         Returns:
             The extracted text content from the URL(s)
@@ -122,13 +124,13 @@ class CrawlTools(Toolkit):
 
         # Handle single URL
         if isinstance(url, str):
-            return asyncio.run(self._async_crawl(url, search_query))
+            return asyncio.run(self._async_crawl(url))  # , search_query))
 
         # Handle list of URLs
         results = {}
         for single_url in url:
             results[single_url] = asyncio.run(
-                self._async_crawl(single_url, search_query)
+                self._async_crawl(single_url)  # , search_query)
             )
         return results
 
@@ -186,8 +188,6 @@ class CrawlTools(Toolkit):
                 # Truncate if needed
                 if self.max_length and len(content) > self.max_length:
                     content = content[: self.max_length] + "..."
-
-                time.sleep(10) # Sleep to avoid rate limiting issues
 
                 return content
 

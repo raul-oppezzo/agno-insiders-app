@@ -35,8 +35,7 @@ Un'applicazione Python basata su AI per identificare e raccogliere informazioni 
 ## 📖 Utilizzo
 
     ```bash
-    cd src
-    uv run main.py -c company_name
+    uv run main.py -c "company_name"
     ```
 
 ## 📋 Dipendenze Principali

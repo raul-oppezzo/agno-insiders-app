@@ -36,7 +36,7 @@ class Role(BaseModel):
 
 class Insider(BaseModel):
     name: Optional[str] = Field(..., description="name of the insider")
-    role: Optional[List[Role]] = Field(
+    roles: Optional[List[Role]] = Field(
         None, description="list of specific roles held by the insider"
     )
     date_of_birth: Optional[str] = Field(
@@ -153,7 +153,7 @@ class InsidersWorkflow(Workflow):
         exponential_backoff=True,
         retries=3,
         use_json_mode=True,
-        response_model=GovernanceReportResults,
+        response_model=SearchResults,
     )
 
     # An agent to search the insiders on the web
@@ -259,8 +259,8 @@ class InsidersWorkflow(Workflow):
                 content="Failed to crawl governance report.",
             )
 
-        # Sleep for 30 seconds to avoid rate limiting issues
-        time.sleep(30)
+        # Sleep for 15 seconds to avoid rate limiting issues
+        time.sleep(15)
 
         insiders_web_agent_response = self.insiders_web_agent.run(
             f"Please search the web to find all the insiders of the company {company_name} and extract all the insiders and informations related.",

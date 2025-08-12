@@ -1,0 +1,219 @@
+{
+  "report_url": "https://brem-p-001.sitecorecontenthub.cloud/api/public/content/c86ca08d55224a0983020d7584010bb1?v=b7211f20",
+  "company": {
+    "name": "Brembo N.V.",
+    "address": "Amsterdam, the Netherlands (registered office); Via Stezzano 87, Bergamo, Italy (business and corporate headquarters)"
+  },
+  "governing_bodies": [
+    {
+      "name": "Board of Directors"
+    },
+    {
+      "name": "Audit, Risk and Sustainability Committee"
+    },
+    {
+      "name": "Remuneration and Appointment Committee"
+    },
+    {
+      "name": "Supervisory Committee"
+    }
+  ],
+  "insiders": [
+    {
+      "name": "Matteo Tiraboschi",
+      "date_of_birth": "1967",
+      "city_of_birth": "Bergamo"
+    },
+    {
+      "name": "Daniele Schillaci",
+      "date_of_birth": "1964",
+      "city_of_birth": "Sicily"
+    },
+    {
+      "name": "Cristina Bombassei",
+      "date_of_birth": "1968"
+    },
+    {
+      "name": "Roberto Vavassori",
+      "date_of_birth": "1959"
+    },
+    {
+      "name": "Elisabetta Magistretti",
+      "date_of_birth": "1947"
+    },
+    {
+      "name": "Elizabeth M. Robinson",
+      "date_of_birth": "1956"
+    },
+    {
+      "name": "Manuela Soffientini",
+      "date_of_birth": "1959"
+    },
+    {
+      "name": "Gianfelice Rocca",
+      "date_of_birth": "1948"
+    },
+    {
+      "name": "Umberto Nicodano",
+      "date_of_birth": "1952"
+    },
+    {
+      "name": "Giancarlo Dallera",
+      "date_of_birth": "1946"
+    },
+    {
+      "name": "Michela Schizzi",
+      "date_of_birth": "1982-08-30",
+      "city_of_birth": "Viareggio (Lucca)"
+    },
+    {
+      "name": "Alberto Bombassei"
+    },
+    {
+      "name": "Giovanni Canavotto"
+    },
+    {
+      "name": "Matteo Tradii"
+    }
+  ],
+  "roles": [
+    {
+      "insider_name": "Matteo Tiraboschi",
+      "governing_body": "Board of Directors",
+      "title": "Executive Chairman",
+      "date_of_first_appointment": "2002-04-24"
+    },
+    {
+      "insider_name": "Daniele Schillaci",
+      "governing_body": "Board of Directors",
+      "title": "Chief Executive Officer",
+      "date_of_first_appointment": "2019-06-28"
+    },
+    {
+      "insider_name": "Cristina Bombassei",
+      "governing_body": "Board of Directors",
+      "title": "Executive Director",
+      "date_of_first_appointment": "1997-12-16"
+    },
+    {
+      "insider_name": "Cristina Bombassei",
+      "title": "Chief Legacy Officer"
+    },
+    {
+      "insider_name": "Cristina Bombassei",
+      "title": "Director in charge of the Internal Control and Risk Management System",
+      "date_of_first_appointment": "2023-04-20"
+    },
+    {
+      "insider_name": "Roberto Vavassori",
+      "governing_body": "Board of Directors",
+      "title": "Executive Director",
+      "date_of_first_appointment": "2021-12-17"
+    },
+    {
+      "insider_name": "Roberto Vavassori",
+      "title": "Chief Public Affairs & Institutional Relations Officer"
+    },
+    {
+      "insider_name": "Elisabetta Magistretti",
+      "governing_body": "Board of Directors",
+      "title": "Non-Executive Director",
+      "date_of_first_appointment": "2020-04-23"
+    },
+    {
+      "insider_name": "Elisabetta Magistretti",
+      "governing_body": "Audit, Risk and Sustainability Committee",
+      "title": "Chairwoman"
+    },
+    {
+      "insider_name": "Elisabetta Magistretti",
+      "governing_body": "Supervisory Committee",
+      "title": "Member"
+    },
+    {
+      "insider_name": "Elizabeth M. Robinson",
+      "governing_body": "Board of Directors",
+      "title": "Non-Executive Director",
+      "date_of_first_appointment": "2020-04-23"
+    },
+    {
+      "insider_name": "Elizabeth M. Robinson",
+      "governing_body": "Remuneration and Appointment Committee",
+      "title": "Member"
+    },
+    {
+      "insider_name": "Manuela Soffientini",
+      "governing_body": "Board of Directors",
+      "title": "Lead Non-Executive Director",
+      "date_of_first_appointment": "2022-03-03"
+    },
+    {
+      "insider_name": "Manuela Soffientini",
+      "governing_body": "Remuneration and Appointment Committee",
+      "title": "Member"
+    },
+    {
+      "insider_name": "Manuela Soffientini",
+      "governing_body": "Audit, Risk and Sustainability Committee",
+      "title": "Member"
+    },
+    {
+      "insider_name": "Gianfelice Rocca",
+      "governing_body": "Board of Directors",
+      "title": "Non-Executive Director",
+      "date_of_first_appointment": "2011-04-29"
+    },
+    {
+      "insider_name": "Gianfelice Rocca",
+      "title": "President of the Techint Group"
+    },
+    {
+      "insider_name": "Umberto Nicodano",
+      "governing_body": "Board of Directors",
+      "title": "Non-Executive Director",
+      "date_of_first_appointment": "2000-05-03"
+    },
+    {
+      "insider_name": "Giancarlo Dallera",
+      "governing_body": "Board of Directors",
+      "title": "Non-Executive Director",
+      "date_of_first_appointment": "2023-04-20"
+    },
+    {
+      "insider_name": "Giancarlo Dallera",
+      "governing_body": "Remuneration and Appointment Committee",
+      "title": "Chairman"
+    },
+    {
+      "insider_name": "Michela Schizzi",
+      "governing_body": "Board of Directors",
+      "title": "Non-Executive Director",
+      "date_of_first_appointment": "2023-04-20"
+    },
+    {
+      "insider_name": "Michela Schizzi",
+      "governing_body": "Audit, Risk and Sustainability Committee",
+      "title": "Member"
+    },
+    {
+      "insider_name": "Alberto Bombassei",
+      "title": "Chairman Emeritus",
+      "date_of_first_appointment": "2021-12-17"
+    },
+    {
+      "insider_name": "Giovanni Canavotto",
+      "governing_body": "Supervisory Committee",
+      "title": "Chairman"
+    },
+    {
+      "insider_name": "Matteo Tradii",
+      "title": "Chief Internal Audit Officer",
+      "date_of_first_appointment": "2022-09-15"
+    },
+    {
+      "insider_name": "Matteo Tradii",
+      "governing_body": "Supervisory Committee",
+      "title": "Member"
+    }
+  ]
+}

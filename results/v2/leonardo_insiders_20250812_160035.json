@@ -1,0 +1,581 @@
+{                                                                                                                                                            
+        "report_url": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319",                                          
+        "company": {                                                                                                                                               
+          "name": "LEONARDO – Società per azioni",                                                                                                                 
+          "address": "Piazza Monte Grappa n. 4, Rome",                                                                                                             
+          "isin": "IT0003856405",                                                                                                                                  
+          "vat_number": "00881841001",                                                                                                                             
+          "ticker": "LDO"                                                                                                                                          
+        },                                                                                                                                                         
+        "governing_bodies": [                                                                                                                                      
+          {                                                                                                                                                        
+            "name": "Board of Directors"                                                                                                                           
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Control and Risks Committee"                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Nomination and Governance Committee"                                                                                                          
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Remuneration Committee"                                                                                                                       
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Sustainability and Innovation Committee"                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Board of Statutory Auditors"                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Surveillance Body"                                                                                                                            
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Coordination and Consultation Body for the Prevention of Corruption"                                                                          
+          }                                                                                                                                                        
+        ],                                                                                                                                                         
+        "insiders": [                                                                                                                                              
+          {                                                                                                                                                        
+            "name": "Stefano Pontecorvo",                                                                                                                          
+            "date_of_birth": "1957-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Roberto Cingolani",                                                                                                                           
+            "date_of_birth": "1961-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Trifone Altieri",                                                                                                                             
+            "date_of_birth": "1975-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Giancarlo Ghislanzoni",                                                                                                                       
+            "date_of_birth": "1960-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Enrica Giorgetti",                                                                                                                            
+            "date_of_birth": "1956-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Dominique Levy",                                                                                                                              
+            "date_of_birth": "1969-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Francesco Macrì",                                                                                                                             
+            "date_of_birth": "1973-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Cristina Manara",                                                                                                                             
+            "date_of_birth": "1978-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Marcello Sala",                                                                                                                               
+            "date_of_birth": "1968-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Silvia Stefini",                                                                                                                              
+            "date_of_birth": "1964-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Elena Vasco",                                                                                                                                 
+            "date_of_birth": "1964-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Steven Duncan Wood",                                                                                                                          
+            "date_of_birth": "1982-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Luca Rossi",                                                                                                                                  
+            "date_of_birth": "1967-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Marco Fazzini",                                                                                                                               
+            "date_of_birth": "1974-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Giulia Pusterla",                                                                                                                             
+            "date_of_birth": "1960-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Paola Simonelli",                                                                                                                             
+            "date_of_birth": "1964-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Alessandro Zavaglia",                                                                                                                         
+            "date_of_birth": "1970-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Giuseppe Cerati",                                                                                                                             
+            "date_of_birth": "1962-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Fabrizio Pezzani",                                                                                                                            
+            "date_of_birth": "1948-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Serenella Rossano",                                                                                                                           
+            "date_of_birth": "1964-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Monica Scipione",                                                                                                                             
+            "date_of_birth": "1971-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Anna Rita de Mauro",                                                                                                                          
+            "date_of_birth": "1970-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Sara Fornasiero",                                                                                                                             
+            "date_of_birth": "1968-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Leonardo Quagliata",                                                                                                                          
+            "date_of_birth": "1953-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Amedeo Sacrestano",                                                                                                                           
+            "date_of_birth": "1968-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Eugenio Pinto",                                                                                                                               
+            "date_of_birth": "1959-XX-XX",                                                                                                                         
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Lorenzo Mariani",                                                                                                                             
+            "date_of_birth": null,                                                                                                                                 
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Alessandra Genco",                                                                                                                            
+            "date_of_birth": null,                                                                                                                                 
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Domenica Lista",                                                                                                                              
+            "date_of_birth": null,                                                                                                                                 
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Salvatore Lampone",                                                                                                                           
+            "date_of_birth": null,                                                                                                                                 
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Federico Maurizo D’Andrea",                                                                                                                   
+            "date_of_birth": null,                                                                                                                                 
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Giandomenico Caiazza",                                                                                                                        
+            "date_of_birth": null,                                                                                                                                 
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Raffaele Cusmai",                                                                                                                             
+            "date_of_birth": null,                                                                                                                                 
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Romina Guglielmetti",                                                                                                                         
+            "date_of_birth": null,                                                                                                                                 
+            "city_of_birth": null                                                                                                                                  
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "name": "Tommaso Miele",                                                                                                                               
+            "date_of_birth": null,                                                                                                                                 
+            "city_of_birth": null                                                                                                                                  
+          }                                                                                                                                                        
+        ],                                                                                                                                                         
+        "roles": [                                                                                                                                                 
+          {                                                                                                                                                        
+            "insider_name": "Stefano Pontecorvo",                                                                                                                  
+            "governing_body": "Board of Directors",                                                                                                                
+            "title": "Chairman",                                                                                                                                   
+            "date_of_first_appointment": "2023-05-09"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Roberto Cingolani",                                                                                                                   
+            "governing_body": "Board of Directors",                                                                                                                
+            "title": "Chief Executive Officer and General Manager",                                                                                                
+            "date_of_first_appointment": "2023-05-09"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Trifone Altieri",                                                                                                                     
+            "governing_body": "Board of Directors",                                                                                                                
+            "title": "Non-executive Director",                                                                                                                     
+            "date_of_first_appointment": "2023-05-09"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Trifone Altieri",                                                                                                                     
+            "governing_body": "Control and Risks Committee",                                                                                                       
+            "title": "Member",                                                                                                                                     
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Trifone Altieri",                                                                                                                     
+            "governing_body": "Remuneration Committee",                                                                                                            
+            "title": "Member",                                                                                                                                     
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Giancarlo Ghislanzoni",                                                                                                               
+            "governing_body": "Board of Directors",                                                                                                                
+            "title": "Lead Independent Director",                                                                                                                  
+            "date_of_first_appointment": "2023-05-09"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Giancarlo Ghislanzoni",                                                                                                               
+            "governing_body": "Nomination and Governance Committee",                                                                                               
+            "title": "Member",                                                                                                                                     
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Giancarlo Ghislanzoni",                                                                                                               
+            "governing_body": "Remuneration Committee",                                                                                                            
+            "title": "Member",                                                                                                                                     
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Giancarlo Ghislanzoni",                                                                                                               
+            "governing_body": "Sustainability and Innovation Committee",                                                                                           
+            "title": "Member",                                                                                                                                     
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Enrica Giorgetti",                                                                                                                    
+            "governing_body": "Board of Directors",                                                                                                                
+            "title": "Non-executive Director",                                                                                                                     
+            "date_of_first_appointment": "2023-05-09"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Enrica Giorgetti",                                                                                                                    
+            "governing_body": "Nomination and Governance Committee",                                                                                               
+            "title": "Member",                                                                                                                                     
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Enrica Giorgetti",                                                                                                                    
+            "governing_body": "Remuneration Committee",                                                                                                            
+            "title": "Chairman",                                                                                                                                   
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Dominique Levy",                                                                                                                      
+            "governing_body": "Board of Directors",                                                                                                                
+            "title": "Non-executive Director",                                                                                                                     
+            "date_of_first_appointment": "2023-05-09"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Dominique Levy",                                                                                                                      
+            "governing_body": "Control and Risks Committee",                                                                                                       
+            "title": "Member",                                                                                                                                     
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Dominique Levy",                                                                                                                      
+            "governing_body": "Nomination and Governance Committee",                                                                                               
+            "title": "Member",                                                                                                                                     
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Francesco Macrì",                                                                                                                     
+            "governing_body": "Board of Directors",                                                                                                                
+            "title": "Non-executive Director",                                                                                                                     
+            "date_of_first_appointment": "2023-05-09"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Francesco Macrì",                                                                                                                     
+            "governing_body": "Nomination and Governance Committee",                                                                                               
+            "title": "Member",                                                                                                                                     
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Francesco Macrì",                                                                                                                     
+            "governing_body": "Sustainability and Innovation Committee",                                                                                           
+            "title": "Member",                                                                                                                                     
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Cristina Manara",                                                                                                                     
+            "governing_body": "Board of Directors",                                                                                                                
+            "title": "Non-executive Director",                                                                                                                     
+            "date_of_first_appointment": "2023-05-09"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Cristina Manara",                                                                                                                     
+            "governing_body": "Control and Risks Committee",                                                                                                       
+            "title": "Member",                                                                                                                                     
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Cristina Manara",                                                                                                                     
+            "governing_body": "Sustainability and Innovation Committee",                                                                                           
+            "title": "Chairman",                                                                                                                                   
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Marcello Sala",                                                                                                                       
+            "governing_body": "Board of Directors",                                                                                                                
+            "title": "Non-executive Director",                                                                                                                     
+            "date_of_first_appointment": "2023-05-09"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Marcello Sala",                                                                                                                       
+            "governing_body": "Control and Risks Committee",                                                                                                       
+            "title": "Member",                                                                                                                                     
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Marcello Sala",                                                                                                                       
+            "governing_body": "Sustainability and Innovation Committee",                                                                                           
+            "title": "Member",                                                                                                                                     
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Silvia Stefini",                                                                                                                      
+            "governing_body": "Board of Directors",                                                                                                                
+            "title": "Non-executive Director",                                                                                                                     
+            "date_of_first_appointment": "2023-05-09"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Silvia Stefini",                                                                                                                      
+            "governing_body": "Control and Risks Committee",                                                                                                       
+            "title": "Chairman",                                                                                                                                   
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Silvia Stefini",                                                                                                                      
+            "governing_body": "Nomination and Governance Committee",                                                                                               
+            "title": "Member",                                                                                                                                     
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Elena Vasco",                                                                                                                         
+            "governing_body": "Board of Directors",                                                                                                                
+            "title": "Non-executive Director",                                                                                                                     
+            "date_of_first_appointment": "2023-05-09"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Elena Vasco",                                                                                                                         
+            "governing_body": "Nomination and Governance Committee",                                                                                               
+            "title": "Chairman",                                                                                                                                   
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Elena Vasco",                                                                                                                         
+            "governing_body": "Remuneration Committee",                                                                                                            
+            "title": "Member",                                                                                                                                     
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Steven Duncan Wood",                                                                                                                  
+            "governing_body": "Board of Directors",                                                                                                                
+            "title": "Non-executive Director",                                                                                                                     
+            "date_of_first_appointment": "2023-05-09"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Steven Duncan Wood",                                                                                                                  
+            "governing_body": "Remuneration Committee",                                                                                                            
+            "title": "Member",                                                                                                                                     
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Steven Duncan Wood",                                                                                                                  
+            "governing_body": "Sustainability and Innovation Committee",                                                                                           
+            "title": "Member",                                                                                                                                     
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Luca Rossi",                                                                                                                          
+            "governing_body": "Board of Statutory Auditors",                                                                                                       
+            "title": "Chairman",                                                                                                                                   
+            "date_of_first_appointment": "2024-05-24"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Luca Rossi",                                                                                                                          
+            "governing_body": "Board of Statutory Auditors",                                                                                                       
+            "title": "Alternate Auditor",                                                                                                                          
+            "date_of_first_appointment": "2018-11-08"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Marco Fazzini",                                                                                                                       
+            "governing_body": "Board of Statutory Auditors",                                                                                                       
+            "title": "Regular Auditor",                                                                                                                            
+            "date_of_first_appointment": "2024-05-24"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Giulia Pusterla",                                                                                                                     
+            "governing_body": "Board of Statutory Auditors",                                                                                                       
+            "title": "Regular Auditor",                                                                                                                            
+            "date_of_first_appointment": "2024-05-24"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Paola Simonelli",                                                                                                                     
+            "governing_body": "Board of Statutory Auditors",                                                                                                       
+            "title": "Regular Auditor",                                                                                                                            
+            "date_of_first_appointment": "2024-05-24"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Alessandro Zavaglia",                                                                                                                 
+            "governing_body": "Board of Statutory Auditors",                                                                                                       
+            "title": "Regular Auditor",                                                                                                                            
+            "date_of_first_appointment": "2024-05-24"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Giuseppe Cerati",                                                                                                                     
+            "governing_body": "Board of Statutory Auditors",                                                                                                       
+            "title": "Alternate Auditor",                                                                                                                          
+            "date_of_first_appointment": "2019-05-16"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Fabrizio Pezzani",                                                                                                                    
+            "governing_body": "Board of Statutory Auditors",                                                                                                       
+            "title": "Alternate Auditor",                                                                                                                          
+            "date_of_first_appointment": "2024-05-24"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Serenella Rossano",                                                                                                                   
+            "governing_body": "Board of Statutory Auditors",                                                                                                       
+            "title": "Alternate Auditor",                                                                                                                          
+            "date_of_first_appointment": "2024-05-24"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Monica Scipione",                                                                                                                     
+            "governing_body": "Board of Statutory Auditors",                                                                                                       
+            "title": "Alternate Auditor",                                                                                                                          
+            "date_of_first_appointment": "2024-05-24"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Anna Rita de Mauro",                                                                                                                  
+            "governing_body": "Board of Statutory Auditors",                                                                                                       
+            "title": "Regular Auditor",                                                                                                                            
+            "date_of_first_appointment": "2021-05-19"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Sara Fornasiero",                                                                                                                     
+            "governing_body": "Board of Statutory Auditors",                                                                                                       
+            "title": "Regular Auditor",                                                                                                                            
+            "date_of_first_appointment": "2018-05-15"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Leonardo Quagliata",                                                                                                                  
+            "governing_body": "Board of Statutory Auditors",                                                                                                       
+            "title": "Regular Auditor",                                                                                                                            
+            "date_of_first_appointment": "2018-05-15"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Amedeo Sacrestano",                                                                                                                   
+            "governing_body": "Board of Statutory Auditors",                                                                                                       
+            "title": "Regular Auditor",                                                                                                                            
+            "date_of_first_appointment": "2021-05-19"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Eugenio Pinto",                                                                                                                       
+            "governing_body": "Board of Statutory Auditors",                                                                                                       
+            "title": "Alternate Auditor",                                                                                                                          
+            "date_of_first_appointment": "2021-05-19"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Lorenzo Mariani",                                                                                                                     
+            "governing_body": null,                                                                                                                                
+            "title": "Co-General Manager",                                                                                                                         
+            "date_of_first_appointment": "2023-06-01"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Alessandra Genco",                                                                                                                    
+            "governing_body": null,                                                                                                                                
+            "title": "Officer in charge of financial reporting",                                                                                                   
+            "date_of_first_appointment": "2023-05-09"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Alessandra Genco",                                                                                                                    
+            "governing_body": null,                                                                                                                                
+            "title": "Chief Financial Officer",                                                                                                                    
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Domenica Lista",                                                                                                                      
+            "governing_body": null,                                                                                                                                
+            "title": "Secretary of the Board of Directors and of the internal Board Committees",                                                                   
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Domenica Lista",                                                                                                                      
+            "governing_body": null,                                                                                                                                
+            "title": "Chief Corporate Bodies Affairs Officer",                                                                                                     
+            "date_of_first_appointment": null                                                                                                                      
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Salvatore Lampone",                                                                                                                   
+            "governing_body": null,                                                                                                                                
+            "title": "Chief Audit Executive (CAE)",                                                                                                                
+            "date_of_first_appointment": "2024-05-15"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Salvatore Lampone",                                                                                                                   
+            "governing_body": null,                                                                                                                                
+            "title": "Head of the Group Internal Audit OU",                                                                                                        
+            "date_of_first_appointment": "2024-05-15"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Salvatore Lampone",                                                                                                                   
+            "governing_body": "Surveillance Body",                                                                                                                 
+            "title": "Internal Member",                                                                                                                            
+            "date_of_first_appointment": "2023-07-28"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Federico Maurizo D’Andrea",                                                                                                           
+            "governing_body": "Surveillance Body",                                                                                                                 
+            "title": "Chairman",                                                                                                                                   
+            "date_of_first_appointment": "2023-07-28"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Giandomenico Caiazza",                                                                                                                
+            "governing_body": "Surveillance Body",                                                                                                                 
+            "title": "Member",                                                                                                                                     
+            "date_of_first_appointment": "2023-07-28"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Raffaele Cusmai",                                                                                                                     
+            "governing_body": "Surveillance Body",                                                                                                                 
+            "title": "Member",                                                                                                                                     
+            "date_of_first_appointment": "2023-07-28"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Romina Guglielmetti",                                                                                                                 
+            "governing_body": "Surveillance Body",                                                                                                                 
+            "title": "Member",                                                                                                                                     
+            "date_of_first_appointment": "2023-07-28"                                                                                                              
+          },                                                                                                                                                       
+          {                                                                                                                                                        
+            "insider_name": "Tommaso Miele",                                                                                                                       
+            "governing_body": "Court of Auditors",                                                                                                                 
+            "title": "Delegated Judge",                                                                                                                            
+            "date_of_first_appointment": "2022-07-25"                                                                                                              
+          }                                                                                                                                                        
+        ]                                                                                                                                                          
+      }         
