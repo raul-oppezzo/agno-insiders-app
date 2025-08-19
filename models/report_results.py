@@ -4,19 +4,22 @@ from pydantic import BaseModel, Field
 
 class Role(BaseModel):
     insider_name: str = Field(
-        ..., description="The name of the insider holding the role."
+        ..., description="The full name of the insider holding the role."
     )
     governing_body: Optional[str] = Field(
         default=None,
-        description="The governing body to which the role belongs (e.g., 'board of directors') if any.",
+        description="The governing body to which the role belongs (e.g., 'board of directors') if the role belongs to a governing body.",
     )
     title: str = Field(
         ...,
-        description='The title of the role held by the insider (e.g. "executive director", "lead independent director").',
+        description='The exact title of the role held by the insider (e.g. "executive director", "lead independent director").',
     )
     date_of_first_appointment: Optional[str] = Field(
         default=None,
         description="The date of first appointment to the position.",
+    )
+    description: str = Field(
+        ..., description="A brief decription (max 50 characters) of the role."
     )
 
 
@@ -42,12 +45,17 @@ class GoverningBody(BaseModel):
     name: str = Field(
         ..., description="The name of the governing body (e.g., 'board of directors')."
     )
+    description: str = Field(
+        ...,
+        description="A brief description of the governing body (like purpose and function).",
+    )
 
 
 class Insider(BaseModel):
     name: str = Field(..., description="The name of the insider.")
     date_of_birth: Optional[str] = Field(
-        default=None, description="The date of birth of the insider."
+        default=None,
+        description="The date of birth of the insider (YYYY-MM-dd format).",
     )
     city_of_birth: Optional[str] = Field(
         default=None, description="The city of birth of the insider."

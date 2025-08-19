@@ -32,8 +32,9 @@ class ReportAnalyzeAgent:
             ),
             tools=[
                 PDFTools(cache_results=True),
-                ReasoningTools(add_instructions=True),
+                # ReasoningTools(add_instructions=True),
             ],
+            # reasoning=True, # Uses the same model of the agent to draft a reasoning chain before running the agent
             description=DESCRIPTION,
             additional_context=ADDITIONAL_CONTEXT,
             instructions=INSTRUCTIONS,
@@ -77,7 +78,7 @@ class ReportAnalyzeAgent:
                 )
 
             logger.info(f"Successfully analyzed report at {report_url}.")
-            
+
             return response.content
         except Exception as e:
             logger.error(f"Error in {self.agent.name} during report analysis: {str(e)}")

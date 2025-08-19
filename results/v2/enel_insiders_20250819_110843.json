@@ -1,0 +1,371 @@
+{
+  "report_url": "https://www.enel.com/content/dam/enel-com/documenti/investitori/governance/relazioni-sulla-corporate-governance/en/report-corporate-governance_2024.pdf",
+  "company": {
+    "name": "Enel S.p.A.",
+    "ticker": "ENEL"
+  },
+  "governing_bodies": [
+    {
+      "name": "Board of Directors"
+    },
+    {
+      "name": "Board of Statutory Auditors"
+    },
+    {
+      "name": "Nomination and Compensation Committee"
+    },
+    {
+      "name": "Control and Risk Committee"
+    },
+    {
+      "name": "Related Parties Committee"
+    },
+    {
+      "name": "Corporate Governance and Sustainability Committee"
+    },
+    {
+      "name": "Supervisory Body"
+    },
+    {
+      "name": "Italian Court of Auditors"
+    }
+  ],
+  "insiders": [
+    {
+      "name": "Paolo Scaroni",
+      "date_of_birth": "1946-01-01"
+    },
+    {
+      "name": "Flavio Cattaneo",
+      "date_of_birth": "1963-01-01"
+    },
+    {
+      "name": "Johanna Arbib",
+      "date_of_birth": "1969-01-01"
+    },
+    {
+      "name": "Mario Corsi",
+      "date_of_birth": "1954-01-01"
+    },
+    {
+      "name": "Olga Cuccurullo",
+      "date_of_birth": "1972-01-01"
+    },
+    {
+      "name": "Dario Frigerio",
+      "date_of_birth": "1962-01-01"
+    },
+    {
+      "name": "Fiammetta Salmoni",
+      "date_of_birth": "1966-01-01"
+    },
+    {
+      "name": "Alessandra Stabilini",
+      "date_of_birth": "1970-01-01"
+    },
+    {
+      "name": "Alessandro Zehentner",
+      "date_of_birth": "1962-01-01"
+    },
+    {
+      "name": "Barbara Tadolini",
+      "date_of_birth": "1960-01-01"
+    },
+    {
+      "name": "Luigi Borré",
+      "date_of_birth": "1965-01-01"
+    },
+    {
+      "name": "Maura Campra",
+      "date_of_birth": "1961-01-01"
+    },
+    {
+      "name": "Anna Spina"
+    },
+    {
+      "name": "Silvia Fiori"
+    },
+    {
+      "name": "Stefano De Angelis"
+    },
+    {
+      "name": "Filomena Passeggio"
+    },
+    {
+      "name": "Salvatore De Bellis"
+    },
+    {
+      "name": "Andrea Mascetti"
+    },
+    {
+      "name": "Davide Utili"
+    },
+    {
+      "name": "Francesco Petronio"
+    },
+    {
+      "name": "Carolyn A. Dittmeier",
+      "date_of_birth": "1956-01-01"
+    },
+    {
+      "name": "Tiziano Onesti",
+      "date_of_birth": "1960-01-01"
+    },
+    {
+      "name": "Piera Vitali",
+      "date_of_birth": "1949-01-01"
+    }
+  ],
+  "roles": [
+    {
+      "insider_name": "Paolo Scaroni",
+      "governing_body": "Board of Directors",
+      "title": "Chairman",
+      "date_of_first_appointment": "2023-05-10"
+    },
+    {
+      "insider_name": "Paolo Scaroni",
+      "governing_body": "Corporate Governance and Sustainability Committee",
+      "title": "Chairman",
+      "date_of_first_appointment": "2023-06-01"
+    },
+    {
+      "insider_name": "Flavio Cattaneo",
+      "title": "Chief Executive Officer",
+      "date_of_first_appointment": "2023-05-10"
+    },
+    {
+      "insider_name": "Flavio Cattaneo",
+      "title": "General Manager",
+      "date_of_first_appointment": "2023-05-10"
+    },
+    {
+      "insider_name": "Flavio Cattaneo",
+      "governing_body": "Enel Iberia",
+      "title": "Chairman",
+      "date_of_first_appointment": "2023-06-12"
+    },
+    {
+      "insider_name": "Flavio Cattaneo",
+      "title": "Vice Chairman",
+      "date_of_first_appointment": "2023-06-20"
+    },
+    {
+      "insider_name": "Johanna Arbib",
+      "governing_body": "Board of Directors",
+      "title": "Non-executive independent director",
+      "date_of_first_appointment": "2023-05-10"
+    },
+    {
+      "insider_name": "Johanna Arbib",
+      "governing_body": "Nomination and Compensation Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2023-06-01"
+    },
+    {
+      "insider_name": "Johanna Arbib",
+      "governing_body": "Corporate Governance and Sustainability Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2023-06-01"
+    },
+    {
+      "insider_name": "Johanna Arbib",
+      "governing_body": "Corporate Governance and Sustainability Committee",
+      "title": "Non-executive director with duty to monitor climate and Net Zero transition issues",
+      "date_of_first_appointment": "2024-02-01"
+    },
+    {
+      "insider_name": "Mario Corsi",
+      "governing_body": "Board of Directors",
+      "title": "Non-executive independent director",
+      "date_of_first_appointment": "2023-05-10"
+    },
+    {
+      "insider_name": "Mario Corsi",
+      "governing_body": "Control and Risk Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2023-06-01"
+    },
+    {
+      "insider_name": "Mario Corsi",
+      "governing_body": "Related Parties Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2023-06-01"
+    },
+    {
+      "insider_name": "Olga Cuccurullo",
+      "governing_body": "Board of Directors",
+      "title": "Non-executive director",
+      "date_of_first_appointment": "2023-05-10"
+    },
+    {
+      "insider_name": "Olga Cuccurullo",
+      "governing_body": "Control and Risk Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2023-06-01"
+    },
+    {
+      "insider_name": "Olga Cuccurullo",
+      "governing_body": "Nomination and Compensation Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2023-06-01"
+    },
+    {
+      "insider_name": "Dario Frigerio",
+      "governing_body": "Board of Directors",
+      "title": "Non-executive independent director",
+      "date_of_first_appointment": "2023-05-10"
+    },
+    {
+      "insider_name": "Dario Frigerio",
+      "governing_body": "Control and Risk Committee",
+      "title": "Chairman",
+      "date_of_first_appointment": "2023-06-01"
+    },
+    {
+      "insider_name": "Dario Frigerio",
+      "governing_body": "Nomination and Compensation Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2023-06-01"
+    },
+    {
+      "insider_name": "Fiammetta Salmoni",
+      "governing_body": "Board of Directors",
+      "title": "Non-executive independent director",
+      "date_of_first_appointment": "2023-05-10"
+    },
+    {
+      "insider_name": "Fiammetta Salmoni",
+      "governing_body": "Related Parties Committee",
+      "title": "Chairman",
+      "date_of_first_appointment": "2023-06-01"
+    },
+    {
+      "insider_name": "Fiammetta Salmoni",
+      "governing_body": "Nomination and Compensation Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2023-06-01"
+    },
+    {
+      "insider_name": "Alessandra Stabilini",
+      "governing_body": "Board of Directors",
+      "title": "Non-executive independent director",
+      "date_of_first_appointment": "2023-05-10"
+    },
+    {
+      "insider_name": "Alessandra Stabilini",
+      "governing_body": "Nomination and Compensation Committee",
+      "title": "Chairman",
+      "date_of_first_appointment": "2023-06-01"
+    },
+    {
+      "insider_name": "Alessandra Stabilini",
+      "governing_body": "Corporate Governance and Sustainability Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2023-06-01"
+    },
+    {
+      "insider_name": "Alessandro Zehentner",
+      "governing_body": "Board of Directors",
+      "title": "Non-executive independent director",
+      "date_of_first_appointment": "2023-05-10"
+    },
+    {
+      "insider_name": "Alessandro Zehentner",
+      "governing_body": "Control and Risk Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2023-06-01"
+    },
+    {
+      "insider_name": "Alessandro Zehentner",
+      "governing_body": "Related Parties Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2023-06-01"
+    },
+    {
+      "insider_name": "Barbara Tadolini",
+      "governing_body": "Board of Statutory Auditors",
+      "title": "Chairman",
+      "date_of_first_appointment": "2019-05-19"
+    },
+    {
+      "insider_name": "Luigi Borré",
+      "governing_body": "Board of Statutory Auditors",
+      "title": "Regular Statutory Auditor",
+      "date_of_first_appointment": "2022-05-19"
+    },
+    {
+      "insider_name": "Maura Campra",
+      "governing_body": "Board of Statutory Auditors",
+      "title": "Regular Statutory Auditor",
+      "date_of_first_appointment": "2022-05-19"
+    },
+    {
+      "insider_name": "Anna Spina",
+      "title": "Head of the “Audit” Function",
+      "date_of_first_appointment": "2024-06-01"
+    },
+    {
+      "insider_name": "Silvia Fiori",
+      "title": "Head of the “Audit” Function",
+      "date_of_first_appointment": "2014-07-01"
+    },
+    {
+      "insider_name": "Stefano De Angelis",
+      "title": "Head of the “Administration, Finance and Control” function",
+      "date_of_first_appointment": "2024-01-01"
+    },
+    {
+      "insider_name": "Stefano De Angelis",
+      "title": "Executive in charge of preparing corporate accounting documents",
+      "date_of_first_appointment": "2024-01-01"
+    },
+    {
+      "insider_name": "Filomena Passeggio",
+      "governing_body": "Supervisory Body",
+      "title": "Chairman",
+      "date_of_first_appointment": "2023-07-01"
+    },
+    {
+      "insider_name": "Salvatore De Bellis",
+      "governing_body": "Supervisory Body",
+      "title": "Member",
+      "date_of_first_appointment": "2023-07-01"
+    },
+    {
+      "insider_name": "Andrea Mascetti",
+      "governing_body": "Supervisory Body",
+      "title": "Member",
+      "date_of_first_appointment": "2023-07-01"
+    },
+    {
+      "insider_name": "Davide Utili",
+      "title": "Partner responsible for the audit of Enel’s statutory and consolidated financial statement",
+      "date_of_first_appointment": "2023-06-01"
+    },
+    {
+      "insider_name": "Francesco Petronio",
+      "governing_body": "Italian Court of Auditors",
+      "title": "Delegated judge",
+      "date_of_first_appointment": "2024-01-01"
+    },
+    {
+      "insider_name": "Carolyn A. Dittmeier",
+      "governing_body": "Board of Statutory Auditors",
+      "title": "Alternate statutory auditor",
+      "date_of_first_appointment": "2022-01-01"
+    },
+    {
+      "insider_name": "Tiziano Onesti",
+      "governing_body": "Board of Statutory Auditors",
+      "title": "Alternate statutory auditor",
+      "date_of_first_appointment": "2022-01-01"
+    },
+    {
+      "insider_name": "Piera Vitali",
+      "governing_body": "Board of Statutory Auditors",
+      "title": "Alternate statutory auditor",
+      "date_of_first_appointment": "2019-01-01"
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "report_url": "https://www.eni.com/content/dam/enicom/documents/eng/governance/shareholders-meetings/2025/Corporate-Governance-Report-2024.pdf",
+  "company": {
+    "name": "Eni SpA",
+    "address": "Piazzale Enrico Mattei, 1 - Rome - Italy",
+    "vat_number": "00484960588",
+    "ticker": "ENI"
+  },
+  "governing_bodies": [
+    {
+      "name": "Board of Directors",
+      "description": "Strategic management of the Company."
+    },
+    {
+      "name": "Board of Statutory Auditors",
+      "description": "Monitors compliance with law and sound administration principles."
+    },
+    {
+      "name": "Control and Risk Committee",
+      "description": "Supports Board on internal control and risk management."
+    },
+    {
+      "name": "Remuneration Committee",
+      "description": "Advises Board on remuneration policies."
+    },
+    {
+      "name": "Nomination Committee",
+      "description": "Assists Board in director appointments and evaluations."
+    },
+    {
+      "name": "Sustainability and Scenarios Committee",
+      "description": "Advises Board on sustainability and scenarios."
+    },
+    {
+      "name": "231 Supervisory Body",
+      "description": "Monitors Model 231 effectiveness and implementation."
+    },
+    {
+      "name": "Eni Steering Committee",
+      "description": "Examines strategic issues for Board attention."
+    },
+    {
+      "name": "Management Committee",
+      "description": "Examines priority company topics."
+    },
+    {
+      "name": "Eni Regulatory System Committee",
+      "description": "Governs development and application of Regulatory System."
+    },
+    {
+      "name": "Court of Auditors",
+      "description": "Monitors financial management of Eni."
+    }
+  ],
+  "insiders": [
+    {
+      "name": "Andrea Parolini",
+      "date_of_birth": "1967-XX-XX"
+    },
+    {
+      "name": "Antonella Alfonsi"
+    },
+    {
+      "name": "Carolyn Adele Dittmeier",
+      "date_of_birth": "1956-XX-XX",
+      "city_of_birth": "Salem (USA)"
+    },
+    {
+      "name": "Claudio Descalzi",
+      "date_of_birth": "1955-XX-XX",
+      "city_of_birth": "Milan"
+    },
+    {
+      "name": "Claudio Granata"
+    },
+    {
+      "name": "Cristina Sgubin",
+      "date_of_birth": "1980-XX-XX"
+    },
+    {
+      "name": "Elisa Baroncini",
+      "date_of_birth": "1966-XX-XX",
+      "city_of_birth": "Castel San Pietro Terme (BO)"
+    },
+    {
+      "name": "Enrico Maria Bignami",
+      "date_of_birth": "1957-XX-XX"
+    },
+    {
+      "name": "Erika Mandraffino"
+    },
+    {
+      "name": "Federica Seganti",
+      "date_of_birth": "1966-XX-XX",
+      "city_of_birth": "Trieste"
+    },
+    {
+      "name": "Francesco Esposito"
+    },
+    {
+      "name": "Francesco Gattei"
+    },
+    {
+      "name": "Gennaro Mallardo"
+    },
+    {
+      "name": "Gianfranco Cariola"
+    },
+    {
+      "name": "Giovanna Villa"
+    },
+    {
+      "name": "Giovanni Coppola"
+    },
+    {
+      "name": "Giulia De Martino"
+    },
+    {
+      "name": "Giulio Palazzo",
+      "date_of_birth": "1969-XX-XX"
+    },
+    {
+      "name": "Giuseppe Ricci"
+    },
+    {
+      "name": "Giuseppe Zafarana",
+      "date_of_birth": "1963-XX-XX",
+      "city_of_birth": "Piacenza"
+    },
+    {
+      "name": "Grazia Fimiani"
+    },
+    {
+      "name": "Guido Brusco"
+    },
+    {
+      "name": "Lapo Pistelli"
+    },
+    {
+      "name": "Lorenzo Fiorillo"
+    },
+    {
+      "name": "Luca Franceschini"
+    },
+    {
+      "name": "Marcella Caradonna",
+      "date_of_birth": "1959-XX-XX"
+    },
+    {
+      "name": "Massimo Belcredi",
+      "date_of_birth": "1962-XX-XX",
+      "city_of_birth": "Brindisi"
+    },
+    {
+      "name": "Raffaele Ferrara"
+    },
+    {
+      "name": "Raphael Louis L. Vermeir",
+      "date_of_birth": "1955-XX-XX",
+      "city_of_birth": "Merchtem (Belgium)"
+    },
+    {
+      "name": "Roberto Ciciani",
+      "date_of_birth": "1972-XX-XX",
+      "city_of_birth": "Rome"
+    },
+    {
+      "name": "Roberto Ulissi"
+    },
+    {
+      "name": "Rosalba Casiraghi",
+      "date_of_birth": "1950-XX-XX"
+    },
+    {
+      "name": "Stefano Speroni"
+    },
+    {
+      "name": "Ugo Lecis"
+    }
+  ],
+  "roles": [
+    {
+      "insider_name": "Giuseppe Zafarana",
+      "governing_body": "Board of Directors",
+      "title": "Chairman",
+      "date_of_first_appointment": "2023-05-10",
+      "description": "Leads the Board of Directors."
+    },
+    {
+      "insider_name": "Claudio Descalzi",
+      "governing_body": "Board of Directors",
+      "title": "Chief Executive Officer",
+      "date_of_first_appointment": "2014-05-09",
+      "description": "Manages the company's operations."
+    },
+    {
+      "insider_name": "Claudio Descalzi",
+      "title": "General Manager",
+      "date_of_first_appointment": "2014-05-09",
+      "description": "General management responsibilities."
+    },
+    {
+      "insider_name": "Elisa Baroncini",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2023-05-10",
+      "description": "Member of the Board of Directors."
+    },
+    {
+      "insider_name": "Elisa Baroncini",
+      "governing_body": "Nomination Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2023-05-11",
+      "description": "Member of the Nomination Committee."
+    },
+    {
+      "insider_name": "Elisa Baroncini",
+      "governing_body": "Sustainability and Scenarios Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2023-05-11",
+      "description": "Member of the Sustainability and Scenarios Committee."
+    },
+    {
+      "insider_name": "Massimo Belcredi",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2023-05-10",
+      "description": "Member of the Board of Directors."
+    },
+    {
+      "insider_name": "Massimo Belcredi",
+      "governing_body": "Remuneration Committee",
+      "title": "Chair",
+      "date_of_first_appointment": "2023-05-11",
+      "description": "Chairs the Remuneration Committee."
+    },
+    {
+      "insider_name": "Massimo Belcredi",
+      "governing_body": "Nomination Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2023-05-11",
+      "description": "Member of the Nomination Committee."
+    },
+    {
+      "insider_name": "Roberto Ciciani",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2023-05-10",
+      "description": "Member of the Board of Directors."
+    },
+    {
+      "insider_name": "Roberto Ciciani",
+      "governing_body": "Sustainability and Scenarios Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2023-05-11",
+      "description": "Member of the Sustainability and Scenarios Committee."
+    },
+    {
+      "insider_name": "Carolyn Adele Dittmeier",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2023-05-10",
+      "description": "Member of the Board of Directors."
+    },
+    {
+      "insider_name": "Carolyn Adele Dittmeier",
+      "governing_body": "Nomination Committee",
+      "title": "Chair",
+      "date_of_first_appointment": "2023-05-11",
+      "description": "Chairs the Nomination Committee."
+    },
+    {
+      "insider_name": "Carolyn Adele Dittmeier",
+      "governing_body": "Control and Risk Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2023-05-11",
+      "description": "Member of the Control and Risk Committee."
+    },
+    {
+      "insider_name": "Federica Seganti",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2023-05-10",
+      "description": "Member of the Board of Directors."
+    },
+    {
+      "insider_name": "Federica Seganti",
+      "governing_body": "Sustainability and Scenarios Committee",
+      "title": "Chair",
+      "date_of_first_appointment": "2023-05-11",
+      "description": "Chairs the Sustainability and Scenarios Committee."
+    },
+    {
+      "insider_name": "Federica Seganti",
+      "governing_body": "Control and Risk Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2023-05-11",
+      "description": "Member of the Control and Risk Committee."
+    },
+    {
+      "insider_name": "Cristina Sgubin",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2023-05-10",
+      "description": "Member of the Board of Directors."
+    },
+    {
+      "insider_name": "Cristina Sgubin",
+      "governing_body": "Control and Risk Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2023-05-11",
+      "description": "Member of the Control and Risk Committee."
+    },
+    {
+      "insider_name": "Cristina Sgubin",
+      "governing_body": "Remuneration Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2023-05-11",
+      "description": "Member of the Remuneration Committee."
+    },
+    {
+      "insider_name": "Raphael Louis L. Vermeir",
+      "governing_body": "Board of Directors",
+      "title": "Lead independent director",
+      "date_of_first_appointment": "2021-04-29",
+      "description": "Coordinates non-executive and independent directors."
+    },
+    {
+      "insider_name": "Raphael Louis L. Vermeir",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2020-05-XX",
+      "description": "Member of the Board of Directors."
+    },
+    {
+      "insider_name": "Raphael Louis L. Vermeir",
+      "governing_body": "Control and Risk Committee",
+      "title": "Chair",
+      "date_of_first_appointment": "2023-05-11",
+      "description": "Chairs the Control and Risk Committee."
+    },
+    {
+      "insider_name": "Raphael Louis L. Vermeir",
+      "governing_body": "Remuneration Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2023-05-11",
+      "description": "Member of the Remuneration Committee."
+    },
+    {
+      "insider_name": "Luca Franceschini",
+      "title": "Board Secretary and Counsel",
+      "date_of_first_appointment": "2023-05-11",
+      "description": "Supports Board activities and provides advice."
+    },
+    {
+      "insider_name": "Luca Franceschini",
+      "title": "Integrated Compliance Director",
+      "description": "Oversees integrated compliance."
+    },
+    {
+      "insider_name": "Gianfranco Cariola",
+      "title": "Internal Audit Director",
+      "date_of_first_appointment": "2021-04-01",
+      "description": "Verifies overall operations and suitability of ICRMS."
+    },
+    {
+      "insider_name": "Gianfranco Cariola",
+      "governing_body": "231 Supervisory Body",
+      "title": "Member",
+      "date_of_first_appointment": "2023-06-22",
+      "description": "Internal member of the 231 Supervisory Body."
+    },
+    {
+      "insider_name": "Guido Brusco",
+      "title": "General Manager (Global Natural Resources)",
+      "date_of_first_appointment": "2024-10-01",
+      "description": "Manages Global Natural Resources business activities."
+    },
+    {
+      "insider_name": "Guido Brusco",
+      "title": "Chief Operating Officer (Global Natural Resources)",
+      "date_of_first_appointment": "2024-10-01",
+      "description": "Oversees Global Natural Resources operations."
+    },
+    {
+      "insider_name": "Francesco Gattei",
+      "title": "General Manager (Chief Transition & Financial Officer)",
+      "date_of_first_appointment": "2024-10-01",
+      "description": "Manages Chief Transition & Financial Officer business."
+    },
+    {
+      "insider_name": "Francesco Gattei",
+      "title": "Chief Operating Officer (Chief Transition & Financial Officer)",
+      "date_of_first_appointment": "2024-10-01",
+      "description": "Oversees Chief Transition & Financial Officer operations."
+    },
+    {
+      "insider_name": "Giuseppe Ricci",
+      "title": "Chief Operating Officer (Industrial Transformation)",
+      "date_of_first_appointment": "2024-10-01",
+      "description": "Oversees Industrial Transformation operations."
+    },
+    {
+      "insider_name": "Francesco Esposito",
+      "title": "Officer in charge of preparing financial reports (Financial Reporting Officer)",
+      "date_of_first_appointment": "2020-08-01",
+      "description": "Responsible for internal control system on financial reporting."
+    },
+    {
+      "insider_name": "Francesco Esposito",
+      "title": "Head of Accounting and Financial Statements",
+      "date_of_first_appointment": "2020-08-01",
+      "description": "Leads accounting and financial statements function."
+    },
+    {
+      "insider_name": "Raffaele Ferrara",
+      "governing_body": "231 Supervisory Body",
+      "title": "Chair",
+      "date_of_first_appointment": "2023-06-22",
+      "description": "Chairs the 231 Supervisory Body."
+    },
+    {
+      "insider_name": "Antonella Alfonsi",
+      "governing_body": "231 Supervisory Body",
+      "title": "Member",
+      "date_of_first_appointment": "2023-06-22",
+      "description": "External member of the 231 Supervisory Body."
+    },
+    {
+      "insider_name": "Ugo Lecis",
+      "governing_body": "231 Supervisory Body",
+      "title": "Member",
+      "date_of_first_appointment": "2023-06-22",
+      "description": "External member of the 231 Supervisory Body."
+    },
+    {
+      "insider_name": "Rosalba Casiraghi",
+      "governing_body": "Board of Statutory Auditors",
+      "title": "Chair",
+      "date_of_first_appointment": "2017-04-XX",
+      "description": "Chairs the Board of Statutory Auditors."
+    },
+    {
+      "insider_name": "Rosalba Casiraghi",
+      "governing_body": "231 Supervisory Body",
+      "title": "Member",
+      "date_of_first_appointment": "2023-06-22",
+      "description": "Member of the 231 Supervisory Body."
+    },
+    {
+      "insider_name": "Gennaro Mallardo",
+      "governing_body": "231 Supervisory Body",
+      "title": "Secretary",
+      "date_of_first_appointment": "2023-06-22",
+      "description": "Secretary of the 231 Supervisory Body."
+    },
+    {
+      "insider_name": "Gennaro Mallardo",
+      "title": "Head of Business Compliance Integrity",
+      "description": "Leads Business Compliance Integrity."
+    },
+    {
+      "insider_name": "Enrico Maria Bignami",
+      "governing_body": "Board of Statutory Auditors",
+      "title": "Standing Statutory Auditor",
+      "date_of_first_appointment": "2017-04-XX",
+      "description": "Standing member of the Board of Statutory Auditors."
+    },
+    {
+      "insider_name": "Marcella Caradonna",
+      "governing_body": "Board of Statutory Auditors",
+      "title": "Standing Statutory Auditor",
+      "date_of_first_appointment": "2021-05-XX",
+      "description": "Standing member of the Board of Statutory Auditors."
+    },
+    {
+      "insider_name": "Giulio Palazzo",
+      "governing_body": "Board of Statutory Auditors",
+      "title": "Standing Statutory Auditor",
+      "date_of_first_appointment": "2023-05-10",
+      "description": "Standing member of the Board of Statutory Auditors."
+    },
+    {
+      "insider_name": "Andrea Parolini",
+      "governing_body": "Board of Statutory Auditors",
+      "title": "Standing Statutory Auditor",
+      "date_of_first_appointment": "2023-05-10",
+      "description": "Standing member of the Board of Statutory Auditors."
+    },
+    {
+      "insider_name": "Giulia De Martino",
+      "governing_body": "Board of Statutory Auditors",
+      "title": "Alternate Statutory Auditor",
+      "date_of_first_appointment": "2023-05-10",
+      "description": "Alternate member of the Board of Statutory Auditors."
+    },
+    {
+      "insider_name": "Giovanna Villa",
+      "governing_body": "Board of Statutory Auditors",
+      "title": "Alternate Statutory Auditor",
+      "date_of_first_appointment": "2023-05-10",
+      "description": "Alternate member of the Board of Statutory Auditors."
+    },
+    {
+      "insider_name": "Giovanni Coppola",
+      "governing_body": "Court of Auditors",
+      "title": "Magistrate",
+      "date_of_first_appointment": "2024-01-01",
+      "description": "Monitors financial management of Eni."
+    },
+    {
+      "insider_name": "Roberto Ulissi",
+      "title": "Corporate Affairs and Governance Director",
+      "description": "Oversees corporate and governance regulations compliance."
+    },
+    {
+      "insider_name": "Grazia Fimiani",
+      "title": "Integrated Risk Management Director",
+      "description": "Ensures conduct of Integrated Risk Management processes."
+    },
+    {
+      "insider_name": "Stefano Speroni",
+      "title": "Legal Affairs and Commercial Negotiations Director",
+      "description": "Manages legal affairs and commercial negotiations."
+    },
+    {
+      "insider_name": "Claudio Granata",
+      "title": "Stakeholder Relations & Services Director",
+      "description": "Manages stakeholder relations and services."
+    },
+    {
+      "insider_name": "Lorenzo Fiorillo",
+      "title": "Technology, R&D & Digital Director",
+      "description": "Leads technology, R&D, and digital initiatives."
+    },
+    {
+      "insider_name": "Lapo Pistelli",
+      "title": "Public Affairs Director",
+      "description": "Manages public affairs."
+    },
+    {
+      "insider_name": "Erika Mandraffino",
+      "title": "External Communication Director",
+      "description": "Manages external communication."
+    }
+  ]
+}

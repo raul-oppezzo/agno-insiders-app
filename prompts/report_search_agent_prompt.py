@@ -18,7 +18,7 @@ ADDITIONAL_CONTEXT = dedent(
     - include details about the board of directors, executive compensation, shareholder rights, and other governance-related matters.
     - can be found on the company's official website, in sections such as 'Corporate Governance', 'Investor Relations', etc.
     
-    <context>
+    </context>
     """
 )
 
@@ -35,5 +35,6 @@ INSTRUCTIONS = dedent(
     - ALWAYS crawl companies's official website first.
     - When crawling, you can follow links to other pages, if you think they might contain the report.
     - you must NOT crawl the content of the corporate goverance report, just return the URL.
+    - you MUST return the URL of the report that belongs to the company specified in the query. Sometimes in the results there might be reports of other companies with similar names, you must filter them out.
     """
 )

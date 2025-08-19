@@ -23,9 +23,9 @@ def run_workflow(company_name: str) -> None:
             logger.info("Workflow completed successfully.")
             
             # Save the results to a file in ../results/v2 folder
-            os.makedirs("/results/v2", exist_ok=True)
+            os.makedirs("results/v2", exist_ok=True)
             filename = f"{company_name.replace(' ', '_').lower()}_insiders_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
-            filepath = os.path.join("/results/v2", filename)
+            filepath = os.path.join("results/v2", filename)
             
             with open(filepath, "w") as f:
                 f.write(response.content.model_dump_json(indent=2, exclude_none=True))

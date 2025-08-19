@@ -1,0 +1,921 @@
+{
+  "report_url": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/en_governance/20250328_Relazione_Governance_uk.pdf",
+  "company": {
+    "name": "Intesa Sanpaolo S.p.A.",
+    "address": "Piazza San Carlo, 156 10121 Torino, Italy",
+    "vat_number": "IT11991500015"
+  },
+  "governing_bodies": [
+    {
+      "name": "Board of Directors",
+      "description": "Performs guidance and strategic supervision duties."
+    },
+    {
+      "name": "Management Control Committee",
+      "description": "Exercises control body and internal audit functions."
+    },
+    {
+      "name": "Nomination Committee",
+      "description": "Inquiry and advisory on Board appointments."
+    },
+    {
+      "name": "Remuneration Committee",
+      "description": "Proposes and advises on remuneration systems."
+    },
+    {
+      "name": "Risks and Sustainability Committee",
+      "description": "Advises on risk governance and sustainability."
+    },
+    {
+      "name": "Committee for Transactions with Related Parties",
+      "description": "Manages transactions with related parties."
+    },
+    {
+      "name": "Shareholders’ Meeting",
+      "description": "Expresses corporate will, approves financial statements."
+    },
+    {
+      "name": "Surveillance Body",
+      "description": "Supervises Model 231 implementation and compliance."
+    },
+    {
+      "name": "Steering Committee",
+      "description": "Managerial body for strategic decisions and coordination."
+    },
+    {
+      "name": "Group Financial Risks Committee",
+      "description": "Technical body for financial risk management."
+    },
+    {
+      "name": "Group Control Coordination and Non-Financial Risks Committee",
+      "description": "Coordinates internal control and non-financial risks."
+    },
+    {
+      "name": "Group Credit Committee",
+      "description": "Manages and advises on credit risk issues."
+    },
+    {
+      "name": "Hold To Collect and Sell (HTCS) Sign-Off Committee",
+      "description": "Technical body for market risk-taking proposals."
+    },
+    {
+      "name": "Credit Risk and Pillar 2 Internal Models Committee",
+      "description": "Assesses internal models for credit and Pillar 2 risks."
+    }
+  ],
+  "insiders": [
+    {
+      "name": "Gian Maria Gros-Pietro"
+    },
+    {
+      "name": "Paolo Andrea Colombo"
+    },
+    {
+      "name": "Carlo Messina"
+    },
+    {
+      "name": "Franco Ceruti"
+    },
+    {
+      "name": "Anna Gatti"
+    },
+    {
+      "name": "Liana Logiurato"
+    },
+    {
+      "name": "Maria Mazzarella"
+    },
+    {
+      "name": "Luciano Nebbia"
+    },
+    {
+      "name": "Bruno Maria Parigi"
+    },
+    {
+      "name": "Bruno Picca"
+    },
+    {
+      "name": "Livia Pomodoro"
+    },
+    {
+      "name": "Maria Alessandra Stefanelli"
+    },
+    {
+      "name": "Paola Tagliavini"
+    },
+    {
+      "name": "Daniele Zamboni"
+    },
+    {
+      "name": "Alberto Maria Pisani"
+    },
+    {
+      "name": "Roberto Franchini"
+    },
+    {
+      "name": "Fabrizio Mosca"
+    },
+    {
+      "name": "Milena Teresa Motta"
+    },
+    {
+      "name": "Maria Cristina Zoppo"
+    },
+    {
+      "name": "Andrea Vismara"
+    },
+    {
+      "name": "Paolo Vernero"
+    },
+    {
+      "name": "Andrea Cortellazzo"
+    },
+    {
+      "name": "Franco Dalla Sega"
+    },
+    {
+      "name": "Massimo Bianchi"
+    },
+    {
+      "name": "Elena Brero"
+    },
+    {
+      "name": "Oreste Cagnasso"
+    },
+    {
+      "name": "Giovanni Bazoli"
+    },
+    {
+      "name": "E. Stegher"
+    },
+    {
+      "name": "S. Lucchini"
+    },
+    {
+      "name": "R. Ruggieri"
+    },
+    {
+      "name": "M.E. Proverbio"
+    },
+    {
+      "name": "L. Bocca"
+    },
+    {
+      "name": "A. De Vita"
+    },
+    {
+      "name": "D. Alfonsi"
+    },
+    {
+      "name": "A. Guido"
+    },
+    {
+      "name": "P. Angeletti"
+    },
+    {
+      "name": "N.M. Fioravanti"
+    },
+    {
+      "name": "C. Motta"
+    },
+    {
+      "name": "R. Cascella"
+    },
+    {
+      "name": "F. Gianetti"
+    },
+    {
+      "name": "P. Bonassi"
+    },
+    {
+      "name": "T. Corcos"
+    },
+    {
+      "name": "C. Testa"
+    },
+    {
+      "name": "S. Barrese"
+    },
+    {
+      "name": "P. Papanicolaou"
+    },
+    {
+      "name": "M. Micillo"
+    },
+    {
+      "name": "L. Mainolfi"
+    },
+    {
+      "name": "M.L. Gota"
+    },
+    {
+      "name": "V. Borla"
+    }
+  ],
+  "roles": [
+    {
+      "insider_name": "Gian Maria Gros-Pietro",
+      "governing_body": "Board of Directors",
+      "title": "Chair",
+      "date_of_first_appointment": "2022-04-29",
+      "description": "Chair of the Board of Directors."
+    },
+    {
+      "insider_name": "Gian Maria Gros-Pietro",
+      "governing_body": "Nomination Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2022-05-06",
+      "description": "Member of the Nomination Committee."
+    },
+    {
+      "insider_name": "Gian Maria Gros-Pietro",
+      "title": "Member, Executive Board (ABI – Associazione Bancaria Italiana)",
+      "description": "Executive Board member at ABI."
+    },
+    {
+      "insider_name": "Gian Maria Gros-Pietro",
+      "title": "Director (ABI Servizi S.p.A.)",
+      "description": "Director at ABI Servizi S.p.A."
+    },
+    {
+      "insider_name": "Gian Maria Gros-Pietro",
+      "title": "Director (LUISS – Università Guido Carli)",
+      "description": "Director at LUISS – Università Guido Carli."
+    },
+    {
+      "insider_name": "Gian Maria Gros-Pietro",
+      "title": "Member, Executive Board (ASSONIME)",
+      "description": "Executive Board member at ASSONIME."
+    },
+    {
+      "insider_name": "Gian Maria Gros-Pietro",
+      "title": "Director (COTEC)",
+      "description": "Director at COTEC."
+    },
+    {
+      "insider_name": "Gian Maria Gros-Pietro",
+      "title": "Chair, Board of Directors (Fondazione Felice Gianani)",
+      "description": "Chair of Board of Directors at Fondazione Felice Gianani."
+    },
+    {
+      "insider_name": "Gian Maria Gros-Pietro",
+      "title": "Member, Executive Board (FEBAF)",
+      "description": "Executive Board member at FEBAF."
+    },
+    {
+      "insider_name": "Gian Maria Gros-Pietro",
+      "title": "Director (ISPI)",
+      "description": "Director at ISPI."
+    },
+    {
+      "insider_name": "Paolo Andrea Colombo",
+      "governing_body": "Board of Directors",
+      "title": "Deputy Chair",
+      "date_of_first_appointment": "2022-04-29",
+      "description": "Deputy Chair of the Board of Directors."
+    },
+    {
+      "insider_name": "Paolo Andrea Colombo",
+      "governing_body": "Nomination Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2022-05-06",
+      "description": "Member of the Nomination Committee."
+    },
+    {
+      "insider_name": "Paolo Andrea Colombo",
+      "governing_body": "Remuneration Committee",
+      "title": "Chair",
+      "date_of_first_appointment": "2022-05-06",
+      "description": "Chair of the Remuneration Committee."
+    },
+    {
+      "insider_name": "Paolo Andrea Colombo",
+      "title": "Director (Colombo Advisory S.r.l.)",
+      "description": "Director at Colombo Advisory S.r.l."
+    },
+    {
+      "insider_name": "Paolo Andrea Colombo",
+      "title": "Chair, Board of Statutory Auditors (Humanitas S.p.A.)",
+      "description": "Chair of Board of Statutory Auditors at Humanitas S.p.A."
+    },
+    {
+      "insider_name": "Carlo Messina",
+      "governing_body": "Board of Directors",
+      "title": "Managing Director and CEO",
+      "date_of_first_appointment": "2022-04-29",
+      "description": "Managing Director and CEO of the company."
+    },
+    {
+      "insider_name": "Carlo Messina",
+      "title": "Director (Università Bocconi)",
+      "description": "Director at Università Bocconi."
+    },
+    {
+      "insider_name": "Carlo Messina",
+      "title": "Director (ABI – Associazione Bancaria Italiana)",
+      "description": "Director at ABI – Associazione Bancaria Italiana."
+    },
+    {
+      "insider_name": "Carlo Messina",
+      "governing_body": "Steering Committee",
+      "title": "Chair",
+      "description": "Chair of the Steering Committee."
+    },
+    {
+      "insider_name": "Franco Ceruti",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2016-04-27",
+      "description": "Director of the Board of Directors."
+    },
+    {
+      "insider_name": "Franco Ceruti",
+      "governing_body": "Remuneration Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2022-05-06",
+      "description": "Member of the Remuneration Committee."
+    },
+    {
+      "insider_name": "Franco Ceruti",
+      "governing_body": "Risks and Sustainability Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2022-05-06",
+      "description": "Member of the Risks and Sustainability Committee."
+    },
+    {
+      "insider_name": "Franco Ceruti",
+      "title": "Chair, Board of Directors (Intesa Sanpaolo Expo Institutional Contact S.r.l.)",
+      "description": "Chair of Board of Directors at Intesa Sanpaolo Expo."
+    },
+    {
+      "insider_name": "Franco Ceruti",
+      "title": "Chair, Board of Directors (Società Benefit Cimarosa 1 S.p.A.)",
+      "description": "Chair of Board of Directors at Società Benefit Cimarosa 1 S.p.A."
+    },
+    {
+      "insider_name": "Franco Ceruti",
+      "title": "Director (Intesa Sanpaolo Private Banking S.p.A.)",
+      "description": "Director at Intesa Sanpaolo Private Banking S.p.A."
+    },
+    {
+      "insider_name": "Franco Ceruti",
+      "title": "Chair, Board of Directors (Fondazione per l’Innovazione del Terzo Settore)",
+      "description": "Chair of Board of Directors at Fondazione per l’Innovazione."
+    },
+    {
+      "insider_name": "Franco Ceruti",
+      "title": "Director (CCIAA Milano Monza Brianza Lodi)",
+      "description": "Director at CCIAA Milano Monza Brianza Lodi."
+    },
+    {
+      "insider_name": "Anna Gatti",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2019-04-30",
+      "description": "Director of the Board of Directors."
+    },
+    {
+      "insider_name": "Anna Gatti",
+      "governing_body": "Remuneration Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2022-05-06",
+      "description": "Member of the Remuneration Committee."
+    },
+    {
+      "insider_name": "Anna Gatti",
+      "title": "Director (WiZink Bank S.A.)",
+      "description": "Director at WiZink Bank S.A."
+    },
+    {
+      "insider_name": "Anna Gatti",
+      "title": "Director (Wizz Air Holdings PLC)",
+      "description": "Director at Wizz Air Holdings PLC."
+    },
+    {
+      "insider_name": "Liana Logiurato",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2022-04-29",
+      "description": "Director of the Board of Directors."
+    },
+    {
+      "insider_name": "Liana Logiurato",
+      "governing_body": "Remuneration Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2022-05-06",
+      "description": "Member of the Remuneration Committee."
+    },
+    {
+      "insider_name": "Liana Logiurato",
+      "governing_body": "Committee for Transactions with Related Parties",
+      "title": "Member",
+      "date_of_first_appointment": "2022-05-06",
+      "description": "Member of the Committee for Transactions with Related Parties."
+    },
+    {
+      "insider_name": "Liana Logiurato",
+      "title": "Director (IMD Business School - International Alumni Association)",
+      "description": "Director at IMD Business School."
+    },
+    {
+      "insider_name": "Maria Mazzarella",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2016-04-27",
+      "description": "Director of the Board of Directors."
+    },
+    {
+      "insider_name": "Maria Mazzarella",
+      "governing_body": "Nomination Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2022-05-06",
+      "description": "Member of the Nomination Committee."
+    },
+    {
+      "insider_name": "Maria Mazzarella",
+      "governing_body": "Committee for Transactions with Related Parties",
+      "title": "Member",
+      "date_of_first_appointment": "2022-05-06",
+      "description": "Member of the Committee for Transactions with Related Parties."
+    },
+    {
+      "insider_name": "Maria Mazzarella",
+      "title": "Director (Finance for Food S.p.A.)",
+      "description": "Director at Finance for Food S.p.A."
+    },
+    {
+      "insider_name": "Luciano Nebbia",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2019-04-30",
+      "description": "Director of the Board of Directors."
+    },
+    {
+      "insider_name": "Luciano Nebbia",
+      "governing_body": "Remuneration Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2022-05-06",
+      "description": "Member of the Remuneration Committee."
+    },
+    {
+      "insider_name": "Luciano Nebbia",
+      "title": "Deputy Chair, Board of Directors (Equiter S.p.A.)",
+      "description": "Deputy Chair of Board of Directors at Equiter S.p.A."
+    },
+    {
+      "insider_name": "Bruno Maria Parigi",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2022-04-29",
+      "description": "Director of the Board of Directors."
+    },
+    {
+      "insider_name": "Bruno Maria Parigi",
+      "governing_body": "Risks and Sustainability Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2022-05-06",
+      "description": "Member of the Risks and Sustainability Committee."
+    },
+    {
+      "insider_name": "Bruno Picca",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2013-05-09",
+      "description": "Director of the Board of Directors."
+    },
+    {
+      "insider_name": "Bruno Picca",
+      "governing_body": "Nomination Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2022-05-06",
+      "description": "Member of the Nomination Committee."
+    },
+    {
+      "insider_name": "Bruno Picca",
+      "governing_body": "Risks and Sustainability Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2022-05-06",
+      "description": "Member of the Risks and Sustainability Committee."
+    },
+    {
+      "insider_name": "Bruno Picca",
+      "title": "Director (Interbank Deposit Protection Fund - Voluntary Scheme)",
+      "description": "Director at Interbank Deposit Protection Fund."
+    },
+    {
+      "insider_name": "Livia Pomodoro",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2016-04-27",
+      "description": "Director of the Board of Directors."
+    },
+    {
+      "insider_name": "Livia Pomodoro",
+      "governing_body": "Nomination Committee",
+      "title": "Chair",
+      "date_of_first_appointment": "2022-05-06",
+      "description": "Chair of the Nomination Committee."
+    },
+    {
+      "insider_name": "Livia Pomodoro",
+      "title": "Chair, Executive Board (Milan Center for Food Law and Policy)",
+      "description": "Chair of Executive Board at Milan Center for Food Law and Policy."
+    },
+    {
+      "insider_name": "Livia Pomodoro",
+      "title": "Member, Executive Board (Fondazione Sodalitas)",
+      "description": "Executive Board member at Fondazione Sodalitas."
+    },
+    {
+      "insider_name": "Livia Pomodoro",
+      "title": "Director (Febo S.p.A.)",
+      "description": "Director at Febo S.p.A."
+    },
+    {
+      "insider_name": "Livia Pomodoro",
+      "title": "Director (Touring Club Italiano)",
+      "description": "Director at Touring Club Italiano."
+    },
+    {
+      "insider_name": "Livia Pomodoro",
+      "title": "Chair, Board of Directors (Spazio Teatro No'hma)",
+      "description": "Chair of Board of Directors at Spazio Teatro No'hma."
+    },
+    {
+      "insider_name": "Livia Pomodoro",
+      "title": "Chair, Board of Directors (Sustainability and Inclusion for Food S.r.l.)",
+      "description": "Chair of Board of Directors at Sustainability and Inclusion for Food S.r.l."
+    },
+    {
+      "insider_name": "Livia Pomodoro",
+      "title": "Member, Executive Board (Giubileo 2025 – NO’HMA IN CAMMINO)",
+      "description": "Executive Board member at Giubileo 2025 – NO’HMA IN CAMMINO."
+    },
+    {
+      "insider_name": "Maria Alessandra Stefanelli",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2019-04-30",
+      "description": "Director of the Board of Directors."
+    },
+    {
+      "insider_name": "Maria Alessandra Stefanelli",
+      "governing_body": "Committee for Transactions with Related Parties",
+      "title": "Member",
+      "date_of_first_appointment": "2022-05-06",
+      "description": "Member of the Committee for Transactions with Related Parties."
+    },
+    {
+      "insider_name": "Paola Tagliavini",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2022-04-29",
+      "description": "Director of the Board of Directors."
+    },
+    {
+      "insider_name": "Paola Tagliavini",
+      "governing_body": "Risks and Sustainability Committee",
+      "title": "Chair",
+      "date_of_first_appointment": "2022-05-06",
+      "description": "Chair of the Risks and Sustainability Committee."
+    },
+    {
+      "insider_name": "Paola Tagliavini",
+      "governing_body": "Committee for Transactions with Related Parties",
+      "title": "Member",
+      "date_of_first_appointment": "2022-05-06",
+      "description": "Member of the Committee for Transactions with Related Parties."
+    },
+    {
+      "insider_name": "Paola Tagliavini",
+      "title": "Director (Rai Way S.p.A.)",
+      "description": "Director at Rai Way S.p.A."
+    },
+    {
+      "insider_name": "Daniele Zamboni",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2016-04-27",
+      "description": "Director of the Board of Directors."
+    },
+    {
+      "insider_name": "Daniele Zamboni",
+      "governing_body": "Risks and Sustainability Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2022-05-06",
+      "description": "Member of the Risks and Sustainability Committee."
+    },
+    {
+      "insider_name": "Daniele Zamboni",
+      "governing_body": "Committee for Transactions with Related Parties",
+      "title": "Chair",
+      "date_of_first_appointment": "2022-05-06",
+      "description": "Chair of the Committee for Transactions with Related Parties."
+    },
+    {
+      "insider_name": "Alberto Maria Pisani",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2016-04-27",
+      "description": "Director of the Board of Directors."
+    },
+    {
+      "insider_name": "Alberto Maria Pisani",
+      "governing_body": "Management Control Committee",
+      "title": "Chair",
+      "date_of_first_appointment": "2022-04-29",
+      "description": "Chair of the Management Control Committee."
+    },
+    {
+      "insider_name": "Roberto Franchini",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2020-04-27",
+      "description": "Director of the Board of Directors."
+    },
+    {
+      "insider_name": "Roberto Franchini",
+      "governing_body": "Management Control Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2022-04-29",
+      "description": "Member of the Management Control Committee."
+    },
+    {
+      "insider_name": "Roberto Franchini",
+      "title": "Chair, Board of Auditors (Fondazione per l’infanzia Ronald Mc Donald Italia)",
+      "description": "Chair of Board of Auditors at Fondazione Ronald Mc Donald Italia."
+    },
+    {
+      "insider_name": "Roberto Franchini",
+      "title": "Member, Executive Board (British Chamber of Commerce for Italy)",
+      "description": "Executive Board member at British Chamber of Commerce for Italy."
+    },
+    {
+      "insider_name": "Fabrizio Mosca",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2019-04-30",
+      "description": "Director of the Board of Directors."
+    },
+    {
+      "insider_name": "Fabrizio Mosca",
+      "governing_body": "Management Control Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2022-04-29",
+      "description": "Member of the Management Control Committee."
+    },
+    {
+      "insider_name": "Fabrizio Mosca",
+      "title": "Chair, Board of Statutory Auditors (Bolaffi S.p.A.)",
+      "description": "Chair of Board of Statutory Auditors at Bolaffi S.p.A."
+    },
+    {
+      "insider_name": "Fabrizio Mosca",
+      "title": "Chair, Board of Statutory Auditors (Aste Bolaffi S.p.A.)",
+      "description": "Chair of Board of Statutory Auditors at Aste Bolaffi S.p.A."
+    },
+    {
+      "insider_name": "Fabrizio Mosca",
+      "title": "Chair, Board of Statutory Auditors (Bolaffi Metalli Preziosi S.p.A.)",
+      "description": "Chair of Board of Statutory Auditors at Bolaffi Metalli Preziosi S.p.A."
+    },
+    {
+      "insider_name": "Fabrizio Mosca",
+      "title": "Sole Director (Fly S.r.l.)",
+      "description": "Sole Director at Fly S.r.l."
+    },
+    {
+      "insider_name": "Fabrizio Mosca",
+      "title": "Chair, Board of Statutory Auditors (Diasorin Italia S.p.A.)",
+      "description": "Chair of Board of Statutory Auditors at Diasorin Italia S.p.A."
+    },
+    {
+      "insider_name": "Fabrizio Mosca",
+      "title": "Chair, Board of Statutory Auditors (Mindicity S.r.l. Società Benefit)",
+      "description": "Chair of Board of Statutory Auditors at Mindicity S.r.l. Società Benefit."
+    },
+    {
+      "insider_name": "Milena Teresa Motta",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2016-04-27",
+      "description": "Director of the Board of Directors."
+    },
+    {
+      "insider_name": "Milena Teresa Motta",
+      "governing_body": "Management Control Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2022-04-29",
+      "description": "Member of the Management Control Committee."
+    },
+    {
+      "insider_name": "Milena Teresa Motta",
+      "title": "Director (Strategie & Innovazione S.r.l.)",
+      "description": "Director at Strategie & Innovazione S.r.l."
+    },
+    {
+      "insider_name": "Maria Cristina Zoppo",
+      "governing_body": "Board of Directors",
+      "title": "Director",
+      "date_of_first_appointment": "2016-04-27",
+      "description": "Director of the Board of Directors."
+    },
+    {
+      "insider_name": "Maria Cristina Zoppo",
+      "governing_body": "Management Control Committee",
+      "title": "Member",
+      "date_of_first_appointment": "2022-04-29",
+      "description": "Member of the Management Control Committee."
+    },
+    {
+      "insider_name": "Maria Cristina Zoppo",
+      "title": "Director (Newlat Food S.p.A.)",
+      "description": "Director at Newlat Food S.p.A."
+    },
+    {
+      "insider_name": "Maria Cristina Zoppo",
+      "title": "Standing Auditor (Michelin Italiana S.p.A.)",
+      "description": "Standing Auditor at Michelin Italiana S.p.A."
+    },
+    {
+      "insider_name": "Maria Cristina Zoppo",
+      "title": "Chair, Board of Directors (S.A.M.I.)",
+      "description": "Chair of Board of Directors at S.A.M.I."
+    },
+    {
+      "insider_name": "Maria Cristina Zoppo",
+      "title": "Director (REAM SGR S.p.A.)",
+      "description": "Director at REAM SGR S.p.A."
+    },
+    {
+      "insider_name": "Andrea Vismara",
+      "governing_body": "Board of Directors",
+      "title": "Secretary",
+      "date_of_first_appointment": "2022-04-29",
+      "description": "Secretary of the Board of Directors."
+    },
+    {
+      "insider_name": "Andrea Vismara",
+      "title": "Head of Corporate Bodies and Corporate Affairs",
+      "description": "Head of Corporate Bodies and Corporate Affairs."
+    },
+    {
+      "insider_name": "Paolo Vernero",
+      "governing_body": "Surveillance Body",
+      "title": "Chair",
+      "date_of_first_appointment": "2022-05-24",
+      "description": "Chair of the Surveillance Body."
+    },
+    {
+      "insider_name": "Andrea Cortellazzo",
+      "governing_body": "Surveillance Body",
+      "title": "Member",
+      "date_of_first_appointment": "2022-05-24",
+      "description": "Member of the Surveillance Body."
+    },
+    {
+      "insider_name": "Franco Dalla Sega",
+      "governing_body": "Surveillance Body",
+      "title": "Member",
+      "date_of_first_appointment": "2022-05-24",
+      "description": "Member of the Surveillance Body."
+    },
+    {
+      "insider_name": "Massimo Bianchi",
+      "governing_body": "Surveillance Body",
+      "title": "Alternate Member",
+      "date_of_first_appointment": "2022-05-24",
+      "description": "Alternate Member of the Surveillance Body."
+    },
+    {
+      "insider_name": "Elena Brero",
+      "governing_body": "Surveillance Body",
+      "title": "Alternate Member",
+      "date_of_first_appointment": "2022-05-24",
+      "description": "Alternate Member of the Surveillance Body."
+    },
+    {
+      "insider_name": "Oreste Cagnasso",
+      "governing_body": "Surveillance Body",
+      "title": "Alternate Member",
+      "date_of_first_appointment": "2022-05-24",
+      "description": "Alternate Member of the Surveillance Body."
+    },
+    {
+      "insider_name": "Giovanni Bazoli",
+      "title": "President Emeritus",
+      "date_of_first_appointment": "2022-04-29",
+      "description": "President Emeritus."
+    },
+    {
+      "insider_name": "E. Stegher",
+      "title": "Manager Responsible for Preparing the Company’s Financial Reports",
+      "description": "Manager responsible for financial reports."
+    },
+    {
+      "insider_name": "S. Lucchini",
+      "title": "Chief Institutional Affairs and External Communication Officer Governance Area",
+      "description": "Head of Institutional Affairs and External Communication."
+    },
+    {
+      "insider_name": "R. Ruggieri",
+      "title": "Chief Lending Officer Governance Area",
+      "description": "Head of Lending Officer Governance Area."
+    },
+    {
+      "insider_name": "M.E. Proverbio",
+      "title": "Chief Data, A.I. and Technology Officer Governance Area",
+      "description": "Head of Data, A.I. and Technology Governance Area."
+    },
+    {
+      "insider_name": "L. Bocca",
+      "title": "Chief Financial Officer Governance Area",
+      "description": "Head of Financial Officer Governance Area."
+    },
+    {
+      "insider_name": "A. De Vita",
+      "title": "Chief Security Officer Governance Area",
+      "description": "Head of Security Officer Governance Area."
+    },
+    {
+      "insider_name": "D. Alfonsi",
+      "title": "Chief Risk Officer Governance Area",
+      "description": "Head of Risk Officer Governance Area."
+    },
+    {
+      "insider_name": "A. Guido",
+      "title": "Chief Cost Management Officer Governance Area",
+      "description": "Head of Cost Management Officer Governance Area."
+    },
+    {
+      "insider_name": "P. Angeletti",
+      "title": "Chief Sustainability Officer Governance Area",
+      "description": "Head of Sustainability Officer Governance Area."
+    },
+    {
+      "insider_name": "N.M. Fioravanti",
+      "title": "Chief Governance, Operating & Transformation Officer Governance Area",
+      "description": "Head of Governance, Operating & Transformation."
+    },
+    {
+      "insider_name": "C. Motta",
+      "title": "Chief Transformation & Organisation Officer Governance Area",
+      "description": "Head of Transformation & Organisation Governance Area."
+    },
+    {
+      "insider_name": "R. Cascella",
+      "title": "Chief People & Culture Officer Governance Area",
+      "description": "Head of People & Culture Governance Area."
+    },
+    {
+      "insider_name": "F. Gianetti",
+      "title": "Chief Social Impact Officer Governance Area",
+      "description": "Head of Social Impact Officer Governance Area."
+    },
+    {
+      "insider_name": "P. Bonassi",
+      "title": "Chief Compliance Officer Governance Area",
+      "description": "Head of Compliance Officer Governance Area."
+    },
+    {
+      "insider_name": "T. Corcos",
+      "title": "Head, Wealth Management Divisions",
+      "description": "Head of Wealth Management Divisions."
+    },
+    {
+      "insider_name": "C. Testa",
+      "title": "Chief Audit Officer",
+      "description": "Chief Audit Officer."
+    },
+    {
+      "insider_name": "S. Barrese",
+      "title": "Head, Banca dei Territori Division",
+      "description": "Head of Banca dei Territori Division."
+    },
+    {
+      "insider_name": "P. Papanicolaou",
+      "title": "Head, International Banks Division",
+      "description": "Head of International Banks Division."
+    },
+    {
+      "insider_name": "M. Micillo",
+      "title": "Head, IMI Corporate & Investment Banking Division",
+      "description": "Head of IMI Corporate & Investment Banking Division."
+    },
+    {
+      "insider_name": "L. Mainolfi",
+      "title": "Head, Private Banking Division",
+      "description": "Head of Private Banking Division."
+    },
+    {
+      "insider_name": "M.L. Gota",
+      "title": "Head, Asset Management Division",
+      "description": "Head of Asset Management Division."
+    },
+    {
+      "insider_name": "V. Borla",
+      "title": "Head, Insurance Division",
+      "description": "Head of Insurance Division."
+    }
+  ]
+}
