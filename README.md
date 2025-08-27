@@ -23,13 +23,22 @@ Un'applicazione Python basata su AI per identificare e raccogliere informazioni 
    ```bash
    uv sync
    uv run crawl4ai-setup
+   sudo apt install libmagic-dev poppler-utils tesseract-ocr
    ```
 
 3. **Configura le variabili d'ambiente**:
    Crea un file `.env` nella root del progetto:
+
    ```env
    # API Key per Google Gemini (richiesta)
    GOOGLE_API_KEY=your_google_api_key_here
+
+   # Chunk settings
+   CHUNK_MAX_CHARACTERS=50000
+   CHUNK_OVERLAP=100
+
+   # Debug
+   DEBUG=false
    ```
 
 ## 📖 Utilizzo
@@ -44,4 +53,4 @@ Un'applicazione Python basata su AI per identificare e raccogliere informazioni 
 - **google-genai**: Integrazione con modelli Gemini di Google
 - **crawl4ai**: Web crawling avanzato
 - **pydantic**: Validazione e serializzazione dati
-- **pypdf2**: Elaborazione documenti PDF
+- **unsdtructured**: Elaborazione documenti PDF e chunking

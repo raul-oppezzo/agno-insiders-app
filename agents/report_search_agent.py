@@ -1,11 +1,12 @@
 import os
-from typing import Optional
+from typing import Iterator
 
 from agno.agent import Agent, RunResponse
 from agno.models.google import Gemini
 from agno.tools.googlesearch import GoogleSearchTools
 from agno.tools.reasoning import ReasoningTools
 from agno.utils.log import logger
+from agno.utils.pprint import pprint_run_response
 
 from tools.crawl import CrawlTools
 
@@ -17,8 +18,6 @@ from prompts.report_search_agent_prompt import (
 )
 
 DEBUG = os.getenv("DEBUG", "False").lower() == "true"
-EXPONENTIAL_BACKOFF = os.getenv("BACKOFF", "True").lower() == "true"
-RETRIES = int(os.getenv("RETRIES", "3"))
 
 
 class ReportSearchAgent:
@@ -29,8 +28,8 @@ class ReportSearchAgent:
             name="ReportSearchAgent",
             model=Gemini(
                 id="gemini-2.5-flash",
-                temperature=0.1,
-                top_p=0.95,
+                temperature=0.0,
+                top_p=0.9,
             ),
             tools=[
                 GoogleSearchTools(cache_results=True),
@@ -41,18 +40,20 @@ class ReportSearchAgent:
             additional_context=ADDITIONAL_CONTEXT,
             instructions=INSTRUCTIONS,
             show_tool_calls=True,
-            tool_call_limit=15,
+            stream_intermediate_steps=True,
+            tool_call_limit=25,
             use_json_mode=True,
             response_model=ReportURL,
             debug_mode=DEBUG,
-            exponential_backoff=EXPONENTIAL_BACKOFF,
-            retries=RETRIES,
+            exponential_backoff=True,
+            retries=2,
+            delay_between_retries=30,  # Timeout of 30 seconds
             add_datetime_to_instructions=True,  # to ensure the agent uses the current date and time in its reasoning
         )
 
     def search_report(self, company_name: str) -> ReportURL:
         """
-        Search for the latest corporate governance report of a company.
+        Runs the agent to search for the latest corporate governance report of a company.
 
         Args:
             company_name (str): The name of the company to search for.
@@ -60,30 +61,19 @@ class ReportSearchAgent:
         Returns:
             ReportURL: The URL of the corporate governance report.
         """
+
+        prompt = f"Please, search the URL of the latest corporate governance report of company '{company_name}'."
+
         try:
-            logger.info(
-                f"Searching for the corporate governance report of '{company_name}'..."
-            )
-
-            response: RunResponse = self.agent.run(
-                f"Please, search the URL of the latest corporate governance report of company '{company_name}'."
-            )
-
-            if response is None or response.content is None:
-                logger.error(f"No valid response received from {self.agent.name}.")
-                raise RuntimeError(
-                    f"No response or empty content received from {self.agent.name}."
-                )
-
-            if not isinstance(response.content, ReportURL):
-                logger.error(f"Unexpected response type: {type(response.content)}.")
-                raise RuntimeError(f"Expected ReportURL, got {type(response.content)}.")
-
-            logger.info(f"Search completed successfully.")
-
-            return response.content
+            response: Iterator[RunResponse] = self.agent.run(prompt, stream=False)
         except Exception as e:
-            logger.error(f"Error in {self.agent.name} during report search: {str(e)}")
-            raise RuntimeError(
-                f"Error in {self.agent.name} during report search: {str(e)}"
-            ) from e
+            logger.error(f"Error in {self.agent.name}.")
+            raise e
+
+        if response.content is None:
+            raise ValueError(f"Missing response content.")
+
+        if not isinstance(response.content, ReportURL):
+            raise TypeError(f"Expected ReportURL, got {type(response.content)}.")
+
+        return response.content

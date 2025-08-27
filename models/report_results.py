@@ -30,11 +30,11 @@ class Company(BaseModel):
     address: Optional[str] = Field(
         default=None, description="The legal address of the company."
     )
+    tax_number: Optional[str] = Field(
+        default=None, description="The tax number of the company."
+    )
     isin: Optional[str] = Field(
         default=None, description="The ISIN code of the company."
-    )
-    vat_number: Optional[str] = Field(
-        default=None, description="The VAT number of the company."
     )
     ticker: Optional[str] = Field(
         default=None, description="The ticker symbol of the company."
@@ -63,7 +63,7 @@ class Insider(BaseModel):
 
 
 class ReportResults(BaseModel):
-    report_url: str = Field(..., description="The URL of the analyzed report.")
+    # report_url: str = Field(..., description="The URL of the analyzed report.")
     company: Company = Field(
         ..., description="The company to which the report belongs."
     )
@@ -74,3 +74,27 @@ class ReportResults(BaseModel):
         ..., description="A list of insiders identified in the report."
     )
     roles: List[Role] = Field(..., description="A list of roles.")
+
+
+class Node(BaseModel):
+    id: str = Field(default="")
+    label: str = Field(default="")
+    properties: dict = Field(default={})
+
+
+class Edge(BaseModel):
+    source: str = Field(
+        default="",
+    )  # id of the source node
+    type: str = Field(
+        default="",
+    )  # type of the relationship
+    dest: str = Field(
+        default="",
+    )  # id of the target node
+    properties: dict = Field(default={}) # additional properties of the edge
+
+
+class ReportResultsTemp(BaseModel):
+    nodes: List[Node] = Field(default=[])
+    edges: List[Edge] = Field(default=[])

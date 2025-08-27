@@ -1,23 +1,21 @@
 import os
+from typing import Iterator
 
 from agno.agent import Agent, RunResponse
 from agno.models.google import Gemini
-from agno.tools.reasoning import ReasoningTools
 from agno.utils.log import logger
 
+from agno.tools.reasoning import ReasoningTools
+
+from models.report_results import ReportResultsTemp, ReportResults
+from prompts.report_analyze_agent_prompt import (
+    DESCRIPTION_TEMP,
+    ADDITIONAL_CONTEXT_TEMP,
+    INSTRUCTIONS_TEMP,
+)
 from tools.pdf import PDFTools
 
-from models.report_results import ReportResults
-from prompts.report_analyze_agent_prompt import (
-    DESCRIPTION,
-    ADDITIONAL_CONTEXT,
-    INSTRUCTIONS,
-)
-
-
 DEBUG = os.getenv("DEBUG", "False").lower() == "true"
-EXPONENTIAL_BACKOFF = os.getenv("BACKOFF", "True").lower() == "true"
-RETRIES = int(os.getenv("RETRIES", "3"))
 
 
 class ReportAnalyzeAgent:
@@ -27,27 +25,57 @@ class ReportAnalyzeAgent:
             name="ReportAnalyzeAgent",
             model=Gemini(
                 id="gemini-2.5-flash",
-                temperature=0.1,
-                top_p=0.95,
+                temperature=0.0,
             ),
-            tools=[
-                PDFTools(cache_results=True),
-                # ReasoningTools(add_instructions=True),
-            ],
-            # reasoning=True, # Uses the same model of the agent to draft a reasoning chain before running the agent
-            description=DESCRIPTION,
-            additional_context=ADDITIONAL_CONTEXT,
-            instructions=INSTRUCTIONS,
-            show_tool_calls=True,
-            tool_call_limit=15,
+            # tools=[ReasoningTools(add_instructions=True)],
+            description=DESCRIPTION_TEMP,
+            additional_context=ADDITIONAL_CONTEXT_TEMP,
+            instructions=INSTRUCTIONS_TEMP,
             use_json_mode=True,
-            response_model=ReportResults,
+            response_model=ReportResultsTemp,
             debug_mode=DEBUG,
-            exponential_backoff=EXPONENTIAL_BACKOFF,
-            retries=RETRIES,
+            exponential_backoff=True,
+            retries=2,
+            delay_between_retries=30,  # Timeout of 30 seconds
         )
 
-    def analyze_report(self, report_url: str) -> ReportResults:
+    async def analyze_chunk_async(self, chunk_text: str) -> ReportResults:
+        """
+        Search for the insiders and governance data in the given chunk
+
+        Args:
+            chunk(object): an object containing a text field.
+
+        Returns
+            ReportResults: The results of the analysis.
+        """
+
+        chunk_prompt = f""" 
+            Please analyze this chunk of the corporate governance report:
+            
+            **CHUNK**:
+            \"\"\"
+            {chunk_text}
+            \"\"\"
+            
+            **OUTPUT**:
+            """
+
+        try:
+            response = await self.agent.arun(chunk_prompt, stream=False)
+        except Exception as e:
+            logger.error(f"Error in {self.agent.name}.")
+            raise e
+
+        if response.content is None:
+            raise ValueError(f"Missing response content.")
+
+        if not isinstance(response.content, ReportResultsTemp):
+            raise TypeError(f"Expected ReportResults, got {type(response.content)}.")
+
+        return response.content
+
+    def analyze_report(self, report_url: str = "") -> ReportResultsTemp:
         """
         Search for insiders in a corporate governance report.
 
@@ -58,30 +86,24 @@ class ReportAnalyzeAgent:
             ReportResults: The results of the analysis containing company, governing bodies, and insiders.
         """
 
+        prompt = (
+            f"Please, analyze the corporate governance report at this URL: {report_url}"
+        )
+
         try:
-            logger.info(f"Analyzing report at {report_url}...")
-
-            response: RunResponse = self.agent.run(
-                f"Please, analyze the corporate governance report at {report_url}."
-            )
-
-            if response is None or response.content is None:
-                logger.error(f"No valid response received from {self.agent.name}.")
-                raise RuntimeError(
-                    f"No response or empty content received from {self.agent.name}."
-                )
-
-            if not isinstance(response.content, ReportResults):
-                logger.error(f"Unexpected response type: {type(response.content)}.")
-                raise RuntimeError(
-                    f"Expected ReportResults, got {type(response.content)}."
-                )
-
-            logger.info(f"Successfully analyzed report at {report_url}.")
-
-            return response.content
+            response: RunResponse = self.agent.run(prompt, stream=False)
         except Exception as e:
-            logger.error(f"Error in {self.agent.name} during report analysis: {str(e)}")
-            raise RuntimeError(
-                f"Error in {self.agent.name} during report analysis: {str(e)}"
-            ) from e
+            logger.error(f"Error in {self.agent.name}.")
+            raise e
+
+        if response.content is None:
+            raise ValueError(f"Missing response content.")
+
+        if not isinstance(response.content, ReportResultsTemp):
+            raise TypeError(f"Expected ReportResults, got {type(response.content)}.")
+
+        return response.content
+
+    def add_elements(self, elements) -> None:
+        self.elements = elements
+        self.agent.add_tool(PDFTools(elements))
