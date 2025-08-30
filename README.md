@@ -36,9 +36,6 @@ Un'applicazione Python basata su AI per identificare e raccogliere informazioni 
    # Chunk settings
    CHUNK_MAX_CHARACTERS=50000
    CHUNK_OVERLAP=100
-
-   # Debug
-   DEBUG=false
    ```
 
 ## 📖 Utilizzo

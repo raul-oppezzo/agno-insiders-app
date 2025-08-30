@@ -2,6 +2,33 @@ from typing import Optional, List
 from pydantic import BaseModel, Field
 
 
+class Node(BaseModel):
+    id: str = Field(default="")
+    label: str = Field(default="")
+    properties: dict = Field(default={})
+
+
+class Edge(BaseModel):
+    source: str = Field(
+        default="",
+    )  # id of the source node
+    type: str = Field(
+        default="",
+    )  # type of the relationship
+    dest: str = Field(
+        default="",
+    )  # id of the target node
+    properties: dict = Field(default={})  # additional properties of the edge
+
+
+class ReportResultsTemp(BaseModel):
+    nodes: List[Node] = Field(default=[])
+    edges: List[Edge] = Field(default=[])
+
+
+####################### Unused ###########################
+
+
 class Role(BaseModel):
     insider_name: str = Field(
         ..., description="The full name of the insider holding the role."
@@ -74,27 +101,3 @@ class ReportResults(BaseModel):
         ..., description="A list of insiders identified in the report."
     )
     roles: List[Role] = Field(..., description="A list of roles.")
-
-
-class Node(BaseModel):
-    id: str = Field(default="")
-    label: str = Field(default="")
-    properties: dict = Field(default={})
-
-
-class Edge(BaseModel):
-    source: str = Field(
-        default="",
-    )  # id of the source node
-    type: str = Field(
-        default="",
-    )  # type of the relationship
-    dest: str = Field(
-        default="",
-    )  # id of the target node
-    properties: dict = Field(default={}) # additional properties of the edge
-
-
-class ReportResultsTemp(BaseModel):
-    nodes: List[Node] = Field(default=[])
-    edges: List[Edge] = Field(default=[])

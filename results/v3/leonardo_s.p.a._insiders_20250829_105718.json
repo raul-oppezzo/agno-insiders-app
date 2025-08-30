@@ -1,0 +1,1080 @@
+{
+    "nodes": [
+        {
+            "id": "company_leonardo",
+            "label": "Company",
+            "properties": {
+                "name": "Leonardo Societ\u00e0 per azioni",
+                "isin": "",
+                "ticker": "LDO",
+                "vatNumber": "00881841001"
+            }
+        },
+        {
+            "id": "address_rome_piazza_monte_grappa_n_4",
+            "label": "Address",
+            "properties": {
+                "street": "Piazza Monte Grappa n. 4",
+                "city": "Rome",
+                "postalCode": "00195",
+                "country": ""
+            }
+        },
+        {
+            "id": "auditor_ey",
+            "label": "Auditor",
+            "properties": {
+                "name": "EY S.p.A."
+            }
+        },
+        {
+            "id": "board_of_directors_leonardo",
+            "label": "Board",
+            "properties": {
+                "type": "board of directors"
+            }
+        },
+        {
+            "id": "board_of_statutory_auditors_leonardo",
+            "label": "Board",
+            "properties": {
+                "type": "board of statutory auditors"
+            }
+        },
+        {
+            "id": "committee_control_and_risks_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Control and Risks Committee"
+            }
+        },
+        {
+            "id": "committee_nomination_and_governance_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Nomination and Governance Committee"
+            }
+        },
+        {
+            "id": "committee_remuneration_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Remuneration Committee"
+            }
+        },
+        {
+            "id": "committee_sustainability_and_innovation_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Sustainability and Innovation Committee"
+            }
+        },
+        {
+            "id": "person_alessandra_genco",
+            "label": "Person",
+            "properties": {
+                "firstName": "Alessandra",
+                "lastName": "Genco",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_stefano_pontecorvo",
+            "label": "Person",
+            "properties": {
+                "firstName": "Stefano",
+                "lastName": "Pontecorvo",
+                "dateOfBirth": "1957",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_roberto_cingolani",
+            "label": "Person",
+            "properties": {
+                "firstName": "Roberto",
+                "lastName": "Cingolani",
+                "dateOfBirth": "1961",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_trifone_altieri",
+            "label": "Person",
+            "properties": {
+                "firstName": "Trifone",
+                "lastName": "Altieri",
+                "dateOfBirth": "1975",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_giancarlo_ghislanzoni",
+            "label": "Person",
+            "properties": {
+                "firstName": "Giancarlo",
+                "lastName": "Ghislanzoni",
+                "dateOfBirth": "1960",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_enrica_giorgetti",
+            "label": "Person",
+            "properties": {
+                "firstName": "Enrica",
+                "lastName": "Giorgetti",
+                "dateOfBirth": "1956",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_dominique_levy",
+            "label": "Person",
+            "properties": {
+                "firstName": "Dominique",
+                "lastName": "Levy",
+                "dateOfBirth": "1969",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_francesco_macri",
+            "label": "Person",
+            "properties": {
+                "firstName": "Francesco",
+                "lastName": "Macri",
+                "dateOfBirth": "1973",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_cristina_manara",
+            "label": "Person",
+            "properties": {
+                "firstName": "Cristina",
+                "lastName": "Manara",
+                "dateOfBirth": "1978",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_marcello_sala",
+            "label": "Person",
+            "properties": {
+                "firstName": "Marcello",
+                "lastName": "Sala",
+                "dateOfBirth": "1968",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_silvia_stefini",
+            "label": "Person",
+            "properties": {
+                "firstName": "Silvia",
+                "lastName": "Stefini",
+                "dateOfBirth": "1964",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_elena_vasco",
+            "label": "Person",
+            "properties": {
+                "firstName": "Elena",
+                "lastName": "Vasco",
+                "dateOfBirth": "1964",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_steven_duncan_wood",
+            "label": "Person",
+            "properties": {
+                "firstName": "Steven Duncan",
+                "lastName": "Duncan Wood",
+                "dateOfBirth": "1982",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_domenica_lista",
+            "label": "Person",
+            "properties": {
+                "firstName": "Domenica",
+                "lastName": "Lista",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_lorenzo_mariani",
+            "label": "Person",
+            "properties": {
+                "firstName": "Lorenzo",
+                "lastName": "Mariani",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_salvatore_lampone",
+            "label": "Person",
+            "properties": {
+                "firstName": "Salvatore",
+                "lastName": "Lampone",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "committee_surveillance_body_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Surveillance Body"
+            }
+        },
+        {
+            "id": "committee_whistleblowing_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Whistleblowing Committee"
+            }
+        },
+        {
+            "id": "person_federico_maurizo_dandrea",
+            "label": "Person",
+            "properties": {
+                "firstName": "Federico Maurizo",
+                "lastName": "DAndrea",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_giandomenico_caiazza",
+            "label": "Person",
+            "properties": {
+                "firstName": "Giandomenico",
+                "lastName": "Caiazza",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_raffaele_cusmai",
+            "label": "Person",
+            "properties": {
+                "firstName": "Raffaele",
+                "lastName": "Cusmai",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_romina_guglielmetti",
+            "label": "Person",
+            "properties": {
+                "firstName": "Romina",
+                "lastName": "Guglielmetti",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_luca_rossi",
+            "label": "Person",
+            "properties": {
+                "firstName": "Luca",
+                "lastName": "Rossi",
+                "dateOfBirth": "1967",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_marco_fazzini",
+            "label": "Person",
+            "properties": {
+                "firstName": "Marco",
+                "lastName": "Fazzini",
+                "dateOfBirth": "1974",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_giulia_pusterla",
+            "label": "Person",
+            "properties": {
+                "firstName": "Giulia",
+                "lastName": "Pusterla",
+                "dateOfBirth": "1960",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_paola_simonelli",
+            "label": "Person",
+            "properties": {
+                "firstName": "Paola",
+                "lastName": "Simonelli",
+                "dateOfBirth": "1964",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_alessandro_zavaglia",
+            "label": "Person",
+            "properties": {
+                "firstName": "Alessandro",
+                "lastName": "Zavaglia",
+                "dateOfBirth": "1970",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_giuseppe_cerati",
+            "label": "Person",
+            "properties": {
+                "firstName": "Giuseppe",
+                "lastName": "Cerati",
+                "dateOfBirth": "1962",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_fabrizio_pezzani",
+            "label": "Person",
+            "properties": {
+                "firstName": "Fabrizio",
+                "lastName": "Pezzani",
+                "dateOfBirth": "1948",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_serenella_rossano",
+            "label": "Person",
+            "properties": {
+                "firstName": "Serenella",
+                "lastName": "Rossano",
+                "dateOfBirth": "1964",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "person_monica_scipione",
+            "label": "Person",
+            "properties": {
+                "firstName": "Monica",
+                "lastName": "Scipione",
+                "dateOfBirth": "1971",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "committee_steering_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Steering Committee"
+            }
+        },
+        {
+            "id": "person_amedeo_sacrestano",
+            "label": "Person",
+            "properties": {
+                "firstName": "Amedeo",
+                "lastName": "Sacrestano",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        }
+    ],
+    "edges": [
+        {
+            "source": "board_of_directors_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {}
+        },
+        {
+            "source": "board_of_statutory_auditors_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {}
+        },
+        {
+            "source": "committee_control_and_risks_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {}
+        },
+        {
+            "source": "committee_nomination_and_governance_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {}
+        },
+        {
+            "source": "committee_remuneration_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {}
+        },
+        {
+            "source": "committee_sustainability_and_innovation_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {}
+        },
+        {
+            "source": "company_leonardo",
+            "type": "LOCATED_AT",
+            "dest": "address_rome_piazza_monte_grappa_n_4",
+            "properties": {}
+        },
+        {
+            "source": "company_leonardo",
+            "type": "AUDITED_BY",
+            "dest": "auditor_ey",
+            "properties": {
+                "from": "2021",
+                "to": "2029"
+            }
+        },
+        {
+            "source": "person_alessandra_genco",
+            "type": "HOLDS_POSITION",
+            "dest": "company_leonardo",
+            "properties": {
+                "position_title": "Officer in Charge of Financial Reporting",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_stefano_pontecorvo",
+            "type": "HOLDS_POSITION",
+            "dest": "company_leonardo",
+            "properties": {
+                "position_title": "Chairman",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_stefano_pontecorvo",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Executive Director",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_roberto_cingolani",
+            "type": "HOLDS_POSITION",
+            "dest": "company_leonardo",
+            "properties": {
+                "position_title": "Chief Executive Officer and General Manager",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_roberto_cingolani",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Executive Director",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_trifone_altieri",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Independent Director",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_giancarlo_ghislanzoni",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Lead Independent Director",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_enrica_giorgetti",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Independent Director",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_dominique_levy",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Independent Director",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_francesco_macri",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Independent Director",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_cristina_manara",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Independent Director",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_marcello_sala",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Non-Executive Director",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_silvia_stefini",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Independent Director",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_elena_vasco",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Independent Director",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_steven_duncan_wood",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Independent Director",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_domenica_lista",
+            "type": "HOLDS_POSITION",
+            "dest": "company_leonardo",
+            "properties": {
+                "position_title": "Chief Corporate Bodies Affairs Officer",
+                "startDate": ""
+            }
+        },
+        {
+            "source": "person_lorenzo_mariani",
+            "type": "HOLDS_POSITION",
+            "dest": "company_leonardo",
+            "properties": {
+                "position_title": "Co General Manager",
+                "startDate": "2023-06-01"
+            }
+        },
+        {
+            "source": "person_giancarlo_ghislanzoni",
+            "type": "HOLDS_POSITION",
+            "dest": "company_leonardo",
+            "properties": {
+                "position_title": "Lead Independent Director",
+                "startDate": ""
+            }
+        },
+        {
+            "source": "person_giancarlo_ghislanzoni",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_giancarlo_ghislanzoni",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_elena_vasco",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "chairman": "true",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_elena_vasco",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_enrica_giorgetti",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_enrica_giorgetti",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "chairman": "true",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_dominique_levy",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_francesco_macri",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_francesco_macri",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_silvia_stefini",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_cristina_manara",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "chairman": "true",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_marcello_sala",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_steven_duncan_wood",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_steven_duncan_wood",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_trifone_altieri",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_silvia_stefini",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "chairman": "true",
+                "startDate": ""
+            }
+        },
+        {
+            "source": "person_trifone_altieri",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_dominique_levy",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_cristina_manara",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": ""
+            }
+        },
+        {
+            "source": "person_marcello_sala",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_salvatore_lampone",
+            "type": "HOLDS_POSITION",
+            "dest": "company_leonardo",
+            "properties": {
+                "position_title": "Chief Audit Executive",
+                "startDate": "2024-05-15"
+            }
+        },
+        {
+            "source": "committee_surveillance_body_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {}
+        },
+        {
+            "source": "committee_whistleblowing_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {}
+        },
+        {
+            "source": "person_federico_maurizo_dandrea",
+            "type": "MEMBER_OF",
+            "dest": "committee_surveillance_body_leonardo",
+            "properties": {
+                "chairman": "true",
+                "startDate": "2023-07-28"
+            }
+        },
+        {
+            "source": "person_giandomenico_caiazza",
+            "type": "MEMBER_OF",
+            "dest": "committee_surveillance_body_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-07-28"
+            }
+        },
+        {
+            "source": "person_raffaele_cusmai",
+            "type": "MEMBER_OF",
+            "dest": "committee_surveillance_body_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-07-28"
+            }
+        },
+        {
+            "source": "person_romina_guglielmetti",
+            "type": "MEMBER_OF",
+            "dest": "committee_surveillance_body_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-07-28"
+            }
+        },
+        {
+            "source": "person_salvatore_lampone",
+            "type": "MEMBER_OF",
+            "dest": "committee_surveillance_body_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2024-05-15"
+            }
+        },
+        {
+            "source": "person_luca_rossi",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "type": "Chairman",
+                "startDate": "2024-05-24"
+            }
+        },
+        {
+            "source": "person_marco_fazzini",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "type": "Statutory Auditor",
+                "startDate": "2024-05-24"
+            }
+        },
+        {
+            "source": "person_giulia_pusterla",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "type": "Statutory Auditor",
+                "startDate": "2024-05-24"
+            }
+        },
+        {
+            "source": "person_paola_simonelli",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "type": "Statutory Auditor",
+                "startDate": "2024-05-24"
+            }
+        },
+        {
+            "source": "person_alessandro_zavaglia",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "type": "Statutory Auditor",
+                "startDate": "2024-05-24"
+            }
+        },
+        {
+            "source": "person_giuseppe_cerati",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "type": "Alternate Auditor",
+                "startDate": "2024-05-24"
+            }
+        },
+        {
+            "source": "person_fabrizio_pezzani",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "type": "Alternate Auditor",
+                "startDate": "2024-05-24"
+            }
+        },
+        {
+            "source": "person_serenella_rossano",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "type": "Alternate Auditor",
+                "startDate": "2024-05-24"
+            }
+        },
+        {
+            "source": "person_monica_scipione",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "type": "Alternate Auditor",
+                "startDate": "2024-05-24"
+            }
+        },
+        {
+            "source": "committee_steering_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {}
+        },
+        {
+            "source": "person_amedeo_sacrestano",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "type": "Statutory Auditor",
+                "startDate": "2024-05-24"
+            }
+        },
+        {
+            "source": "person_roberto_cingolani",
+            "type": "MEMBER_OF",
+            "dest": "committee_steering_leonardo",
+            "properties": {
+                "chairman": "true",
+                "startDate": ""
+            }
+        },
+        {
+            "source": "person_trifone_altieri",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_giancarlo_ghislanzoni",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "chairman": "true",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_enrica_giorgetti",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_dominique_levy",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_francesco_macri",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_cristina_manara",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_marcello_sala",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_silvia_stefini",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_elena_vasco",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        },
+        {
+            "source": "person_steven_duncan_wood",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09"
+            }
+        }
+    ]
+}

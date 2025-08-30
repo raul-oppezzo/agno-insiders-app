@@ -7,7 +7,8 @@ from argparse import ArgumentParser
 from agno.utils.log import logger
 from agno.workflow import RunResponse
 
-from models.report_results import ReportResults
+from exceptions.exceptions import WorkflowException
+from models.report_results import ReportResultsTemp
 from workflows.insiders_workflow_v2 import InsidersWorkflow
 
 load_dotenv()
@@ -18,22 +19,31 @@ def main(company_name: str) -> None:
 
     try:
         response: RunResponse = workflow.run(company_name=company_name)
+        logger.info("Workflow completed.")
+    except WorkflowException as e:
+        logger.error("Workflow error.")
+        logger.error(str(e))
+        return
     except Exception as e:
-        logger.error("Unexpected error from workflow.")
+        logger.error("Unexpected error.")
         logger.error(str(e))
         return
 
-    logger.info("Workflow completed successfully.")
+    if response.content == "":
+        return
 
-    # Save the results to a file in ../results/v2 folder
+    # Save the results to a file in ../results/v3 folder
     os.makedirs("results/v3", exist_ok=True)
     filename = f"{company_name.replace(' ', '_').lower()}_insiders_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
     filepath = os.path.join("results/v3", filename)
 
     with open(filepath, "w") as f:
-        f.write(json.dumps(response.content, indent=4))
-
-    logger.info(f"Results saved to {filepath}.")
+        content = response.content
+        if isinstance(content, ReportResultsTemp):
+            f.write(content.model_dump_json(indent=4))
+        else:
+            f.write(json.dump(content, indent=4))
+        logger.info(f"Results saved to {filepath}.")
 
 
 if __name__ == "__main__":

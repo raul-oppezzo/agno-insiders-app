@@ -1,6 +1,7 @@
 import asyncio
 import tempfile
 import os
+import threading
 import time
 import requests
 from typing import Any, Dict, List, Optional, Union
@@ -106,6 +107,32 @@ class CrawlTools(Toolkit):
 
         return config_params
 
+    def _run_coro_in_thread(self, coro: asyncio.coroutines) -> Any:
+        """Run coroutine in a separate thread with its own event loop and return the result."""
+        result_container: Dict[str, Any] = {}
+        exc_container: Dict[str, BaseException] = {}
+
+        def _runner():
+            try:
+                loop = asyncio.new_event_loop()
+                asyncio.set_event_loop(loop)
+                result_container["result"] = loop.run_until_complete(coro)
+            except BaseException as e:
+                exc_container["exc"] = e
+            finally:
+                try:
+                    loop.close()
+                except Exception:
+                    pass
+
+        t = threading.Thread(target=_runner, daemon=True)
+        t.start()
+        t.join()
+
+        if "exc" in exc_container:
+            raise exc_container["exc"]
+        return result_container.get("result")
+
     def crawl(
         self,
         url: Union[str, List[str]],  # search_query: Optional[str] = None
@@ -122,16 +149,30 @@ class CrawlTools(Toolkit):
         if not url:
             return "Error: No URL provided"
 
+        def _call_async(url_to_call: str, search_query: Optional[str] = None):
+            # If there's already a running loop, run the coroutine in a new thread.
+            try:
+                asyncio.get_running_loop()
+                # running loop -> run in background thread with its own loop
+                return self._run_coro_in_thread(self._async_crawl(url_to_call, search_query))
+            except RuntimeError:
+                # no running loop -> safe to use asyncio.run
+                return asyncio.run(self._async_crawl(url_to_call, search_query))
+
         # Handle single URL
         if isinstance(url, str):
-            return asyncio.run(self._async_crawl(url))  # , search_query))
+            try:
+                return _call_async(url)
+            except Exception as e:
+                return f"Error during crawl: {e}"
 
         # Handle list of URLs
-        results = {}
+        results: Dict[str, str] = {}
         for single_url in url:
-            results[single_url] = asyncio.run(
-                self._async_crawl(single_url)  # , search_query)
-            )
+            try:
+                results[single_url] = _call_async(single_url)
+            except Exception as e:
+                results[single_url] = f"Error during crawl: {e}"
         return results
 
     async def _async_crawl(self, url: str, search_query: Optional[str] = None) -> str:

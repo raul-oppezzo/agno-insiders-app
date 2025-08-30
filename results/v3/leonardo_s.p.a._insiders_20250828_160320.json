@@ -1,0 +1,1905 @@
+{
+    "nodes": [
+        {
+            "id": "address_rome_piazzamontegrappan4",
+            "label": "Address",
+            "properties": {
+                "street": "Piazza Monte Grappa, 4",
+                "city": "Rome",
+                "postalCode": "00195",
+                "country": "Italy"
+            }
+        },
+        {
+            "id": "auditor_ey",
+            "label": "Auditor",
+            "properties": {
+                "name": "EY SpA"
+            }
+        },
+        {
+            "id": "authority_court_of_auditors",
+            "label": "Authority",
+            "properties": {
+                "name": "Court of Auditors"
+            }
+        },
+        {
+            "id": "board_of_directors_leonardo",
+            "label": "Board",
+            "properties": {
+                "type": "board of directors"
+            }
+        },
+        {
+            "id": "board_of_statutory_auditors_leonardo",
+            "label": "Board",
+            "properties": {
+                "type": "board of statutory auditors"
+            }
+        },
+        {
+            "id": "committee_control_and_risks_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Control and Risks Committee"
+            }
+        },
+        {
+            "id": "committee_coordination_and_consultation_for_the_prevention_of_corruption_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Coordination and Consultation Body for the Prevention of Corruption"
+            }
+        },
+        {
+            "id": "committee_nomination_and_governance_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Nomination and Governance Committee"
+            }
+        },
+        {
+            "id": "committee_remuneration_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Remuneration Committee"
+            }
+        },
+        {
+            "id": "committee_steering_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Steering Committee"
+            }
+        },
+        {
+            "id": "committee_sustainability_and_innovation_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Sustainability and Innovation Committee"
+            }
+        },
+        {
+            "id": "committee_surveillance_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Surveillance Body"
+            }
+        },
+        {
+            "id": "committee_whistleblowing_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Whistleblowing Committee"
+            }
+        },
+        {
+            "id": "company_leonardo",
+            "label": "Company",
+            "properties": {
+                "name": "LEONARDO Societ per azioni",
+                "isin": "",
+                "ticker": "LDO",
+                "vatNumber": "00881841001"
+            }
+        },
+        {
+            "id": "insider_alessandra_genco",
+            "label": "insider",
+            "properties": {
+                "firstName": "Alessandra",
+                "lastName": "Genco",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_alessandro_zavaglia",
+            "label": "insider",
+            "properties": {
+                "firstName": "Alessandro",
+                "lastName": "Zavaglia",
+                "dateOfBirth": "1970",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_amedeo_sacrestano",
+            "label": "insider",
+            "properties": {
+                "firstName": "Amedeo",
+                "lastName": "Sacrestano",
+                "dateOfBirth": "1968",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_anna_rita_de_mauro",
+            "label": "insider",
+            "properties": {
+                "firstName": "Anna Rita",
+                "lastName": "De Mauro",
+                "dateOfBirth": "1970",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_cristina_manara",
+            "label": "insider",
+            "properties": {
+                "firstName": "Cristina",
+                "lastName": "Manara",
+                "dateOfBirth": "1978",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_domenica_lista",
+            "label": "insider",
+            "properties": {
+                "firstName": "Domenica",
+                "lastName": "Lista",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_dominique_levy",
+            "label": "insider",
+            "properties": {
+                "firstName": "Dominique",
+                "lastName": "Levy",
+                "dateOfBirth": "1969",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_elena_vasco",
+            "label": "insider",
+            "properties": {
+                "firstName": "Elena",
+                "lastName": "Vasco",
+                "dateOfBirth": "1964",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_enrica_giorgetti",
+            "label": "insider",
+            "properties": {
+                "firstName": "Enrica",
+                "lastName": "Giorgetti",
+                "dateOfBirth": "1956",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_eugenio_pinto",
+            "label": "insider",
+            "properties": {
+                "firstName": "Eugenio",
+                "lastName": "Pinto",
+                "dateOfBirth": "1959",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_fabrizio_pezzani",
+            "label": "insider",
+            "properties": {
+                "firstName": "Fabrizio",
+                "lastName": "Pezzani",
+                "dateOfBirth": "1948",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_federico_maurizo_dandrea",
+            "label": "insider",
+            "properties": {
+                "firstName": "Federico Maurizo",
+                "lastName": "DAndrea",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_francesco_macri",
+            "label": "insider",
+            "properties": {
+                "firstName": "Francesco",
+                "lastName": "Macr",
+                "dateOfBirth": "1973",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_giancarlo_ghislanzoni",
+            "label": "insider",
+            "properties": {
+                "firstName": "Giancarlo",
+                "lastName": "Ghislanzoni",
+                "dateOfBirth": "1960",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_giandomenico_caiazza",
+            "label": "insider",
+            "properties": {
+                "firstName": "Giandomenico",
+                "lastName": "Caiazza",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_giulia_pusterla",
+            "label": "insider",
+            "properties": {
+                "firstName": "Giulia",
+                "lastName": "Pusterla",
+                "dateOfBirth": "1960",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_giuseppe_cerati",
+            "label": "insider",
+            "properties": {
+                "firstName": "Giuseppe",
+                "lastName": "Cerati",
+                "dateOfBirth": "1962",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_leonardo_quagliata",
+            "label": "insider",
+            "properties": {
+                "firstName": "Leonardo",
+                "lastName": "Quagliata",
+                "dateOfBirth": "1953",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_lorenzo_mariani",
+            "label": "insider",
+            "properties": {
+                "firstName": "Lorenzo",
+                "lastName": "Mariani",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_luca_rossi",
+            "label": "insider",
+            "properties": {
+                "firstName": "Luca",
+                "lastName": "Rossi",
+                "dateOfBirth": "1967",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_marcello_sala",
+            "label": "insider",
+            "properties": {
+                "firstName": "Marcello",
+                "lastName": "Sala",
+                "dateOfBirth": "1968",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_marco_di_capua",
+            "label": "insider",
+            "properties": {
+                "firstName": "Marco",
+                "lastName": "Di Capua",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_marco_fazzini",
+            "label": "insider",
+            "properties": {
+                "firstName": "Marco",
+                "lastName": "Fazzini",
+                "dateOfBirth": "1974",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_monica_scipione",
+            "label": "insider",
+            "properties": {
+                "firstName": "Monica",
+                "lastName": "Scipione",
+                "dateOfBirth": "1971",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_paola_simonelli",
+            "label": "insider",
+            "properties": {
+                "firstName": "Paola",
+                "lastName": "Simonelli",
+                "dateOfBirth": "1964",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_raffaele_cusmai",
+            "label": "insider",
+            "properties": {
+                "firstName": "Raffaele",
+                "lastName": "Cusmai",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_roberto_cingolani",
+            "label": "insider",
+            "properties": {
+                "firstName": "Roberto",
+                "lastName": "Cingolani",
+                "dateOfBirth": "1961",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_romina_guglielmetti",
+            "label": "insider",
+            "properties": {
+                "firstName": "Romina",
+                "lastName": "Guglielmetti",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_salvatore_lampone",
+            "label": "insider",
+            "properties": {
+                "firstName": "Salvatore",
+                "lastName": "Lampone",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_sara_fornasiero",
+            "label": "insider",
+            "properties": {
+                "firstName": "Sara",
+                "lastName": "Fornasiero",
+                "dateOfBirth": "1968",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_serenella_rossano",
+            "label": "insider",
+            "properties": {
+                "firstName": "Serenella",
+                "lastName": "Rossano",
+                "dateOfBirth": "1964",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_silvia_stefini",
+            "label": "insider",
+            "properties": {
+                "firstName": "Silvia",
+                "lastName": "Stefini",
+                "dateOfBirth": "1964",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_stefano_pontecorvo",
+            "label": "insider",
+            "properties": {
+                "firstName": "Stefano",
+                "lastName": "Pontecorvo",
+                "dateOfBirth": "1957",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_steven_duncan_wood",
+            "label": "insider",
+            "properties": {
+                "firstName": "Steven Duncan",
+                "lastName": "Wood",
+                "dateOfBirth": "1982",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_tommaso_miele",
+            "label": "insider",
+            "properties": {
+                "firstName": "Tommaso",
+                "lastName": "Miele",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "insider_trifone_altieri",
+            "label": "insider",
+            "properties": {
+                "firstName": "Trifone",
+                "lastName": "Altieri",
+                "dateOfBirth": "1975",
+                "cityOfBirth": "",
+                "taxCode": ""
+            }
+        },
+        {
+            "id": "shareholder_institutional",
+            "label": "Shareholder",
+            "properties": {
+                "name": "Institutional"
+            }
+        },
+        {
+            "id": "shareholder_ministry_of_economy_and_finance",
+            "label": "Shareholder",
+            "properties": {
+                "name": "Ministry of Economy and Finance"
+            }
+        },
+        {
+            "id": "shareholder_retail",
+            "label": "Shareholder",
+            "properties": {
+                "name": "Retail"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "source": "board_of_directors_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {}
+        },
+        {
+            "source": "board_of_statutory_auditors_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {}
+        },
+        {
+            "source": "committee_control_and_risks_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {}
+        },
+        {
+            "source": "committee_coordination_and_consultation_for_the_prevention_of_corruption_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {}
+        },
+        {
+            "source": "committee_nomination_and_governance_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {}
+        },
+        {
+            "source": "committee_remuneration_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {}
+        },
+        {
+            "source": "committee_steering_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {}
+        },
+        {
+            "source": "committee_sustainability_and_innovation_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {}
+        },
+        {
+            "source": "committee_surveillance_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {}
+        },
+        {
+            "source": "committee_whistleblowing_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {}
+        },
+        {
+            "source": "company_leonardo",
+            "type": "AUDITED_BY",
+            "dest": "auditor_ey",
+            "properties": {
+                "fiscalYear": "2021"
+            }
+        },
+        {
+            "source": "company_leonardo",
+            "type": "LOCATED_AT",
+            "dest": "address_rome_piazzamontegrappan4",
+            "properties": {}
+        },
+        {
+            "source": "insider_alessandra_genco",
+            "type": "HOLDS_POSITION",
+            "dest": "company_leonardo",
+            "properties": {
+                "title": "Officer in Charge of Financial Reporting",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_alessandra_genco",
+            "type": "HOLDS_POSITION",
+            "dest": "company_leonardo",
+            "properties": {
+                "title": "Chief Financial Officer",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_alessandro_zavaglia",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Regular Auditor",
+                "startDate": "2024-05-24",
+                "endDate": "2026-12-31"
+            }
+        },
+        {
+            "source": "insider_alessandro_zavaglia",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Regular Auditor",
+                "startDate": "2024-05-24",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_amedeo_sacrestano",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Standing Auditor",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_amedeo_sacrestano",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Regular Auditor",
+                "startDate": "2021-05-19",
+                "endDate": "2024-05-24"
+            }
+        },
+        {
+            "source": "insider_anna_rita_de_mauro",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Regular Auditor",
+                "startDate": "2021-05-19",
+                "endDate": "2024-05-24"
+            }
+        },
+        {
+            "source": "insider_cristina_manara",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_cristina_manara",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_cristina_manara",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Independent Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_cristina_manara",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "role": "Chairman",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_cristina_manara",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_cristina_manara",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_cristina_manara",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_domenica_lista",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Secretary of the Board of Directors",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_domenica_lista",
+            "type": "HOLDS_POSITION",
+            "dest": "company_leonardo",
+            "properties": {
+                "title": "Chief Corporate Bodies Affairs Officer",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_domenica_lista",
+            "type": "HOLDS_POSITION",
+            "dest": "company_leonardo",
+            "properties": {
+                "title": "Secretary of the internal Board Committees",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_domenica_lista",
+            "type": "MEMBER_OF",
+            "dest": "committee_coordination_and_consultation_for_the_prevention_of_corruption_leonardo",
+            "properties": {
+                "role": "Secretary of the Coordination and Consultation Body for the Prevention of Corruption",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_dominique_levy",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_dominique_levy",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_dominique_levy",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Independent Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_dominique_levy",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "role": "",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_dominique_levy",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_dominique_levy",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_dominique_levy",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_elena_vasco",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_elena_vasco",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_elena_vasco",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Independent Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_elena_vasco",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "role": "Chairman",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_elena_vasco",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "role": "",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_elena_vasco",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_elena_vasco",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_enrica_giorgetti",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_enrica_giorgetti",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_enrica_giorgetti",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Independent Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_enrica_giorgetti",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "role": "",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_enrica_giorgetti",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "role": "Chairman",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_enrica_giorgetti",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_enrica_giorgetti",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_eugenio_pinto",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Alternate Auditor",
+                "startDate": "2021-05-19",
+                "endDate": "2024-05-24"
+            }
+        },
+        {
+            "source": "insider_fabrizio_pezzani",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Alternate Auditor",
+                "startDate": "2024-05-24",
+                "endDate": "2026-12-31"
+            }
+        },
+        {
+            "source": "insider_fabrizio_pezzani",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Alternate Auditor",
+                "startDate": "2024-05-24",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_federico_maurizo_dandrea",
+            "type": "MEMBER_OF",
+            "dest": "committee_surveillance_leonardo",
+            "properties": {
+                "role": "Chairman",
+                "startDate": "2023-07-28",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_francesco_macr",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_francesco_macr",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_francesco_macr",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Independent Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_francesco_macr",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "role": "",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_francesco_macr",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "role": "",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_francesco_macr",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_francesco_macr",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_giancarlo_ghislanzoni",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_giancarlo_ghislanzoni",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_giancarlo_ghislanzoni",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Independent Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_giancarlo_ghislanzoni",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Lead Independent Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_giancarlo_ghislanzoni",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "role": "",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_giancarlo_ghislanzoni",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "role": "",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_giancarlo_ghislanzoni",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "role": "Non executive Director Lead Independent Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_giancarlo_ghislanzoni",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "role": "Non executive Director Lead Independent Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_giandomenico_caiazza",
+            "type": "MEMBER_OF",
+            "dest": "committee_surveillance_leonardo",
+            "properties": {
+                "role": "",
+                "startDate": "2023-07-28",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_giulia_pusterla",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Regular Auditor",
+                "startDate": "2024-05-24",
+                "endDate": "2026-12-31"
+            }
+        },
+        {
+            "source": "insider_giulia_pusterla",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Regular Auditor",
+                "startDate": "2024-05-24",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_giuseppe_cerati",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Alternate Auditor",
+                "startDate": "2024-05-24",
+                "endDate": "2026-12-31"
+            }
+        },
+        {
+            "source": "insider_giuseppe_cerati",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Alternate Auditor",
+                "startDate": "2019-05-16",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_leonardo_quagliata",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "",
+                "startDate": "",
+                "endDate": "2024-05-23"
+            }
+        },
+        {
+            "source": "insider_leonardo_quagliata",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Regular Auditor",
+                "startDate": "2018-05-15",
+                "endDate": "2024-05-24"
+            }
+        },
+        {
+            "source": "insider_lorenzo_mariani",
+            "type": "HOLDS_POSITION",
+            "dest": "company_leonardo",
+            "properties": {
+                "title": "Co General Manager",
+                "startDate": "2023-06-01",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_luca_rossi",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Chairman",
+                "startDate": "2024-05-24",
+                "endDate": "2026-12-31"
+            }
+        },
+        {
+            "source": "insider_luca_rossi",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Regular Auditor",
+                "startDate": "2024-05-24",
+                "endDate": "2026-12-31"
+            }
+        },
+        {
+            "source": "insider_luca_rossi",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Chairman of the Board of Statutory Auditors",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_luca_rossi",
+            "type": "MEMBER_OF",
+            "dest": "committee_coordination_and_consultation_for_the_prevention_of_corruption_leonardo",
+            "properties": {
+                "role": "Chairman",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_luca_rossi",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Chairman",
+                "startDate": "2018-11-08",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_marcello_sala",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_marcello_sala",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_marcello_sala",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "non independent Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_marcello_sala",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "role": "",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_marcello_sala",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_marcello_sala",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_marcello_sala",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_marco_di_capua",
+            "type": "MEMBER_OF",
+            "dest": "committee_surveillance_leonardo",
+            "properties": {
+                "role": "Chief Audit Executive",
+                "startDate": "",
+                "endDate": "2024-05-14"
+            }
+        },
+        {
+            "source": "insider_marco_fazzini",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Regular Auditor",
+                "startDate": "2024-05-24",
+                "endDate": "2026-12-31"
+            }
+        },
+        {
+            "source": "insider_marco_fazzini",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Regular Auditor",
+                "startDate": "2024-05-24",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_monica_scipione",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Alternate Auditor",
+                "startDate": "2024-05-24",
+                "endDate": "2026-12-31"
+            }
+        },
+        {
+            "source": "insider_monica_scipione",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Alternate Auditor",
+                "startDate": "2024-05-24",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_paola_simonelli",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Regular Auditor",
+                "startDate": "2024-05-24",
+                "endDate": "2026-12-31"
+            }
+        },
+        {
+            "source": "insider_paola_simonelli",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Regular Auditor",
+                "startDate": "2024-05-24",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_raffaele_cusmai",
+            "type": "MEMBER_OF",
+            "dest": "committee_surveillance_leonardo",
+            "properties": {
+                "role": "",
+                "startDate": "2023-07-28",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_roberto_cingolani",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Chief Executive Officer and General Manager",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_roberto_cingolani",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Executive Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_roberto_cingolani",
+            "type": "MEMBER_OF",
+            "dest": "committee_steering_leonardo",
+            "properties": {
+                "role": "Chief Executive Officer and General Manager",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_roberto_cingolani",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "role": "Executive CEO & General Manager",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_roberto_cingolani",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "role": "Executive CEO & General Manager",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_roberto_cingolani",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "role": "Executive CEO & General Manager",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_roberto_cingolani",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "role": "Executive CEO & General Manager",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_romina_guglielmetti",
+            "type": "MEMBER_OF",
+            "dest": "committee_surveillance_leonardo",
+            "properties": {
+                "role": "",
+                "startDate": "2023-07-28",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_salvatore_lampone",
+            "type": "MEMBER_OF",
+            "dest": "committee_surveillance_leonardo",
+            "properties": {
+                "role": "Chief Audit Executive",
+                "startDate": "2024-05-15",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_sara_fornasiero",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "",
+                "startDate": "",
+                "endDate": "2024-05-23"
+            }
+        },
+        {
+            "source": "insider_sara_fornasiero",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Regular Auditor",
+                "startDate": "2018-05-15",
+                "endDate": "2024-05-24"
+            }
+        },
+        {
+            "source": "insider_serenella_rossano",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Alternate Auditor",
+                "startDate": "2024-05-24",
+                "endDate": "2026-12-31"
+            }
+        },
+        {
+            "source": "insider_serenella_rossano",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "role": "Alternate Auditor",
+                "startDate": "2024-05-24",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_silvia_stefini",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_silvia_stefini",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_silvia_stefini",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Independent Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_silvia_stefini",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "role": "",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_silvia_stefini",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_silvia_stefini",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_silvia_stefini",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_stefano_pontecorvo",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Chairman",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_stefano_pontecorvo",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Executive Chairman and non independent Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_stefano_pontecorvo",
+            "type": "MEMBER_OF",
+            "dest": "committee_coordination_and_consultation_for_the_prevention_of_corruption_leonardo",
+            "properties": {
+                "role": "Chairman",
+                "startDate": "2017",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_stefano_pontecorvo",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "role": "Executive Chairman",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_stefano_pontecorvo",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "role": "Executive Chairman",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_stefano_pontecorvo",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "role": "Executive Chairman",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_stefano_pontecorvo",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "role": "Executive Chairman",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_steven_duncan_wood",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_steven_duncan_wood",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_steven_duncan_wood",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Independent Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_steven_duncan_wood",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "role": "",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_steven_duncan_wood",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "role": "",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_steven_duncan_wood",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_steven_duncan_wood",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_tommaso_miele",
+            "type": "REPRESENTS",
+            "dest": "authority_court_of_auditors",
+            "properties": {
+                "title": "Delegated Judge",
+                "startDate": "2022-07-25",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_trifone_altieri",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_trifone_altieri",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_trifone_altieri",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "role": "Independent Director",
+                "startDate": "2023-05-09",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_trifone_altieri",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "role": "",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_trifone_altieri",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_trifone_altieri",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "insider_trifone_altieri",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "role": "Non executive Director",
+                "startDate": "",
+                "endDate": ""
+            }
+        },
+        {
+            "source": "shareholder_institutional",
+            "type": "OWNS_SHARES_IN",
+            "dest": "company_leonardo",
+            "properties": {
+                "percentage": 50.8
+            }
+        },
+        {
+            "source": "shareholder_ministry_of_economy_and_finance",
+            "type": "OWNS_SHARES_IN",
+            "dest": "company_leonardo",
+            "properties": {
+                "percentage": 30.204
+            }
+        },
+        {
+            "source": "shareholder_retail",
+            "type": "OWNS_SHARES_IN",
+            "dest": "company_leonardo",
+            "properties": {
+                "percentage": 18.5
+            }
+        }
+    ]
+}

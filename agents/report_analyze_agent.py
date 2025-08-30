@@ -1,21 +1,15 @@
-import os
-from typing import Iterator
-
 from agno.agent import Agent, RunResponse
 from agno.models.google import Gemini
 from agno.utils.log import logger
 
-from agno.tools.reasoning import ReasoningTools
-
-from models.report_results import ReportResultsTemp, ReportResults
+from exceptions.exceptions import AgentException
+from models.report_results import ReportResultsTemp
 from prompts.report_analyze_agent_prompt import (
     DESCRIPTION_TEMP,
     ADDITIONAL_CONTEXT_TEMP,
     INSTRUCTIONS_TEMP,
 )
 from tools.pdf import PDFTools
-
-DEBUG = os.getenv("DEBUG", "False").lower() == "true"
 
 
 class ReportAnalyzeAgent:
@@ -25,35 +19,38 @@ class ReportAnalyzeAgent:
             name="ReportAnalyzeAgent",
             model=Gemini(
                 id="gemini-2.5-flash",
-                temperature=0.0,
+                temperature=0.1,
+                top_p=0.95,
             ),
-            # tools=[ReasoningTools(add_instructions=True)],
             description=DESCRIPTION_TEMP,
-            additional_context=ADDITIONAL_CONTEXT_TEMP,
             instructions=INSTRUCTIONS_TEMP,
+            additional_context=ADDITIONAL_CONTEXT_TEMP,
             use_json_mode=True,
             response_model=ReportResultsTemp,
-            debug_mode=DEBUG,
+            debug_mode=False,
             exponential_backoff=True,
             retries=2,
             delay_between_retries=30,  # Timeout of 30 seconds
         )
 
-    async def analyze_chunk_async(self, chunk_text: str) -> ReportResults:
+    async def analyze_chunk_async(
+        self, chunk_index: int, chunk_text: str
+    ) -> ReportResultsTemp:
         """
-        Search for the insiders and governance data in the given chunk
+        Search for the insiders and governance data in the given chunk.
 
         Args:
-            chunk(object): an object containing a text field.
+            chunk_index (int): The index of the chunk.
+            chunk_text (str): The text of the chunk.
 
-        Returns
+        Returns:
             ReportResults: The results of the analysis.
         """
 
         chunk_prompt = f""" 
             Please analyze this chunk of the corporate governance report:
             
-            **CHUNK**:
+            **CHUNK {chunk_index}**:
             \"\"\"
             {chunk_text}
             \"\"\"
@@ -62,18 +59,22 @@ class ReportAnalyzeAgent:
             """
 
         try:
-            response = await self.agent.arun(chunk_prompt, stream=False)
+            response: RunResponse = await self.agent.arun(chunk_prompt, stream=False)
         except Exception as e:
-            logger.error(f"Error in {self.agent.name}.")
-            raise e
+            message = f"Error in {self.agent.name}."
+            raise AgentException(message) from e
 
-        if response.content is None:
-            raise ValueError(f"Missing response content.")
+        if response is None or response.content is None:
+            message = f"Missing response content."
+            raise AgentException(message)
 
         if not isinstance(response.content, ReportResultsTemp):
-            raise TypeError(f"Expected ReportResults, got {type(response.content)}.")
+            message = f"Expected ReportResults, got {type(response.content)}."
+            raise AgentException(message)
 
         return response.content
+
+    ###################### Unused ###########################
 
     def analyze_report(self, report_url: str = "") -> ReportResultsTemp:
         """
