@@ -1,0 +1,1152 @@
+{
+    "nodes": [
+        {
+            "id": "company_leonardo",
+            "label": "Company",
+            "properties": {
+                "name": "Leonardo Società per azioni",
+                "isin": "",
+                "ticker": "LDO",
+                "vatNumber": "00881841001",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "address_rome_piazza_monte_grappa_4",
+            "label": "Address",
+            "properties": {
+                "street": "Piazza Monte Grappa n. 4",
+                "city": "Rome",
+                "postalCode": "00195",
+                "country": "Italy",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "auditor_ey",
+            "label": "Auditor",
+            "properties": {
+                "name": "EY SpA",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "board_of_directors_leonardo",
+            "label": "Board",
+            "properties": {
+                "type": "board of directors",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "board_of_statutory_auditors_leonardo",
+            "label": "Board",
+            "properties": {
+                "type": "board of statutory auditors",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "committee_control_and_risks_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Control and Risks Committee",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "committee_nomination_and_governance_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Nomination and Governance Committee",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "committee_remuneration_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Remuneration Committee",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "committee_sustainability_and_innovation_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Sustainability and Innovation Committee",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_alessandra_genco",
+            "label": "Person",
+            "properties": {
+                "name": "Alessandra Genco",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_stefano_pontecorvo",
+            "label": "Person",
+            "properties": {
+                "name": "Stefano Pontecorvo",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_roberto_cingolani",
+            "label": "Person",
+            "properties": {
+                "name": "Roberto Cingolani",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_trifone_altieri",
+            "label": "Person",
+            "properties": {
+                "name": "Trifone Altieri",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_giancarlo_ghislanzoni",
+            "label": "Person",
+            "properties": {
+                "name": "Giancarlo Ghislanzoni",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_enrica_giorgetti",
+            "label": "Person",
+            "properties": {
+                "name": "Enrica Giorgetti",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_dominique_levy",
+            "label": "Person",
+            "properties": {
+                "name": "Dominique Levy",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_francesco_macri",
+            "label": "Person",
+            "properties": {
+                "name": "Francesco Macri",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_cristina_manara",
+            "label": "Person",
+            "properties": {
+                "name": "Cristina Manara",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_marcello_sala",
+            "label": "Person",
+            "properties": {
+                "name": "Marcello Sala",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_silvia_stefini",
+            "label": "Person",
+            "properties": {
+                "name": "Silvia Stefini",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_elena_vasco",
+            "label": "Person",
+            "properties": {
+                "name": "Elena Vasco",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_steven_duncan_wood",
+            "label": "Person",
+            "properties": {
+                "name": "Steven Duncan Wood",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_domenica_lista",
+            "label": "Person",
+            "properties": {
+                "name": "Domenica Lista",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_lorenzo_mariani",
+            "label": "Person",
+            "properties": {
+                "name": "Lorenzo Mariani",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_salvatore_lampone",
+            "label": "Person",
+            "properties": {
+                "name": "Salvatore Lampone",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "committee_surveillance_body_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Surveillance Body",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_federico_maurizo_d_andrea",
+            "label": "Person",
+            "properties": {
+                "name": "Federico Maurizo DAndrea",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_giandomenico_caiazza",
+            "label": "Person",
+            "properties": {
+                "name": "Giandomenico Caiazza",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_raffaele_cusmai",
+            "label": "Person",
+            "properties": {
+                "name": "Raffaele Cusmai",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_romina_guglielmetti",
+            "label": "Person",
+            "properties": {
+                "name": "Romina Guglielmetti",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_luca_rossi",
+            "label": "Person",
+            "properties": {
+                "name": "Luca Rossi",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_marco_fazzini",
+            "label": "Person",
+            "properties": {
+                "name": "Marco Fazzini",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_giulia_pusterla",
+            "label": "Person",
+            "properties": {
+                "name": "Giulia Pusterla",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_paola_simonelli",
+            "label": "Person",
+            "properties": {
+                "name": "Paola Simonelli",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_alessandro_zavaglia",
+            "label": "Person",
+            "properties": {
+                "name": "Alessandro Zavaglia",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_giuseppe_cerati",
+            "label": "Person",
+            "properties": {
+                "name": "Giuseppe Cerati",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_fabrizio_pezzani",
+            "label": "Person",
+            "properties": {
+                "name": "Fabrizio Pezzani",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_serenella_rossano",
+            "label": "Person",
+            "properties": {
+                "name": "Serenella Rossano",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_monica_scipione",
+            "label": "Person",
+            "properties": {
+                "name": "Monica Scipione",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "committee_steering_leonardo",
+            "label": "Committee",
+            "properties": {
+                "name": "Steering Committee",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "id": "person_amedeo_sacrestano",
+            "label": "Person",
+            "properties": {
+                "name": "Amedeo Sacrestano",
+                "dateOfBirth": "",
+                "cityOfBirth": "",
+                "taxCode": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "source": "board_of_directors_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "board_of_statutory_auditors_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "committee_control_and_risks_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "committee_nomination_and_governance_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "committee_remuneration_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "committee_sustainability_and_innovation_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "company_leonardo",
+            "type": "LOCATED_AT",
+            "dest": "address_rome_piazza_monte_grappa_4",
+            "properties": {
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "company_leonardo",
+            "type": "AUDITED_BY",
+            "dest": "auditor_ey",
+            "properties": {
+                "from": "2021",
+                "to": "2029",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_alessandra_genco",
+            "type": "HOLDS_POSITION",
+            "dest": "company_leonardo",
+            "properties": {
+                "position_title": "Officer in Charge of Financial Reporting",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_stefano_pontecorvo",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Chairman",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_roberto_cingolani",
+            "type": "HOLDS_POSITION",
+            "dest": "company_leonardo",
+            "properties": {
+                "position_title": "Chief Executive Officer and General Manager",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_roberto_cingolani",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Executive Director",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_trifone_altieri",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Independent Director",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_giancarlo_ghislanzoni",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Lead Independent Director",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_enrica_giorgetti",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Independent Director",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_dominique_levy",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Independent Director",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_francesco_macri",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Independent Director",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_cristina_manara",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Independent Director",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_marcello_sala",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Independent Director",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_silvia_stefini",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Independent Director",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_elena_vasco",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Independent Director",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_steven_duncan_wood",
+            "type": "MEMBER_OF",
+            "dest": "board_of_directors_leonardo",
+            "properties": {
+                "type": "Independent Director",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_domenica_lista",
+            "type": "HOLDS_POSITION",
+            "dest": "company_leonardo",
+            "properties": {
+                "position_title": "Chief Corporate Bodies Affairs Officer",
+                "startDate": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_lorenzo_mariani",
+            "type": "HOLDS_POSITION",
+            "dest": "company_leonardo",
+            "properties": {
+                "position_title": "Co General Manager",
+                "startDate": "2023-06-01",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_giancarlo_ghislanzoni",
+            "type": "HOLDS_POSITION",
+            "dest": "company_leonardo",
+            "properties": {
+                "position_title": "Lead Independent Director",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_giancarlo_ghislanzoni",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_giancarlo_ghislanzoni",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_elena_vasco",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_elena_vasco",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_enrica_giorgetti",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_enrica_giorgetti",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "chairman": "true",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_dominique_levy",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_francesco_macri",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_francesco_macri",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_silvia_stefini",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_cristina_manara",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_marcello_sala",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_steven_duncan_wood",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_steven_duncan_wood",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_trifone_altieri",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_silvia_stefini",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "chairman": "true",
+                "startDate": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_trifone_altieri",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_dominique_levy",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_cristina_manara",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_marcello_sala",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_salvatore_lampone",
+            "type": "HOLDS_POSITION",
+            "dest": "company_leonardo",
+            "properties": {
+                "position_title": "Chief Audit Executive",
+                "startDate": "2024-05-15",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "committee_surveillance_body_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_federico_maurizo_d_andrea",
+            "type": "MEMBER_OF",
+            "dest": "committee_surveillance_body_leonardo",
+            "properties": {
+                "chairman": "true",
+                "startDate": "2023-07-28",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_giandomenico_caiazza",
+            "type": "MEMBER_OF",
+            "dest": "committee_surveillance_body_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-07-28",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_raffaele_cusmai",
+            "type": "MEMBER_OF",
+            "dest": "committee_surveillance_body_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-07-28",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_romina_guglielmetti",
+            "type": "MEMBER_OF",
+            "dest": "committee_surveillance_body_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-07-28",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_salvatore_lampone",
+            "type": "MEMBER_OF",
+            "dest": "committee_surveillance_body_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2024-05-15",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_luca_rossi",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "type": "Chairman",
+                "startDate": "2024-05-24",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_marco_fazzini",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "type": "Statutory Auditor",
+                "startDate": "2024-05-24",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_giulia_pusterla",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "type": "Statutory Auditor",
+                "startDate": "2024-05-24",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_paola_simonelli",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "type": "Statutory Auditor",
+                "startDate": "2024-05-24",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_alessandro_zavaglia",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "type": "Statutory Auditor",
+                "startDate": "2024-05-24",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_giuseppe_cerati",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "type": "Alternate Auditor",
+                "startDate": "2024-05-24",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_fabrizio_pezzani",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "type": "Alternate Auditor",
+                "startDate": "2024-05-24",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_serenella_rossano",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "type": "Alternate Auditor",
+                "startDate": "2024-05-24",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_monica_scipione",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "type": "Alternate Auditor",
+                "startDate": "2024-05-24",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "committee_steering_leonardo",
+            "type": "PART_OF",
+            "dest": "company_leonardo",
+            "properties": {
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_stefano_pontecorvo",
+            "type": "HOLDS_POSITION",
+            "dest": "company_leonardo",
+            "properties": {
+                "position_title": "Chairman of the Coordination and Consultation Body for the Prevention of Corruption",
+                "startDate": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_roberto_cingolani",
+            "type": "MEMBER_OF",
+            "dest": "committee_steering_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_luca_rossi",
+            "type": "HOLDS_POSITION",
+            "dest": "company_leonardo",
+            "properties": {
+                "position_title": "Member of the Coordination and Consultation Body for the Prevention of Corruption",
+                "startDate": "2024-05-24",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_amedeo_sacrestano",
+            "type": "MEMBER_OF",
+            "dest": "board_of_statutory_auditors_leonardo",
+            "properties": {
+                "type": "Statutory Auditor",
+                "startDate": "2024-05-24",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_giancarlo_ghislanzoni",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "chairman": "true",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_enrica_giorgetti",
+            "type": "MEMBER_OF",
+            "dest": "committee_control_and_risks_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_giancarlo_ghislanzoni",
+            "type": "MEMBER_OF",
+            "dest": "committee_nomination_and_governance_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_dominique_levy",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "chairman": "true",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_francesco_macri",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_cristina_manara",
+            "type": "MEMBER_OF",
+            "dest": "committee_remuneration_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_roberto_cingolani",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "chairman": "true",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        },
+        {
+            "source": "person_silvia_stefini",
+            "type": "MEMBER_OF",
+            "dest": "committee_sustainability_and_innovation_leonardo",
+            "properties": {
+                "chairman": "false",
+                "startDate": "2023-05-09",
+                "source": "https://www.leonardo.com/documents/15646808/16736911/RCG+2025_11+03+2025_ENG.pdf?t=1741706617319"
+            }
+        }
+    ]
+}

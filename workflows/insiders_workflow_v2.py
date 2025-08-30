@@ -9,6 +9,8 @@ from urllib.parse import urlparse
 from agno.agent import Agent
 from agno.workflow import RunResponse, Workflow
 from agno.utils.log import logger
+import requests
+import urllib3
 
 from agents.report_search_agent import ReportSearchAgent
 from agents.report_analyze_agent import ReportAnalyzeAgent
@@ -174,18 +176,27 @@ class InsidersWorkflow(Workflow):
         tmp_file_path = None
         origin = f"{urlparse(report_url).scheme}://{urlparse(report_url).netloc}"
 
+        # suppress insecure request warnings for fallback fetch
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
         try:
             async with async_playwright() as p:
-                browser = await p.chromium.launch(headless=True)
+                browser = await p.chromium.launch(
+                    headless=True,
+                    args=["--ignore-ssl-errors", "--ignore-certificate-errors"]
+                )
                 context = await browser.new_context(
-                    user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36"
+                    user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+                    ignore_https_errors=True,
                 )
                 page = await context.new_page()
-                
+
                 # Try a navigation to detect WAF/challenge (don't rely on it for PDF body)
                 resp = None
                 try:
-                    resp = await page.goto(report_url, wait_until="networkidle", timeout=30000)
+                    resp = await page.goto(
+                        report_url, wait_until="networkidle", timeout=30000
+                    )
                 except Exception as e:
                     # navigation for PDF often raises ERR_ABORTED; swallow and continue to detection/fetch
                     logger.debug(f"page.goto initial attempt failed/aborted: {e}")
@@ -198,24 +209,37 @@ class InsidersWorkflow(Workflow):
                     html = ""
 
                 def _is_challenge(resp, html_str: str) -> bool:
-                    if "_Incapsula_Resource" in html_str or "visid_incap" in html_str or "captcha" in html_str.lower():
+                    if (
+                        "_Incapsula_Resource" in html_str
+                        or "visid_incap" in html_str
+                        or "captcha" in html_str.lower()
+                    ):
                         return True
                     if resp is not None:
                         status = getattr(resp, "status", None)
                         if status in (403, 429):
                             return True
                         ctype = (resp.headers.get("content-type") or "").lower()
-                        if "text/html" in ctype and ("_Incapsula_Resource" in html_str or "Request unsuccessful" in html_str):
+                        if "text/html" in ctype and (
+                            "_Incapsula_Resource" in html_str
+                            or "Request unsuccessful" in html_str
+                        ):
                             return True
                     return False
 
                 if _is_challenge(resp, html):
-                    logger.info(f"WAF/challenge detected for {report_url}, doing origin pre-flight {origin}")
+                    logger.info(
+                        f"WAF/challenge detected for {report_url}, doing origin pre-flight {origin}"
+                    )
                     try:
                         await page.goto(origin, wait_until="networkidle", timeout=45000)
                         for pth in ["/", "/en", "/it"]:
                             try:
-                                await page.goto(origin.rstrip("/") + pth, wait_until="networkidle", timeout=20000)
+                                await page.goto(
+                                    origin.rstrip("/") + pth,
+                                    wait_until="networkidle",
+                                    timeout=20000,
+                                )
                             except Exception:
                                 pass
                     except Exception as e:
@@ -225,6 +249,9 @@ class InsidersWorkflow(Workflow):
                 response = None
                 try:
                     response = await context.request.get(report_url, timeout=60000)
+                    logger.info(
+                        f"context.request.get response status: {getattr(response, 'status', None)}"
+                    )
                 except Exception as e:
                     logger.debug(f"context.request.get failed: {e}")
                     response = None
@@ -233,7 +260,9 @@ class InsidersWorkflow(Workflow):
                 suffix = ""
                 if response is not None and 200 <= response.status < 300:
                     ctype = (response.headers.get("content-type") or "").lower()
-                    if "application/pdf" in ctype or report_url.lower().endswith(".pdf"):
+                    if "application/pdf" in ctype or report_url.lower().endswith(
+                        ".pdf"
+                    ):
                         data = await response.body()
                         suffix = ".pdf"
                     elif "text/html" in ctype or report_url.lower().endswith(".html"):
@@ -247,26 +276,77 @@ class InsidersWorkflow(Workflow):
                         except Exception:
                             txt = await response.text()
                             data = txt.encode("utf-8")
+
                 else:
-                    # Last-resort fallback: try a lighter navigation and grab page content
-                    try:
-                        resp2 = await page.goto(report_url, wait_until="domcontentloaded", timeout=30000)
-                        # try to detect pdf by headers if present
-                        ctype = ""
-                        if resp2 is not None:
-                            ctype = (resp2.headers.get("content-type") or "").lower()
-                        if resp2 is not None and "application/pdf" in ctype:
-                            data = await resp2.body()
-                            suffix = ".pdf"
-                        else:
-                            html2 = await page.content()
-                            data = html2.encode("utf-8")
-                            suffix = ".html"
-                    except Exception as e:
-                        raise WorkflowException(f"Unable to fetch report after retries: {e}") from e
+                    # If Playwright failed and the failure looks like a cert issue or context.request failed,
+                    # try a simple requests.get fallback (disable SSL verification).
+                    tried_requests_fallback = False
+                    if response is None:
+                        err_msg = ""
+                        # If we have debug log of earlier exception, check for certificate text in it
+                        # fall back unconditionally when context.request.get didn't succeed
+                        try:
+                            logger.info(
+                                "Attempting requests fallback with verify=False due to Playwright request failure."
+                            )
+                            headers = {
+                                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+                            }
+                            r = requests.get(
+                                report_url, headers=headers, timeout=60, verify=False
+                            )
+                            tried_requests_fallback = True
+                            if 200 <= r.status_code < 300:
+                                ctype = (r.headers.get("content-type") or "").lower()
+                                if (
+                                    "application/pdf" in ctype
+                                    or report_url.lower().endswith(".pdf")
+                                ):
+                                    data = r.content
+                                    suffix = ".pdf"
+                                elif (
+                                    "text/html" in ctype
+                                    or report_url.lower().endswith(".html")
+                                ):
+                                    data = r.text.encode("utf-8")
+                                    suffix = ".html"
+                                else:
+                                    data = r.content
+                            else:
+                                logger.debug(
+                                    f"requests fallback returned status {r.status_code}"
+                                )
+                        except Exception as e:
+                            logger.debug(f"requests fallback failed: {e}")
+                            tried_requests_fallback = False
+
+                    if (data is None) and (not tried_requests_fallback):
+                        # Last-resort fallback: try a lighter navigation and grab page content
+                        try:
+                            resp2 = await page.goto(
+                                report_url, wait_until="domcontentloaded", timeout=30000
+                            )
+                            # try to detect pdf by headers if present
+                            ctype = ""
+                            if resp2 is not None:
+                                ctype = (
+                                    resp2.headers.get("content-type") or ""
+                                ).lower()
+                            if resp2 is not None and "application/pdf" in ctype:
+                                data = await resp2.body()
+                                suffix = ".pdf"
+                            else:
+                                html2 = await page.content()
+                                data = html2.encode("utf-8")
+                                suffix = ".html"
+                        except Exception as e:
+                            message = f"Unable to fetch report after retries: {e}"
+                            raise WorkflowException(message) from e
 
                 # write to temp file
-                with tempfile.NamedTemporaryFile(delete=False, suffix=suffix) as tmp_file:
+                with tempfile.NamedTemporaryFile(
+                    delete=False, suffix=suffix
+                ) as tmp_file:
                     tmp_file.write(data or b"")
                     tmp_file_path = tmp_file.name
 
@@ -282,7 +362,9 @@ class InsidersWorkflow(Workflow):
             raise WorkflowException(f"Unable to download report: {e}") from e
 
         if not tmp_file_path:
-            raise WorkflowException(f"Unable to download report: no file created for {report_url}")
+            raise WorkflowException(
+                f"Unable to download report: no file created for {report_url}"
+            )
         return tmp_file_path
 
     def _partition_report(self, tmp_file_path: str) -> List:

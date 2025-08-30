@@ -26,7 +26,7 @@ class ReportSearchAgent:
             ),
             tools=[
                 GoogleSearchTools(cache_results=False),
-                CrawlTools(max_length=25000, cache_results=False),
+                CrawlTools(max_length=50000, cache_results=False),
                 ReasoningTools(add_instructions=True),
             ],
             description=DESCRIPTION,

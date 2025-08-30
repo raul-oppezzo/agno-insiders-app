@@ -27,7 +27,7 @@ class ReportAnalyzeAgent:
             additional_context=ADDITIONAL_CONTEXT_TEMP,
             use_json_mode=True,
             response_model=ReportResultsTemp,
-            debug_mode=False,
+            debug_mode=True,
             exponential_backoff=True,
             retries=2,
             delay_between_retries=30,  # Timeout of 30 seconds
