@@ -1,5 +1,6 @@
 from agno.agent import Agent, RunResponse
 from agno.models.google import Gemini
+from agno.tools import tool
 from agno.tools.googlesearch import GoogleSearchTools
 from agno.tools.reasoning import ReasoningTools
 
@@ -13,6 +14,21 @@ from prompts.report_search_agent_prompt import (
 )
 
 
+@tool(name="user_confirmation_tool")
+def confirmation_tool(report_url: str) -> str:
+    """
+    A tool to ask the user for confirmation. Use it to ask the user if the found report is correct.
+
+    Args:
+        report_url (str): The URL of the report to confirm.
+
+    Returns:
+        str: The user's confirmation response.
+    """
+    confirmation = input(f"Is this report URL correct? {report_url} (yes/no): ")
+    return confirmation.strip().lower()
+
+
 class ReportSearchAgent:
     """An agent to search for corporate governance report on the web."""
 
@@ -21,12 +37,13 @@ class ReportSearchAgent:
             name="ReportSearchAgent",
             model=Gemini(
                 id="gemini-2.5-flash",
-                temperature=0.0,
-                top_p=0.9,
+                temperature=0.1,
+                top_p=0.95,
             ),
             tools=[
-                GoogleSearchTools(cache_results=False),
+                GoogleSearchTools(fixed_max_results=3, cache_results=False),
                 CrawlTools(max_length=50000, cache_results=False),
+                confirmation_tool,
                 ReasoningTools(add_instructions=True),
             ],
             description=DESCRIPTION,
@@ -36,7 +53,7 @@ class ReportSearchAgent:
             response_model=Report,
             debug_mode=True,
             exponential_backoff=True,
-            retries=2,
+            retries=3,
             delay_between_retries=30,  # Timeout of 30 seconds
             add_datetime_to_instructions=True,  # Ensure the agent uses the current date and time in its reasoning
         )

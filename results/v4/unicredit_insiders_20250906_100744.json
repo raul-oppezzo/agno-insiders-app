@@ -1,0 +1,1051 @@
+{
+  "nodes": [
+    {
+      "id": "company_unicredit",
+      "label": "Company",
+      "properties": {
+        "name": "UniCredit S.p.A.",
+        "isin": "",
+        "ticker": "",
+        "vatNumber": "00348170101",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "auditor_kpmg",
+      "label": "Auditor",
+      "properties": {
+        "name": "KPMG S.p.A.",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "board_of_directors_unicredit",
+      "label": "Board",
+      "properties": {
+        "type": "board of directors",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "board_of_statutory_auditors_unicredit",
+      "label": "Board",
+      "properties": {
+        "type": "board of statutory auditors",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "committee_governance_and_sustainability_unicredit",
+      "label": "Committee",
+      "properties": {
+        "name": "Governance and Sustainability Committee",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "committee_risk_unicredit",
+      "label": "Committee",
+      "properties": {
+        "name": "Risk Committee",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "committee_nomination_unicredit",
+      "label": "Committee",
+      "properties": {
+        "name": "Nomination Committee",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "committee_remuneration_unicredit",
+      "label": "Committee",
+      "properties": {
+        "name": "Remuneration Committee",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "committee_related_parties_unicredit",
+      "label": "Committee",
+      "properties": {
+        "name": "Related Parties Committee",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_pietro_carlo_padoan",
+      "label": "Person",
+      "properties": {
+        "name": "Pietro Carlo Padoan",
+        "dateOfBirth": "1950",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_elena_carletti",
+      "label": "Person",
+      "properties": {
+        "name": "Elena Carletti",
+        "dateOfBirth": "1969",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_andrea_orcel",
+      "label": "Person",
+      "properties": {
+        "name": "Andrea Orcel",
+        "dateOfBirth": "1963",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_paola_bergamaschi",
+      "label": "Person",
+      "properties": {
+        "name": "Paola Bergamaschi",
+        "dateOfBirth": "1961",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_paola_camagni",
+      "label": "Person",
+      "properties": {
+        "name": "Paola Camagni",
+        "dateOfBirth": "1970",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_vincenzo_cariello",
+      "label": "Person",
+      "properties": {
+        "name": "Vincenzo Cariello",
+        "dateOfBirth": "1965",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_antonio_domingues",
+      "label": "Person",
+      "properties": {
+        "name": "Antônio Domingues",
+        "dateOfBirth": "1956",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_julie_birgitte_galbo",
+      "label": "Person",
+      "properties": {
+        "name": "Julie Birgitte Galbo",
+        "dateOfBirth": "1971",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_jeffrey_alan_hedberg",
+      "label": "Person",
+      "properties": {
+        "name": "Jeffrey Alan Hedberg",
+        "dateOfBirth": "1961",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_beatriz_angela_lara_bartolom",
+      "label": "Person",
+      "properties": {
+        "name": "Beatriz Ángela Lara Bartolomé",
+        "dateOfBirth": "1962",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_maria_pierdicchi",
+      "label": "Person",
+      "properties": {
+        "name": "Maria Pierdicchi",
+        "dateOfBirth": "1957",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_marco_giuseppe_maria_rigotti",
+      "label": "Person",
+      "properties": {
+        "name": "Marco Giuseppe Maria Rigotti",
+        "dateOfBirth": "1967",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_francesca_tondi",
+      "label": "Person",
+      "properties": {
+        "name": "Francesca Tondi",
+        "dateOfBirth": "1966",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_gabriele_villa",
+      "label": "Person",
+      "properties": {
+        "name": "Gabriele Villa",
+        "dateOfBirth": "1964",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_lamberto_andreotti",
+      "label": "Person",
+      "properties": {
+        "name": "Lamberto Andreotti",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_marcus_johannes_chromik",
+      "label": "Person",
+      "properties": {
+        "name": "Marcus Johannes Chromik",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_luca_molinari",
+      "label": "Person",
+      "properties": {
+        "name": "Luca Molinari",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_renate_wagner",
+      "label": "Person",
+      "properties": {
+        "name": "Renate Wagner",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_alexander_wolfgring",
+      "label": "Person",
+      "properties": {
+        "name": "Alexander Wolfgring",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_paola_maria_di_leonardo",
+      "label": "Person",
+      "properties": {
+        "name": "Paola Maria Di Leonardo",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "committee_control_and_risk_unicredit",
+      "label": "Committee",
+      "properties": {
+        "name": "Control and Risk Committee",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_serenella_de_candia",
+      "label": "Person",
+      "properties": {
+        "name": "Serenella De Candia",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_thiam_joo_lim",
+      "label": "Person",
+      "properties": {
+        "name": "Thiam Joo Lim",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_guglielmo_zadra",
+      "label": "Person",
+      "properties": {
+        "name": "Guglielmo Zadra",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_bonifacio_di_francescantonio",
+      "label": "Person",
+      "properties": {
+        "name": "Bonifacio Di Francescantonio",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_giuseppe_zammarchi",
+      "label": "Person",
+      "properties": {
+        "name": "Giuseppe Zammarchi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "address_milano_piazza_gae_aulenti_3_tower_a",
+      "label": "Address",
+      "properties": {
+        "street": "Piazza Gae Aulenti 3, Tower A",
+        "city": "Milano",
+        "postalCode": "20154",
+        "country": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "id": "person_magdalena_palczynska",
+      "label": "Person",
+      "properties": {
+        "name": "Magdalena Palczynska",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "company_unicredit",
+      "type": "AUDITED_BY",
+      "dest": "auditor_kpmg",
+      "properties": {
+        "startDate": "01-01-2022",
+        "endDate": "31-12-2030",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "board_of_directors_unicredit",
+      "type": "PART_OF",
+      "dest": "company_unicredit",
+      "properties": {
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "board_of_statutory_auditors_unicredit",
+      "type": "PART_OF",
+      "dest": "company_unicredit",
+      "properties": {
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "committee_governance_and_sustainability_unicredit",
+      "type": "PART_OF",
+      "dest": "company_unicredit",
+      "properties": {
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "committee_risk_unicredit",
+      "type": "PART_OF",
+      "dest": "company_unicredit",
+      "properties": {
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "committee_nomination_unicredit",
+      "type": "PART_OF",
+      "dest": "company_unicredit",
+      "properties": {
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "committee_remuneration_unicredit",
+      "type": "PART_OF",
+      "dest": "company_unicredit",
+      "properties": {
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "committee_related_parties_unicredit",
+      "type": "PART_OF",
+      "dest": "company_unicredit",
+      "properties": {
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_pietro_carlo_padoan",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_unicredit",
+      "properties": {
+        "type": "Chairman",
+        "startDate": "01-10-2020",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_pietro_carlo_padoan",
+      "type": "MEMBER_OF",
+      "dest": "committee_governance_and_sustainability_unicredit",
+      "properties": {
+        "chairman": "true",
+        "startDate": "01-10-2020",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_elena_carletti",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_unicredit",
+      "properties": {
+        "type": "Deputy Chairman",
+        "startDate": "01-02-2019",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_andrea_orcel",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_unicredit",
+      "properties": {
+        "type": "Chief Executive Officer",
+        "startDate": "01-04-2021",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_paola_bergamaschi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_unicredit",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "01-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_paola_camagni",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_unicredit",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "01-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_paola_camagni",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_unicredit",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "12-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_vincenzo_cariello",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_unicredit",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "01-04-2018",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_antonio_domingues",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_unicredit",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "01-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_julie_birgitte_galbo",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_unicredit",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "01-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_julie_birgitte_galbo",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_unicredit",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "12-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_jeffrey_alan_hedberg",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_unicredit",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "01-04-2021",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_beatriz_angela_lara_bartolom",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_unicredit",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "01-02-2020",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_maria_pierdicchi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_unicredit",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "01-04-2018",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_marco_giuseppe_maria_rigotti",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_unicredit",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "12-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_marco_giuseppe_maria_rigotti",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_unicredit",
+      "properties": {
+        "type": "Chairman",
+        "startDate": "12-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_francesca_tondi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_unicredit",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "01-04-2018",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_gabriele_villa",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_unicredit",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "01-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_gabriele_villa",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_unicredit",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "12-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_lamberto_andreotti",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_unicredit",
+      "properties": {
+        "type": "Deputy Chairman",
+        "startDate": "15-04-2021",
+        "endDate": "12-04-2024",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_marcus_johannes_chromik",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_unicredit",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "12-04-2024",
+        "endDate": "11-12-2024",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_luca_molinari",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_unicredit",
+      "properties": {
+        "type": "Amministratore",
+        "startDate": "15-04-2021",
+        "endDate": "12-04-2024",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_renate_wagner",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_unicredit",
+      "properties": {
+        "type": "Amministratore",
+        "startDate": "15-04-2021",
+        "endDate": "12-04-2024",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_alexander_wolfgring",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_unicredit",
+      "properties": {
+        "type": "Amministratore",
+        "startDate": "15-04-2021",
+        "endDate": "12-04-2024",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_paola_maria_di_leonardo",
+      "type": "HOLDS_POSITION",
+      "dest": "company_unicredit",
+      "properties": {
+        "position_title": "Secretary of the Board of Directors",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_elena_carletti",
+      "type": "MEMBER_OF",
+      "dest": "committee_governance_and_sustainability_unicredit",
+      "properties": {
+        "chairman": "false",
+        "startDate": "12-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_elena_carletti",
+      "type": "MEMBER_OF",
+      "dest": "committee_risk_unicredit",
+      "properties": {
+        "chairman": "true",
+        "startDate": "12-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_paola_bergamaschi",
+      "type": "MEMBER_OF",
+      "dest": "committee_risk_unicredit",
+      "properties": {
+        "chairman": "false",
+        "startDate": "12-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_paola_bergamaschi",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_unicredit",
+      "properties": {
+        "chairman": "false",
+        "startDate": "12-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_vincenzo_cariello",
+      "type": "MEMBER_OF",
+      "dest": "committee_governance_and_sustainability_unicredit",
+      "properties": {
+        "chairman": "false",
+        "startDate": "12-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_vincenzo_cariello",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_unicredit",
+      "properties": {
+        "chairman": "false",
+        "startDate": "12-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_antonio_domingues",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_unicredit",
+      "properties": {
+        "chairman": "false",
+        "startDate": "12-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_antonio_domingues",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_unicredit",
+      "properties": {
+        "chairman": "true",
+        "startDate": "12-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_jeffrey_alan_hedberg",
+      "type": "MEMBER_OF",
+      "dest": "committee_governance_and_sustainability_unicredit",
+      "properties": {
+        "chairman": "false",
+        "startDate": "12-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_jeffrey_alan_hedberg",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_unicredit",
+      "properties": {
+        "chairman": "true",
+        "startDate": "12-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_beatriz_angela_lara_bartolom",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_unicredit",
+      "properties": {
+        "chairman": "false",
+        "startDate": "12-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_maria_pierdicchi",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_unicredit",
+      "properties": {
+        "chairman": "false",
+        "startDate": "12-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_maria_pierdicchi",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_unicredit",
+      "properties": {
+        "chairman": "true",
+        "startDate": "12-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_marco_giuseppe_maria_rigotti",
+      "type": "MEMBER_OF",
+      "dest": "committee_risk_unicredit",
+      "properties": {
+        "chairman": "false",
+        "startDate": "12-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_francesca_tondi",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_unicredit",
+      "properties": {
+        "chairman": "false",
+        "startDate": "12-04-2024",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_francesca_tondi",
+      "type": "MEMBER_OF",
+      "dest": "committee_risk_unicredit",
+      "properties": {
+        "chairman": "false",
+        "startDate": "28-01-2025",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_marcus_johannes_chromik",
+      "type": "MEMBER_OF",
+      "dest": "committee_risk_unicredit",
+      "properties": {
+        "chairman": "false",
+        "startDate": "12-04-2024",
+        "endDate": "11-12-2024",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "committee_control_and_risk_unicredit",
+      "type": "PART_OF",
+      "dest": "company_unicredit",
+      "properties": {
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_serenella_de_candia",
+      "type": "HOLDS_POSITION",
+      "dest": "company_unicredit",
+      "properties": {
+        "position_title": "Group Compliance Officer",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_thiam_joo_lim",
+      "type": "HOLDS_POSITION",
+      "dest": "company_unicredit",
+      "properties": {
+        "position_title": "Group Risk Officer",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_guglielmo_zadra",
+      "type": "HOLDS_POSITION",
+      "dest": "company_unicredit",
+      "properties": {
+        "position_title": "Head of Internal Audit",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_bonifacio_di_francescantonio",
+      "type": "HOLDS_POSITION",
+      "dest": "company_unicredit",
+      "properties": {
+        "position_title": "Manager responsible for preparing corporate accounting documents",
+        "startDate": "01-07-2023",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_bonifacio_di_francescantonio",
+      "type": "HOLDS_POSITION",
+      "dest": "company_unicredit",
+      "properties": {
+        "position_title": "Head of Financial & Regulatory Disclosure",
+        "startDate": "01-07-2023",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_giuseppe_zammarchi",
+      "type": "HOLDS_POSITION",
+      "dest": "company_unicredit",
+      "properties": {
+        "position_title": "Sustainability Reporting Manager",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "company_unicredit",
+      "type": "LOCATED_AT",
+      "dest": "address_milano_piazza_gae_aulenti_3_tower_a",
+      "properties": {
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_paola_camagni",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risk_unicredit",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_julie_birgitte_galbo",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risk_unicredit",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_marco_giuseppe_maria_rigotti",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risk_unicredit",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_gabriele_villa",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risk_unicredit",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    },
+    {
+      "source": "person_magdalena_palczynska",
+      "type": "HOLDS_POSITION",
+      "dest": "company_unicredit",
+      "properties": {
+        "position_title": "Head of Group Investors Relations",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.unicreditgroup.eu/content/dam/unicreditgroup-eu/documents/it/governance/assemblea/archivio/2025/27-marzo-2025/Relazione-sul-governo-societario-e-gli-assetti-proprietari-relativa-all-esercizio-2024.pdf"
+      }
+    }
+  ]
+}

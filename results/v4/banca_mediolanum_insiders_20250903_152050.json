@@ -1,0 +1,1047 @@
+{
+  "nodes": [
+    {
+      "id": "company_banca_mediolanum",
+      "label": "Company",
+      "properties": {
+        "name": "Banca Mediolanum S.p.A.",
+        "isin": "",
+        "ticker": "",
+        "vatNumber": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "board_of_directors_banca_mediolanum",
+      "label": "Board",
+      "properties": {
+        "type": "board of directors",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "board_of_statutory_auditors_banca_mediolanum",
+      "label": "Board",
+      "properties": {
+        "type": "board of statutory auditors",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "committee_nomination_and_governance_banca_mediolanum",
+      "label": "Committee",
+      "properties": {
+        "name": "Nomination and Governance Committee",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "committee_remunerations_banca_mediolanum",
+      "label": "Committee",
+      "properties": {
+        "name": "Remunerations Committee",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "committee_control_and_risk_banca_mediolanum",
+      "label": "Committee",
+      "properties": {
+        "name": "Control and Risk Committee",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "committee_related_parties_banca_mediolanum",
+      "label": "Committee",
+      "properties": {
+        "name": "Related Parties Committee",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "committee_coordinamento_di_gruppo_e_sviluppo_strategico_banca_mediolanum",
+      "label": "Committee",
+      "properties": {
+        "name": "Comitato Coordinamento di Gruppo e Sviluppo Strategico",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_giovanni_pirovano",
+      "label": "Person",
+      "properties": {
+        "name": "Giovanni Pirovano",
+        "dateOfBirth": "07-06-1951",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_massimo_antonio_doris",
+      "label": "Person",
+      "properties": {
+        "name": "Massimo Antonio Doris",
+        "dateOfBirth": "09-06-1967",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_annalisa_sara_doris",
+      "label": "Person",
+      "properties": {
+        "name": "Annalisa Sara Doris",
+        "dateOfBirth": "07-05-1970",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_francesco_maria_frasca",
+      "label": "Person",
+      "properties": {
+        "name": "Francesco Maria Frasca",
+        "dateOfBirth": "08-09-1943",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_anna_gervasoni",
+      "label": "Person",
+      "properties": {
+        "name": "Anna Gervasoni",
+        "dateOfBirth": "18-08-1961",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_patrizia_michela_giangualano",
+      "label": "Person",
+      "properties": {
+        "name": "Patrizia Michela Giangualano",
+        "dateOfBirth": "17-10-1959",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_paolo_gibello_ribatto",
+      "label": "Person",
+      "properties": {
+        "name": "Paolo Gibello Ribatto",
+        "dateOfBirth": "09-02-1960",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_giovanni_lo_storto",
+      "label": "Person",
+      "properties": {
+        "name": "Giovanni Lo Storto",
+        "dateOfBirth": "03-12-1970",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_roberta_pierantoni",
+      "label": "Person",
+      "properties": {
+        "name": "Roberta Pierantoni",
+        "dateOfBirth": "12-05-1971",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_giovanna_luisa_maria_redaelli",
+      "label": "Person",
+      "properties": {
+        "name": "Giovanna Luisa Maria Redaelli",
+        "dateOfBirth": "23-12-1965",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_francesca_reich",
+      "label": "Person",
+      "properties": {
+        "name": "Francesca Reich",
+        "dateOfBirth": "25-09-1969",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_giacinto_gaetano_sarubbi",
+      "label": "Person",
+      "properties": {
+        "name": "Giacinto Gaetano Sarubbi",
+        "dateOfBirth": "08-01-1963",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_carlo_vivaldi",
+      "label": "Person",
+      "properties": {
+        "name": "Carlo Vivaldi",
+        "dateOfBirth": "02-12-1965",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_mario_notari",
+      "label": "Person",
+      "properties": {
+        "name": "Mario Notari",
+        "dateOfBirth": "23-06-1964",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_laura_oliva",
+      "label": "Person",
+      "properties": {
+        "name": "Laura Oliva",
+        "dateOfBirth": "27-12-1968",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_anna_eugenia_maria_omarini",
+      "label": "Person",
+      "properties": {
+        "name": "Anna Eugenia Maria Omarini",
+        "dateOfBirth": "23-08-1967",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_luca_maria_rovere",
+      "label": "Person",
+      "properties": {
+        "name": "Luca Maria Rovere",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_igor_garzesi",
+      "label": "Person",
+      "properties": {
+        "name": "Igor Garzesi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "auditor_pricewaterhousecoopers",
+      "label": "Auditor",
+      "properties": {
+        "name": "PricewaterhouseCoopers S.p.A.",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_massimo_rotondi",
+      "label": "Person",
+      "properties": {
+        "name": "Massimo Rotondi",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_angelo_lietti",
+      "label": "Person",
+      "properties": {
+        "name": "Angelo Lietti",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_francesco_schiavone_panni",
+      "label": "Person",
+      "properties": {
+        "name": "Francesco Schiavone Panni",
+        "dateOfBirth": "16-04-1954",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_teresa_naddeo",
+      "label": "Person",
+      "properties": {
+        "name": "Teresa Naddeo",
+        "dateOfBirth": "22-05-1958",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_gian_piero_sala",
+      "label": "Person",
+      "properties": {
+        "name": "Gian Piero Sala",
+        "dateOfBirth": "10-07-1968",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_claudia_mezzabotta",
+      "label": "Person",
+      "properties": {
+        "name": "Claudia Mezzabotta",
+        "dateOfBirth": "03-02-1970",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_monica_petrella",
+      "label": "Person",
+      "properties": {
+        "name": "Monica Petrella",
+        "dateOfBirth": "06-01-1970",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_stefano_santucci",
+      "label": "Person",
+      "properties": {
+        "name": "Stefano Santucci",
+        "dateOfBirth": "07-06-1968",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_antonella_lunardi",
+      "label": "Person",
+      "properties": {
+        "name": "Antonella Lunardi",
+        "dateOfBirth": "25-10-1967",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_maria_vittoria_bruno",
+      "label": "Person",
+      "properties": {
+        "name": "Maria Vittoria Bruno",
+        "dateOfBirth": "06-03-1965",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_roberto_luigi_rampoldi",
+      "label": "Person",
+      "properties": {
+        "name": "Roberto Luigi Rampoldi",
+        "dateOfBirth": "15-01-1969",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "address_basiglio_via_ennio_doris",
+      "label": "Address",
+      "properties": {
+        "street": "via Ennio Doris",
+        "city": "Basiglio",
+        "country": "Italy",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "id": "person_alessandra_lanzone",
+      "label": "Person",
+      "properties": {
+        "name": "Alessandra Lanzone",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "board_of_directors_banca_mediolanum",
+      "type": "PART_OF",
+      "dest": "company_banca_mediolanum",
+      "properties": {
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "board_of_statutory_auditors_banca_mediolanum",
+      "type": "PART_OF",
+      "dest": "company_banca_mediolanum",
+      "properties": {
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "committee_nomination_and_governance_banca_mediolanum",
+      "type": "PART_OF",
+      "dest": "company_banca_mediolanum",
+      "properties": {
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "committee_remunerations_banca_mediolanum",
+      "type": "PART_OF",
+      "dest": "company_banca_mediolanum",
+      "properties": {
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "committee_control_and_risk_banca_mediolanum",
+      "type": "PART_OF",
+      "dest": "company_banca_mediolanum",
+      "properties": {
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "committee_related_parties_banca_mediolanum",
+      "type": "PART_OF",
+      "dest": "company_banca_mediolanum",
+      "properties": {
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "committee_coordinamento_di_gruppo_e_sviluppo_strategico_banca_mediolanum",
+      "type": "PART_OF",
+      "dest": "company_banca_mediolanum",
+      "properties": {
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_giovanni_pirovano",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banca_mediolanum",
+      "properties": {
+        "type": "Chairman",
+        "startDate": "25-11-1996",
+        "endDate": "31-12-2026",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_massimo_antonio_doris",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banca_mediolanum",
+      "properties": {
+        "type": "Chief Executive Officer",
+        "startDate": "18-04-2008",
+        "endDate": "31-12-2026",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_massimo_antonio_doris",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banca_mediolanum",
+      "properties": {
+        "position_title": "Director in charge of the Internal Control and Risk Management System",
+        "startDate": "01-05-2016",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_annalisa_sara_doris",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banca_mediolanum",
+      "properties": {
+        "type": "Deputy Chair",
+        "startDate": "30-07-2008",
+        "endDate": "31-12-2026",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_francesco_maria_frasca",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banca_mediolanum",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "28-09-2021",
+        "endDate": "31-12-2026",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_anna_gervasoni",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banca_mediolanum",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "10-04-2018",
+        "endDate": "31-12-2026",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_patrizia_michela_giangualano",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banca_mediolanum",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "15-04-2021",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_paolo_gibello_ribatto",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banca_mediolanum",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "18-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_giovanni_lo_storto",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banca_mediolanum",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "03-11-2021",
+        "endDate": "31-12-2026",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_giovanni_lo_storto",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risk_banca_mediolanum",
+      "properties": {
+        "chairman": "false",
+        "startDate": "18-04-2024",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_giovanni_lo_storto",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerations_banca_mediolanum",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_roberta_pierantoni",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banca_mediolanum",
+      "properties": {
+        "type": "Lead Independent Director",
+        "startDate": "15-04-2021",
+        "endDate": "31-12-2026",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_giovanna_luisa_maria_redaelli",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banca_mediolanum",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "10-04-2018",
+        "endDate": "31-12-2026",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_francesca_reich",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banca_mediolanum",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "15-04-2021",
+        "endDate": "31-12-2026",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_giacinto_gaetano_sarubbi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banca_mediolanum",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "18-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_carlo_vivaldi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banca_mediolanum",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "15-04-2021",
+        "endDate": "31-12-2026",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_mario_notari",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banca_mediolanum",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "10-04-2018",
+        "endDate": "18-04-2024",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_laura_oliva",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banca_mediolanum",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "15-04-2021",
+        "endDate": "18-04-2024",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_anna_eugenia_maria_omarini",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banca_mediolanum",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "10-04-2018",
+        "endDate": "18-04-2024",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_luca_maria_rovere",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banca_mediolanum",
+      "properties": {
+        "position_title": "Secretary of the Board of Directors",
+        "startDate": "18-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_igor_garzesi",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banca_mediolanum",
+      "properties": {
+        "position_title": "General Manager",
+        "startDate": "01-01-2024",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_roberta_pierantoni",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_governance_banca_mediolanum",
+      "properties": {
+        "chairman": "true",
+        "startDate": "18-04-2024",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_giovanna_luisa_maria_redaelli",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_governance_banca_mediolanum",
+      "properties": {
+        "chairman": "false",
+        "startDate": "18-04-2024",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_giacinto_gaetano_sarubbi",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_governance_banca_mediolanum",
+      "properties": {
+        "chairman": "false",
+        "startDate": "18-04-2024",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_mario_notari",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_governance_banca_mediolanum",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_anna_gervasoni",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_governance_banca_mediolanum",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_paolo_gibello_ribatto",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerations_banca_mediolanum",
+      "properties": {
+        "chairman": "true",
+        "startDate": "18-04-2024",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_anna_gervasoni",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerations_banca_mediolanum",
+      "properties": {
+        "chairman": "false",
+        "startDate": "18-04-2024",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_patrizia_michela_giangualano",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerations_banca_mediolanum",
+      "properties": {
+        "chairman": "false",
+        "startDate": "18-04-2024",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_mario_notari",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerations_banca_mediolanum",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_anna_eugenia_maria_omarini",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerations_banca_mediolanum",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "company_banca_mediolanum",
+      "type": "AUDITED_BY",
+      "dest": "auditor_pricewaterhousecoopers",
+      "properties": {
+        "startDate": "16-04-2020",
+        "endDate": "31-12-2028",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_francesco_maria_frasca",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risk_banca_mediolanum",
+      "properties": {
+        "chairman": "true",
+        "startDate": "18-04-2024",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_francesco_maria_frasca",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_banca_mediolanum",
+      "properties": {
+        "chairman": "false",
+        "startDate": "18-04-2024",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_carlo_vivaldi",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risk_banca_mediolanum",
+      "properties": {
+        "chairman": "false",
+        "startDate": "18-04-2024",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_anna_eugenia_maria_omarini",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risk_banca_mediolanum",
+      "properties": {
+        "chairman": "false",
+        "startDate": "18-04-2024",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_massimo_rotondi",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banca_mediolanum",
+      "properties": {
+        "position_title": "Head of Internal Audit",
+        "startDate": "30-12-2015",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_angelo_lietti",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banca_mediolanum",
+      "properties": {
+        "position_title": "Officer responsible for preparing corporate accounting documents",
+        "startDate": "18-04-2024",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_giacinto_gaetano_sarubbi",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_banca_mediolanum",
+      "properties": {
+        "chairman": "true",
+        "startDate": "18-04-2024",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_roberta_pierantoni",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_banca_mediolanum",
+      "properties": {
+        "chairman": "false",
+        "startDate": "18-04-2024",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_francesca_reich",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_banca_mediolanum",
+      "properties": {
+        "chairman": "false",
+        "startDate": "18-04-2024",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_giovanna_luisa_maria_redaelli",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_banca_mediolanum",
+      "properties": {
+        "chairman": "false",
+        "startDate": "18-04-2024",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_francesco_schiavone_panni",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_banca_mediolanum",
+      "properties": {
+        "type": "Chairman",
+        "startDate": "15-04-2021",
+        "endDate": "31-12-2026",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_teresa_naddeo",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_banca_mediolanum",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "18-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_gian_piero_sala",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_banca_mediolanum",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "10-04-2018",
+        "endDate": "31-12-2026",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_claudia_mezzabotta",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_banca_mediolanum",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "15-04-2021",
+        "endDate": "31-12-2026",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_monica_petrella",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_banca_mediolanum",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "18-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_stefano_santucci",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_banca_mediolanum",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "18-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_antonella_lunardi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_banca_mediolanum",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "10-04-2018",
+        "endDate": "31-12-2023",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_maria_vittoria_bruno",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_banca_mediolanum",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "10-04-2018",
+        "endDate": "31-12-2023",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_roberto_luigi_rampoldi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_banca_mediolanum",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "15-04-2021",
+        "endDate": "31-12-2023",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "company_banca_mediolanum",
+      "type": "LOCATED_AT",
+      "dest": "address_basiglio_via_ennio_doris",
+      "properties": {
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    },
+    {
+      "source": "person_alessandra_lanzone",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banca_mediolanum",
+      "properties": {
+        "position_title": "Investor Relations Officer",
+        "startDate": "23-09-2015",
+        "endDate": "",
+        "source": "https://www.bancamediolanum.it/static-assets/documenti/file/it/2025/03/24//Relazione%20Governo%20Societario%20Es.%202024.pdf"
+      }
+    }
+  ]
+}

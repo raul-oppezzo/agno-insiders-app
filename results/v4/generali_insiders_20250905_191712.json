@@ -1,0 +1,1966 @@
+{
+  "nodes": [
+    {
+      "id": "company_assicurazioni_generali",
+      "label": "Company",
+      "properties": {
+        "name": "Assicurazioni Generali S.p.A.",
+        "isin": "IT0000062072",
+        "ticker": "GASI.MI",
+        "vatNumber": "01333550323",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "address_trieste_piazza_duca_degli_abruzzi_2",
+      "label": "Address",
+      "properties": {
+        "street": "piazza Duca degli Abruzzi, 2",
+        "city": "Trieste",
+        "postalCode": "",
+        "country": "Italy",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "auditor_kpmg",
+      "label": "Auditor",
+      "properties": {
+        "name": "KPMG S.p.A.",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "board_of_directors_assicurazioni_generali",
+      "label": "Board",
+      "properties": {
+        "type": "board of directors",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "board_of_statutory_auditors_assicurazioni_generali",
+      "label": "Board",
+      "properties": {
+        "type": "board of statutory auditors",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "committee_innovazione_e_sostenibilita_sociale_e_ambientale_assicurazioni_generali",
+      "label": "Committee",
+      "properties": {
+        "name": "Innovation and Social and Environmental Sustainability Committee",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_andrea_sironi",
+      "label": "Person",
+      "properties": {
+        "name": "Andrea Sironi",
+        "dateOfBirth": "13-05-1964",
+        "cityOfBirth": "Milano",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_philippe_donnet",
+      "label": "Person",
+      "properties": {
+        "name": "Philippe Donnet",
+        "dateOfBirth": "26-07-1960",
+        "cityOfBirth": "Suresnes",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_marina_brogi",
+      "label": "Person",
+      "properties": {
+        "name": "Marina Brogi",
+        "dateOfBirth": "15-07-1967",
+        "cityOfBirth": "Roma",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_flavio_cattaneo",
+      "label": "Person",
+      "properties": {
+        "name": "Flavio Cattaneo",
+        "dateOfBirth": "27-06-1963",
+        "cityOfBirth": "Rho",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_alessia_falsarone",
+      "label": "Person",
+      "properties": {
+        "name": "Alessia Falsarone",
+        "dateOfBirth": "09-02-1976",
+        "cityOfBirth": "Rieti",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_clara_furse",
+      "label": "Person",
+      "properties": {
+        "name": "Clara Furse",
+        "dateOfBirth": "16-09-1957",
+        "cityOfBirth": "Jonquiere",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_umberto_malesci",
+      "label": "Person",
+      "properties": {
+        "name": "Umberto Malesci",
+        "dateOfBirth": "06-01-1981",
+        "cityOfBirth": "Firenze",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_stefano_marsaglia",
+      "label": "Person",
+      "properties": {
+        "name": "Stefano Marsaglia",
+        "dateOfBirth": "01-08-1955",
+        "cityOfBirth": "Torino",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_antonella_mei_pochtler",
+      "label": "Person",
+      "properties": {
+        "name": "Antonella Mei Pochtler",
+        "dateOfBirth": "17-05-1958",
+        "cityOfBirth": "Roma",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_diva_moriani",
+      "label": "Person",
+      "properties": {
+        "name": "Diva Moriani",
+        "dateOfBirth": "18-10-1968",
+        "cityOfBirth": "Arezzo",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_lorenzo_pellicioli",
+      "label": "Person",
+      "properties": {
+        "name": "Lorenzo Pellicioli",
+        "dateOfBirth": "29-07-1951",
+        "cityOfBirth": "Alzano Lombardo",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_clemente_rebecchini",
+      "label": "Person",
+      "properties": {
+        "name": "Clemente Rebecchini",
+        "dateOfBirth": "08-03-1964",
+        "cityOfBirth": "Roma",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_luisa_torchia",
+      "label": "Person",
+      "properties": {
+        "name": "Luisa Torchia",
+        "dateOfBirth": "15-04-1957",
+        "cityOfBirth": "Catanzaro",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_carlo_schiavone",
+      "label": "Person",
+      "properties": {
+        "name": "Carlo Schiavone",
+        "dateOfBirth": "03-06-1960",
+        "cityOfBirth": "Fasano (Brindisi)",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_sara_landini",
+      "label": "Person",
+      "properties": {
+        "name": "Sara Landini",
+        "dateOfBirth": "19-04-1972",
+        "cityOfBirth": "Firenze",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_paolo_ratti",
+      "label": "Person",
+      "properties": {
+        "name": "Paolo Ratti",
+        "dateOfBirth": "22-09-1960",
+        "cityOfBirth": "Lecco",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_michele_pizzo",
+      "label": "Person",
+      "properties": {
+        "name": "Michele Pizzo",
+        "dateOfBirth": "09-05-1962",
+        "cityOfBirth": "Napoli",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_giuseppe_catalano",
+      "label": "Person",
+      "properties": {
+        "name": "Giuseppe Catalano",
+        "dateOfBirth": "21-04-1967",
+        "cityOfBirth": "Bari",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_nora_grtler",
+      "label": "Person",
+      "properties": {
+        "name": "Nora Grtler",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_anna_pieri",
+      "label": "Person",
+      "properties": {
+        "name": "Anna Pieri",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_carlo_ferraresi",
+      "label": "Person",
+      "properties": {
+        "name": "Carlo Ferraresi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_maurizio_basso",
+      "label": "Person",
+      "properties": {
+        "name": "Maurizio Basso",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_michele_valeriani",
+      "label": "Person",
+      "properties": {
+        "name": "Michele Valeriani",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_antonio_cangeri",
+      "label": "Person",
+      "properties": {
+        "name": "Antonio Cangeri",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_cristiano_borean",
+      "label": "Person",
+      "properties": {
+        "name": "Cristiano Borean",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_simone_bemporad",
+      "label": "Person",
+      "properties": {
+        "name": "Simone Bemporad",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_pedro_gonzalez_rossia",
+      "label": "Person",
+      "properties": {
+        "name": "Pedro Gonzalez Rossia",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_monica_alessandra_possa",
+      "label": "Person",
+      "properties": {
+        "name": "Monica Alessandra Possa",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_giulio_terzariol",
+      "label": "Person",
+      "properties": {
+        "name": "Giulio Terzariol",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_woody_bradford",
+      "label": "Person",
+      "properties": {
+        "name": "Woody Bradford",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_gian_maria_mossa",
+      "label": "Person",
+      "properties": {
+        "name": "Gian Maria Mossa",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_jaime_anchstegui",
+      "label": "Person",
+      "properties": {
+        "name": "Jaime Anchstegui",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_david_cis",
+      "label": "Person",
+      "properties": {
+        "name": "David Cis",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_isabelle_conner",
+      "label": "Person",
+      "properties": {
+        "name": "Isabelle Conner",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_giancarlo_fancel",
+      "label": "Person",
+      "properties": {
+        "name": "Giancarlo Fancel",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_jean_laurent_granier",
+      "label": "Person",
+      "properties": {
+        "name": "Jean Laurent Granier",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_cecile_paillard",
+      "label": "Person",
+      "properties": {
+        "name": "Ccile Paillard",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_stefan_lehmann",
+      "label": "Person",
+      "properties": {
+        "name": "Stefan Lehmann",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_giuseppe_melis",
+      "label": "Person",
+      "properties": {
+        "name": "Giuseppe Melis",
+        "dateOfBirth": "04-06-1971",
+        "cityOfBirth": "Avellino",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "committee_nomination_and_governance_generali",
+      "label": "Committee",
+      "properties": {
+        "name": "Nomination and Corporate Governance Committee",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "committee_control_and_risks_generali",
+      "label": "Committee",
+      "properties": {
+        "name": "Control and Risks Committee",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "committee_remuneration_and_human_resources_generali",
+      "label": "Committee",
+      "properties": {
+        "name": "Remuneration and Human Resources Committee",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "committee_strategic_investments_generali",
+      "label": "Committee",
+      "properties": {
+        "name": "Strategic Investments Committee",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "committee_related_party_transactions_generali",
+      "label": "Committee",
+      "properties": {
+        "name": "Related Party Transactions Committee",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_francesco_gaetano_caltagirone",
+      "label": "Person",
+      "properties": {
+        "name": "Francesco Gaetano Caltagirone",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "committee_organismo_di_vigilanza_assicurazioni_generali",
+      "label": "Committee",
+      "properties": {
+        "name": "Supervisory Body",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "committee_comitato_consultivo_ad_hoc_market_abuse_policy_assicurazioni_generali",
+      "label": "Committee",
+      "properties": {
+        "name": "Ad Hoc Market Abuse Policy Advisory Committee",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "committee_comitato_di_amministratori_indipendenti_copc_assicurazioni_generali",
+      "label": "Committee",
+      "properties": {
+        "name": "Independent Directors Committee (COPC)",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "committee_comitato_remunerazione_e_rischi_crru_assicurazioni_generali",
+      "label": "Committee",
+      "properties": {
+        "name": "Remuneration and Risks Committee (CRRU)",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_luigi_arturo_bianchi",
+      "label": "Person",
+      "properties": {
+        "name": "Luigi Arturo Bianchi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_giuseppe_alessio_vern",
+      "label": "Person",
+      "properties": {
+        "name": "Giuseppe Alessio Vern",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_pilli_lorenzo",
+      "label": "Person",
+      "properties": {
+        "name": "Pilli Lorenzo",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_massimo_romano",
+      "label": "Person",
+      "properties": {
+        "name": "Massimo Romano",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_nicola_padovese",
+      "label": "Person",
+      "properties": {
+        "name": "Nicola Padovese",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_monica_provini",
+      "label": "Person",
+      "properties": {
+        "name": "Monica Provini",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_giovanni_lanati",
+      "label": "Person",
+      "properties": {
+        "name": "Giovanni Lanati",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_lucia_silva",
+      "label": "Person",
+      "properties": {
+        "name": "Lucia Silva",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_fabio_cleva",
+      "label": "Person",
+      "properties": {
+        "name": "Fabio Cleva",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "id": "person_michele_amendolagine",
+      "label": "Person",
+      "properties": {
+        "name": "Michele Amendolagine",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "board_of_directors_assicurazioni_generali",
+      "type": "PART_OF",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "board_of_statutory_auditors_assicurazioni_generali",
+      "type": "PART_OF",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "committee_control_and_risks_generali",
+      "type": "PART_OF",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "committee_nomination_and_governance_generali",
+      "type": "PART_OF",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "committee_innovazione_e_sostenibilita_sociale_e_ambientale_assicurazioni_generali",
+      "type": "PART_OF",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "committee_strategic_investments_generali",
+      "type": "PART_OF",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "committee_related_party_transactions_generali",
+      "type": "PART_OF",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "committee_remuneration_and_human_resources_generali",
+      "type": "PART_OF",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "company_assicurazioni_generali",
+      "type": "LOCATED_AT",
+      "dest": "address_trieste_piazza_duca_degli_abruzzi_2",
+      "properties": {
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "company_assicurazioni_generali",
+      "type": "AUDITED_BY",
+      "dest": "auditor_kpmg",
+      "properties": {
+        "startDate": "01-01-2021",
+        "endDate": "31-12-2029",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_andrea_sironi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_assicurazioni_generali",
+      "properties": {
+        "type": "Independent Chairman",
+        "startDate": "28-02-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_andrea_sironi",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_governance_generali",
+      "properties": {
+        "chairman": "true",
+        "startDate": "12-05-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_andrea_sironi",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_generali",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_philippe_donnet",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_assicurazioni_generali",
+      "properties": {
+        "type": "Chief Executive Officer (Group CEO), Executive Director",
+        "startDate": "17-03-2016",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_marina_brogi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_assicurazioni_generali",
+      "properties": {
+        "type": "Non-Executive Independent Director",
+        "startDate": "29-04-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_marina_brogi",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "29-04-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_marina_brogi",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_governance_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "29-04-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_marina_brogi",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_human_resources_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "29-04-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_marina_brogi",
+      "type": "MEMBER_OF",
+      "dest": "committee_innovazione_e_sostenibilita_sociale_e_ambientale_assicurazioni_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_flavio_cattaneo",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_assicurazioni_generali",
+      "properties": {
+        "type": "Non-Executive Independent Director",
+        "startDate": "29-04-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_flavio_cattaneo",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_flavio_cattaneo",
+      "type": "MEMBER_OF",
+      "dest": "committee_strategic_investments_generali",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_flavio_cattaneo",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_party_transactions_generali",
+      "properties": {
+        "chairman": "true",
+        "startDate": "02-08-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_alessia_falsarone",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_assicurazioni_generali",
+      "properties": {
+        "type": "Non-Executive Independent Director",
+        "startDate": "28-02-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_alessia_falsarone",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_alessia_falsarone",
+      "type": "MEMBER_OF",
+      "dest": "committee_innovazione_e_sostenibilita_sociale_e_ambientale_assicurazioni_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "28-02-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_alessia_falsarone",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_human_resources_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "28-02-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_alessia_falsarone",
+      "type": "MEMBER_OF",
+      "dest": "committee_strategic_investments_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "28-02-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_clara_furse",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_assicurazioni_generali",
+      "properties": {
+        "type": "Non-Executive Independent Director",
+        "startDate": "29-04-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_clara_furse",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_governance_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "29-04-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_clara_furse",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_human_resources_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "29-04-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_clara_furse",
+      "type": "MEMBER_OF",
+      "dest": "committee_strategic_investments_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "29-04-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_clara_furse",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_party_transactions_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_umberto_malesci",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_assicurazioni_generali",
+      "properties": {
+        "type": "Non-Executive Independent Director",
+        "startDate": "29-04-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_umberto_malesci",
+      "type": "MEMBER_OF",
+      "dest": "committee_innovazione_e_sostenibilita_sociale_e_ambientale_assicurazioni_generali",
+      "properties": {
+        "chairman": "true",
+        "startDate": "12-05-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_umberto_malesci",
+      "type": "MEMBER_OF",
+      "dest": "committee_strategic_investments_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_umberto_malesci",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "29-04-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_umberto_malesci",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_human_resources_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_stefano_marsaglia",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_assicurazioni_generali",
+      "properties": {
+        "type": "Non-Executive Independent Director",
+        "startDate": "15-07-2022",
+        "endDate": "31-12-2024",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_stefano_marsaglia",
+      "type": "MEMBER_OF",
+      "dest": "committee_strategic_investments_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "15-07-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_stefano_marsaglia",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_party_transactions_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_stefano_marsaglia",
+      "type": "MEMBER_OF",
+      "dest": "committee_innovazione_e_sostenibilita_sociale_e_ambientale_assicurazioni_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "15-07-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_antonella_mei_pochtler",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_assicurazioni_generali",
+      "properties": {
+        "type": "Non-Executive Independent Director",
+        "startDate": "07-05-2019",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_antonella_mei_pochtler",
+      "type": "MEMBER_OF",
+      "dest": "committee_innovazione_e_sostenibilita_sociale_e_ambientale_assicurazioni_generali",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_antonella_mei_pochtler",
+      "type": "MEMBER_OF",
+      "dest": "committee_strategic_investments_generali",
+      "properties": {
+        "chairman": "true",
+        "startDate": "07-05-2019",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_antonella_mei_pochtler",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_party_transactions_generali",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_antonella_mei_pochtler",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_governance_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_diva_moriani",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_assicurazioni_generali",
+      "properties": {
+        "type": "Non-Executive Independent Director",
+        "startDate": "28-04-2016",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_diva_moriani",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_generali",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_diva_moriani",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_party_transactions_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "28-04-2016",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_diva_moriani",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_human_resources_generali",
+      "properties": {
+        "chairman": "true",
+        "startDate": "28-04-2016",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_diva_moriani",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_governance_generali",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_lorenzo_pellicioli",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_assicurazioni_generali",
+      "properties": {
+        "type": "Non-Executive Director",
+        "startDate": "28-04-2007",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_lorenzo_pellicioli",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_human_resources_generali",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_lorenzo_pellicioli",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_governance_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_lorenzo_pellicioli",
+      "type": "MEMBER_OF",
+      "dest": "committee_strategic_investments_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "28-04-2007",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_lorenzo_pellicioli",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_clemente_rebecchini",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_assicurazioni_generali",
+      "properties": {
+        "type": "Non-Executive Director",
+        "startDate": "11-05-2012",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_clemente_rebecchini",
+      "type": "MEMBER_OF",
+      "dest": "committee_strategic_investments_generali",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_clemente_rebecchini",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "11-05-2012",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_clemente_rebecchini",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_human_resources_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_luisa_torchia",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_assicurazioni_generali",
+      "properties": {
+        "type": "Non-Executive Independent Director",
+        "startDate": "28-02-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_luisa_torchia",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_party_transactions_generali",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_luisa_torchia",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_generali",
+      "properties": {
+        "chairman": "true",
+        "startDate": "12-05-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_luisa_torchia",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_governance_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "28-02-2022",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_luisa_torchia",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_human_resources_generali",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_luisa_torchia",
+      "type": "MEMBER_OF",
+      "dest": "committee_innovazione_e_sostenibilita_sociale_e_ambientale_assicurazioni_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_carlo_schiavone",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_assicurazioni_generali",
+      "properties": {
+        "type": "Chairman",
+        "startDate": "28-04-2023",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_sara_landini",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_assicurazioni_generali",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "28-04-2023",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_paolo_ratti",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_assicurazioni_generali",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "28-04-2023",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_michele_pizzo",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_assicurazioni_generali",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "28-04-2023",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_giuseppe_catalano",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Company Secretary and Head of Corporate Affairs",
+        "startDate": "15-01-2015",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_giuseppe_catalano",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Secretary of the Supervisory Body",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_giuseppe_catalano",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "15-01-2015",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_giuseppe_catalano",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_party_transactions_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "15-01-2015",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_giuseppe_catalano",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_governance_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "15-01-2015",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_giuseppe_catalano",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_human_resources_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "15-01-2015",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_giuseppe_catalano",
+      "type": "MEMBER_OF",
+      "dest": "committee_innovazione_e_sostenibilita_sociale_e_ambientale_assicurazioni_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "15-01-2015",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_giuseppe_catalano",
+      "type": "MEMBER_OF",
+      "dest": "committee_strategic_investments_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "15-01-2015",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_giuseppe_melis",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_assicurazioni_generali",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "28-04-2023",
+        "endDate": "02-2025",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_nora_grtler",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Group Chief Audit Officer",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_anna_pieri",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Head of Group Actuarial Function",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_carlo_ferraresi",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Group Chief Risk Officer",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_maurizio_basso",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Group Chief Compliance Officer",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_michele_valeriani",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Group Chief Anti Financial Crime Officer",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_antonio_cangeri",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Group General Counsel",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_cristiano_borean",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Group Chief Financial Officer",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_cristiano_borean",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Manager in charge of preparing the company's financial reports",
+        "startDate": "31-07-2018",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_cristiano_borean",
+      "type": "MEMBER_OF",
+      "dest": "committee_comitato_consultivo_ad_hoc_market_abuse_policy_assicurazioni_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_simone_bemporad",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Group Chief Communications & Public Affairs Officer",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_pedro_gonzalez_rossia",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Head of Group CEO Office",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_monica_alessandra_possa",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Group Chief People & Organization Officer",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_giulio_terzariol",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "CEO Insurance",
+        "startDate": "01-01-2024",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_woody_bradford",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "CEO Generali Investments Holding",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_gian_maria_mossa",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "CEO Banca Generali",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_jaime_anchstegui",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Deputy CEO Insurance",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_david_cis",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Group Chief Operating Officer",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_isabelle_conner",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Group Chief Marketing and Customer Officer",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_giancarlo_fancel",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Country Manager Italy",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_jean_laurent_granier",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Country Manager France & Global Business Activities",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_cecile_paillard",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Group Chief Transformation Officer",
+        "startDate": "01-06-2024",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_stefan_lehmann",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Country Manager Germany",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_philippe_donnet",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Chairman of the Group Management Committee",
+        "startDate": "17-03-2016",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_philippe_donnet",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Director in charge of the Internal Control and Risk Management System",
+        "startDate": "17-03-2016",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_philippe_donnet",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Beneficial Owner",
+        "startDate": "17-03-2016",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_francesco_gaetano_caltagirone",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_assicurazioni_generali",
+      "properties": {
+        "type": "Non-Independent Director",
+        "startDate": "",
+        "endDate": "26-05-2022",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "committee_organismo_di_vigilanza_assicurazioni_generali",
+      "type": "PART_OF",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "committee_comitato_consultivo_ad_hoc_market_abuse_policy_assicurazioni_generali",
+      "type": "PART_OF",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "committee_comitato_di_amministratori_indipendenti_copc_assicurazioni_generali",
+      "type": "PART_OF",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "committee_comitato_remunerazione_e_rischi_crru_assicurazioni_generali",
+      "type": "PART_OF",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_luigi_arturo_bianchi",
+      "type": "MEMBER_OF",
+      "dest": "committee_organismo_di_vigilanza_assicurazioni_generali",
+      "properties": {
+        "chairman": "true",
+        "startDate": "12-05-2022",
+        "endDate": "31-12-2024",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_maurizio_basso",
+      "type": "MEMBER_OF",
+      "dest": "committee_organismo_di_vigilanza_assicurazioni_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_maurizio_basso",
+      "type": "MEMBER_OF",
+      "dest": "committee_comitato_consultivo_ad_hoc_market_abuse_policy_assicurazioni_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_giuseppe_alessio_vern",
+      "type": "MEMBER_OF",
+      "dest": "committee_organismo_di_vigilanza_assicurazioni_generali",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_pilli_lorenzo",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_assicurazioni_generali",
+      "properties": {
+        "type": "Non-Executive Director",
+        "startDate": "11-05-2012",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_massimo_romano",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Head of Group Integrated Reporting",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_nicola_padovese",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Head of Group Participations Valuation and AG Finance",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_monica_provini",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Head of Group Media Relations, Content and Channels",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_giovanni_lanati",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Head of Group Reward & Institutional HR Governance",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_lucia_silva",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Group Chief Sustainability Officer",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_fabio_cleva",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Head of Investor & Rating Agency Relations",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    },
+    {
+      "source": "person_michele_amendolagine",
+      "type": "HOLDS_POSITION",
+      "dest": "company_assicurazioni_generali",
+      "properties": {
+        "position_title": "Head of Shareholders & Governance",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.generali.com/doc/jcr:d6cfabca-5259-4aaa-9ef0-e4d41e0122b5/Relazione%20sul%20Governo%20Societario%20e%20gli%20Assetti%20Proprietari%202024.pdf/lang:it/Relazione_sul_Governo_Societario_e_gli_Assetti_Proprietari_2024.pdf"
+      }
+    }
+  ]
+}

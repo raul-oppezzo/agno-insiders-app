@@ -16,9 +16,9 @@ DESCRIPTION_TEMP = dedent(
             - Auditor(name)
             - Address(street, city, postalCode, country)
         - Edges:
-            - (:Person)-[:HOLDS_POSITION {position_title: string, startDate: string}]->(:Company)
-            - (:Person)-[:MEMBER_OF {type: string, startDate: string}]->(:Board)
-            - (:Person)-[:MEMBER_OF {chairman: string, startDate: string}]->(:Committee) // chairman is "true" or "false"
+            - (:Person)-[:HOLDS_POSITION {position_title: string, from: string, to: string}]->(:Company)
+            - (:Person)-[:MEMBER_OF {type: string, from: string, to: string}]->(:Board)
+            - (:Person)-[:MEMBER_OF {president: string, from: string, to: string}]->(:Committee) // president should be "true" or "false"
             - (:Board)-[:PART_OF]->(:Company)
             - (:Committee)-[:PART_OF]->(:Company)
             - (:Company)-[:LOCATED_AT]->(:Address)
@@ -26,71 +26,57 @@ DESCRIPTION_TEMP = dedent(
     """
 )
 
-SCHEMA_TEMP = dedent(
-    """    
-    SCHEMA
-        - Nodes:
-            - Company(name, isin, ticker, vatNumber)
-            - Person(firstName, lastName, dateOfBirth, cityOfBirth, taxCode)
-            - Board(type)  // type must be "board of directors" or "board of statutory auditors"
-            - Committee(name)
-            - Auditor(name)
-            - Authority(name)  // e.g., Court of Auditors (Corte dei Conti)
-            - Address(street, city, postalCode, country)
-        - Edges:
-            - (:Person)-[:HOLDS_POSITION {title: string, startDate: string, endDate: string}]->(:Company)
-            - (:Person)-[:MEMBER_OF {role: string, startDate: string, endDate: string}]->(:Board)
-            - (:Person)-[:MEMBER_OF {role: string, startDate: string, endDate: string}]->(:Committee)
-            - (:Person)-[:REPRESENTS {title: string, startDate: string, endDate: string}]->(:Authority)
-            - (:Board)-[:PART_OF]->(:Company)
-            - (:Committee)-[:PART_OF]->(:Company)
-            - (:Company)-[:LOCATED_AT]->(:Address)
-            - (:Company)-[:AUDITED_BY {fiscalYear: string}]->(:Auditor)
-            - (:Company)-[:OVERSIGHTED_BY {scope: string}]->(:Authority)
-    """
-)
-
 INSTRUCTIONS_TEMP = dedent(
     """
-    INSTRUCTIONS:
-        Extraction strategy: 
-            - Extract ALL the types of nodes and relations described in SCHEMA. 
-            - Extract ALL the required properties for each node and edge. If a property is not available, return an empty string "".
-            - Only extract persons who clearly have roles in the company and/or are members of its governing bodies (e.g., board of directors, board of statutory auditors, internal committees).
-            - DO NOT model roles such as "chief executive officer", "general manager", etc. as Person nodes; instead, use the HOLDS_POSITION relation to link the Person to the Company with the appropriate 'position_title'.
-            - The MEMBER_OF.type property between a Person and a Board should indicate the membership type, e.g., "Chairman", "Independent Director", "Executive Director", "Lead Independent director" for board of directors members and "Chairman", "Statutory Auditor", "Alternate Auditor" for board of statutory auditors members.
-            - The Company node must be the main company described in the report; do not extract other companies.
-            - The Address node must represent the company's legal address.
-            - The Auditor node must represent only the external independent auditing firm of the company.
-            - The Board.type property must be "board of directors" or "board of statutory auditors" (lowercase).
-            - The Committee.name property must be the full name of the committee to avoid duplicates caused by minor wording differences. E.g., "Control and Risk Committee", "Risk and Sustainability Committee".
-            - ALL the nodes must be connected by at least one relation; do not include isolated nodes.
-            - DO NOT include nodes without any property value; each node must have at least one non-empty property.
-            - All dates must be formatted as YYYY-MM-DD. If the exact date is not available, return "".
-            - Output "Independent" instead of "Non-Executive".
-            - Output "Executive" instead of "Non-Independent".
-            - If a Person is Chairman of a Board, do not create a HOLDS_POSITION relation between the Person and the Company.
-            - Omit 'Mr', 'Ms', 'Dott.', 'Ing.', and similar titles from Person names.
-            - Preserve accents and apostrophes exactly as in the original text; keep accented characters (e.g., à, è, é, ì, ò, ù) or apostrophes in names.
+    EXTRACTION STRATEGY: 
+      - Extract ALL the types of nodes and edges described in SCHEMA.
+      - Extract ALL the required properties for each node and edge; if not available or unsure return an empty string "".
+      - Only extract persons who clearly have roles in the company and/or are members of its governing bodies (e.g., board of directors, board of statutory auditors, board committees).
+      - The MEMBER_OF.type property between a Person and a Board should indicate the membership type, e.g., "Chairman", "Deputy Chair", "Chief Executive Officer", "Chief Executive Officer and General Manager", "Independent Director", "Executive Director", "Lead Independent director" for board of directors members and "Chairman", "Statutory Auditor", "Alternate Auditor" for board of statutory auditors members. 
+      - Be specific and accurate with the MEMBER_OF.type property (e.g., "Executive Director" instead of just "Director"). If unsusre "Director" is fine.
+      - Use HOLDS_POSITION for roles NOT belonging to any Board or Committee, e.g., "Chief Financial Officer", "Head of Internal Audit", etc. Be accurate.
+      - The Company node must be the main company described in the report; do not extract other companies.
+      - The Address node must represent the company's legal address.
+      - The Auditor node must represent only the external independent auditing firm of the company.
+      - The Board.type property must be "board of directors" or "board of statutory auditors" (lowercase).
+      - The Committee.name property must be the full name of the committee.
+      - The HOLDS_POISTION.from and MEMBER_OF.from properties should indicate the date of first appointment to the position/board/committee if available; if not sure use "". DO NOT use the date of the report.
+      - The HOLDS_POSITION.to and MEMBER_OF.to properties should indicate the date of cessation from the position/board/committee if available; if not sure use "".
+      - ALL the nodes must be connected by at least one relation; do not include isolated nodes.
+      - DO NOT include nodes without any property value; each node must have at least one non-empty property.
+      - Dates MUST be formatted as DD-MM-YYYY (day-month-year). If the exact date is not available, return "".
+      - If a Person is "Chairman" or "Deputy Chairman" of a Board, do NOT create a HOLDS_POSITION edge between the Person and the Company.
+      - If a Person is "Chief Executive Officer" or "Chief Executive Officer and General Manager" create a MEMBER_OF edge between the Person and the board of directors node; NOT an HOLDS_POSITION relation between the Person and the Company.
+      - Omit honorifics ('Mr', 'Ms', 'Dott.', 'Ing.', etc.) from Person names.
+      - Omit middle names unless necessary to distinguish between individuals with the same first and last names.
+      - Preserve accents and apostrophes exactly as in the original text for properties; however, when generating IDs, replace accents with non-accented characters and apostrophes with underscores.
+      - DO NOT confuse the Chairman/President of the Board of Directors with the Chairman/President of a Committee.
+      - DO NOT output committee secretaries as committee members, unless they are explicitly stated as members.
+      - Every information you extract must be present in the text provided; do NOT use external knowledge or infer information not explicitly stated in the text.
+      - If tables are present but not clear, extract only certain data.
+      - If unsure skip the property or node/edge.
+      - The Board of Statutory Auditors is "Collegio Sindacale" in Italian. If not present, do NOT create it. DO NOT confuse it with internal supervisory bodies such as "Supervisory Body" (Organismo di Vigilanza).
+      
+    ID STRATEGY:
+      - Every node must have a unique ID, based on its type and properties.
+      - Person: "person_<name>" where <name> is the full name in lowercase with underscores instead of spaces. E.g., "person_john_doe"
+      - Company: "company_<name>"
+      - Board: "<type>_<companyName>" where type is "board_of_directors" or "board_of_statutory_auditors"
+      - Committee: "committee_<name>_<companyName>" where <name> does not include the word "committee". E.g. "committee_control_and_risk_leonardo"
+      - Auditor: "auditor_<name>"
+      - Address: "address_<city>_<street>" where <street> is the street name without spaces or special characters. E.g., "address_maranello_via_abetone_inferiore_4"
+      - Omit legal suffixes (e.g., "SpA", "spa", "plc", "Inc.", "nv", "N.V.") in company/auditor IDs.
+      - Replace spaces with underscores in IDs.
+      - Replace accents with non-accented characters in IDs (e.g., "è" becomes "e").
+      - Replace apostrophes with underscores in IDs (e.g., "O'Connor" becomes "o_connor").
 
-        ID strategy:
-            - Every node must have a unique ID, based on its type and properties.
-            - Person: "person_<name>" where <name> is the full name in lowercase with underscores instead of spaces. E.g., "person_john_doe"
-            - Company: "company_<name>"
-            - Board: "<type>_<companyName>" where type is "board_of_directors" or "board_of_statutory_auditors"
-            - Committee: "committee_<name>_<companyName>" where <name> does not include the word "committee". E.g. "committee_control_and_risk_leonardo"
-            - Auditor: "auditor_<name>"
-            - Address: "address_<city>_<street>" where <street> is the street name without spaces or special characters. E.g., "address_maranello_via_abetone_inferiore_4"
-            - Use lowercase with underscores for all IDs and omit legal suffixes (e.g., "SpA", "spa", "plc", "Inc.", "nv", "N.V.") in company/auditor IDs.
-            - Replace accents with non-accented characters in IDs (e.g., "è" becomes "e").
-            - Replace apostrophes with underscores in IDs (e.g., "O'Connor" becomes "o_connor").
-            
-        Validation checks:
-            - There must be exactly one main Company node for the report.
-            - Every Board and Committee node must have a PART_OF edge to the Company.
-            - If a Person node exists, it must have at least one HOLDS_POSITION, MEMBER_OF, or CHAIRS edge.
-            - If an Address node exists, the Company must have a LOCATED_AT edge to it.
-            - If an Auditor node exists, the Company must have an AUDITED_BY edge to it.
+    VALIDITY CHECKS:
+      - There must be exactly one main Company node for the report.
+      - Every Board and Committee node must have a PART_OF edge to the Company.
+      - If a Person node exists, it must have at least one HOLDS_POSITION or MEMBER_OF edge.
+      - If an Address node exists, the Company must have a LOCATED_AT edge to it.
+      - If an Auditor node exists, the Company must have an AUDITED_BY edge to it.
+      - There are no duplicates.
     """
 )
 
@@ -107,14 +93,14 @@ ADDITIONAL_CONTEXT_TEMP = dedent(
             "name": "Ferrari N.V.",
             "isin": "NL0011585146",
             "ticker": "RACE",
-            "vatNumber": ""
+            "vatNumber": "IT01234567890"
           }
         },
         {
           "id": "address_maranello_via_abetone_inferiore_4",
           "label": "Address",
           "properties": {
-            "street": "Via Abetone Inferiore, 4",
+            "street": "Via Abetone Inferiore 4",
             "city": "Maranello",
             "postalCode": "41053",
             "country": "Italy"
@@ -159,55 +145,50 @@ ADDITIONAL_CONTEXT_TEMP = dedent(
           "id": "person_john_elkann",
           "label": "Person",
           "properties": {
-            "firstName": "John",
-            "lastName": "Elkann",
+            "name": "John Elkann",
             "dateOfBirth": "1976-04-01",
             "cityOfBirth": "New York",
-            "taxCode": ""
+            "taxCode": "ELKJHN76D01Z999X"
           }
         },
         {
           "id": "person_benedetto_vigna",
           "label": "Person",
           "properties": {
-            "firstName": "Benedetto",
-            "lastName": "Vigna",
+            "name": "Benedetto Vigna",
             "dateOfBirth": "1969-04-10",
-            "cityOfBirth": "",
-            "taxCode": ""
+            "cityOfBirth": "Milano",
+            "taxCode": "VGNBDN69D10F205Y"
           }
         },
         {
           "id": "person_maria_rossi",
           "label": "Person",
           "properties": {
-            "firstName": "Maria",
-            "lastName": "Rossi",
-            "dateOfBirth": "",
-            "cityOfBirth": "",
-            "taxCode": ""
+            "name": "Maria Rossi",
+            "dateOfBirth": "1972-03-15",
+            "cityOfBirth": "Torino",
+            "taxCode": "RSSMRA72C55H501Z"
           }
         },
         {
           "id": "person_luca_bianchi",
           "label": "Person",
           "properties": {
-            "firstName": "Luca",
-            "lastName": "Bianchi",
-            "dateOfBirth": "",
-            "cityOfBirth": "",
-            "taxCode": ""
+            "name": "Luca Bianchi",
+            "dateOfBirth": "1965-08-20",
+            "cityOfBirth": "Bologna",
+            "taxCode": "BNCLCU65M20A390K"
           }
         },
         {
           "id": "person_paola_verdi",
           "label": "Person",
           "properties": {
-            "firstName": "Paola",
-            "lastName": "Verdi",
-            "dateOfBirth": "",
-            "cityOfBirth": "",
-            "taxCode": ""
+            "name": "Paola Verdi",
+            "dateOfBirth": "1974-11-30",
+            "cityOfBirth": "Roma",
+            "taxCode": "VRDPOL74S70H501L"
           }
         },
       ],
@@ -239,7 +220,7 @@ ADDITIONAL_CONTEXT_TEMP = dedent(
         {
           "source": "company_ferrari",
           "type": "LOCATED_AT",
-          "dest": "address_maranello",
+          "dest": "address_maranello_via_abetone_inferiore_4",
           "properties": {}
         },
         {
@@ -247,17 +228,8 @@ ADDITIONAL_CONTEXT_TEMP = dedent(
           "type": "AUDITED_BY",
           "dest": "auditor_ey",
           "properties": {
-            "from": "2024",
-            "to": "2029"
-          }
-        },
-        {
-          "source": "person_benedetto_vigna",
-          "type": "HOLDS_POSITION",
-          "dest": "company_ferrari",
-          "properties": {
-            "position_title": "CEO",
-            "startDate": "2021-09-01"
+            "from": "2024-01-01",
+            "to": "2028-12-31"
           }
         },
         {
@@ -265,8 +237,9 @@ ADDITIONAL_CONTEXT_TEMP = dedent(
           "type": "MEMBER_OF",
           "dest": "board_of_directors_ferrari",
           "properties": {
-            "type": "Executive Director",
-            "startDate": "2021-09-01"
+            "type": "Chief Executive Officer & General Manager",
+            "from": "2021-09-01",
+            "to": ""
           }
         },
         {
@@ -275,7 +248,8 @@ ADDITIONAL_CONTEXT_TEMP = dedent(
           "dest": "board_of_directors_ferrari",
           "properties": {
             "type": "Chairman",
-            "startDate": "2018-07-21"
+            "from": "2018-07-21",
+            "to": ""
           }
         },
         {
@@ -284,7 +258,8 @@ ADDITIONAL_CONTEXT_TEMP = dedent(
           "dest": "board_of_directors_ferrari",
           "properties": {
             "type": "Lead Independent Director",
-            "startDate": "2022-05-12"
+            "from": "2022-05-12",
+            "to": ""
           }
         },
         {
@@ -292,8 +267,8 @@ ADDITIONAL_CONTEXT_TEMP = dedent(
           "type": "MEMBER_OF",
           "dest": "committee_nomination_and_governance_ferrari",
           "properties": {
-            "chairman": "true",
-            "startDate": "2022-05-12"
+            "from": "2022-05-12",
+            "to": ""
           }
         },
         {
@@ -301,8 +276,8 @@ ADDITIONAL_CONTEXT_TEMP = dedent(
           "type": "MEMBER_OF",
           "dest": "committee_control_and_risks_ferrari",
           "properties": {
-            "chairman": "false",
-            "startDate": "2022-05-12"
+            "from": "2022-05-12",
+            "to": ""
           }
         },
         {
@@ -311,7 +286,8 @@ ADDITIONAL_CONTEXT_TEMP = dedent(
           "dest": "board_of_statutory_auditors_ferrari",
           "properties": {
             "type": "Chairman",
-            "startDate": "2023-04-01"
+            "from": "2023-04-01",
+            "to": ""
           }
         },
         {
@@ -320,7 +296,8 @@ ADDITIONAL_CONTEXT_TEMP = dedent(
           "dest": "board_of_statutory_auditors_ferrari",
           "properties": {
             "type": "Statutory Auditor",
-            "startDate": "2023-04-01"
+            "from": "2023-04-01",
+            "to": ""
           }
         },
       ]
@@ -330,6 +307,32 @@ ADDITIONAL_CONTEXT_TEMP = dedent(
 )
 
 ############################# Unused ##################################
+
+SCHEMA_TEMP = dedent(
+    """    
+    SCHEMA
+        - Nodes:
+            - Company(name, isin, ticker, vatNumber)
+            - Person(firstName, lastName, dateOfBirth, cityOfBirth, taxCode)
+            - Board(type)  // type must be "board of directors" or "board of statutory auditors"
+            - Committee(name)
+            - Auditor(name)
+            - Authority(name)  // e.g., Court of Auditors (Corte dei Conti)
+            - Address(street, city, postalCode, country)
+        - Edges:
+            - (:Person)-[:HOLDS_POSITION {title: string, startDate: string, endDate: string}]->(:Company)
+            - (:Person)-[:MEMBER_OF {role: string, startDate: string, endDate: string}]->(:Board)
+            - (:Person)-[:MEMBER_OF {role: string, startDate: string, endDate: string}]->(:Committee)
+            - (:Person)-[:REPRESENTS {title: string, startDate: string, endDate: string}]->(:Authority)
+            - (:Board)-[:PART_OF]->(:Company)
+            - (:Committee)-[:PART_OF]->(:Company)
+            - (:Company)-[:LOCATED_AT]->(:Address)
+            - (:Company)-[:AUDITED_BY {fiscalYear: string}]->(:Auditor)
+            - (:Company)-[:OVERSIGHTED_BY {scope: string}]->(:Authority)
+
+            - DO NOT model roles such as "chief executive officer", "general manager", etc. as Person nodes; instead, use the HOLDS_POSITION relation to link the Person to the Company with the appropriate 'position_title'.
+    """
+)
 
 DESCRIPTION = dedent(
     """

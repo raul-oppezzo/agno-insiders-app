@@ -138,13 +138,13 @@ class CrawlTools(Toolkit):
         url: Union[str, List[str]],  # search_query: Optional[str] = None
     ) -> Union[str, Dict[str, str]]:
         """
-        Crawl URLs and extract their text content.
+        Crawl URLs and extract their text content in markdown format.
 
         Args:
-            url: Single URL string or list of URLs to crawl
+            url (str): single url to crawl.
 
         Returns:
-            The extracted text content from the URL(s)
+            The extracted text content from the URL in markdown format.
         """
         if not url:
             return "Error: No URL provided"

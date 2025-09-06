@@ -2,11 +2,12 @@ from agno.agent import Agent, RunResponse
 from agno.models.google import Gemini
 
 from exceptions.exceptions import AgentException
-from models.report_results import ReportResultsTemp
+from models.report_results import ReportResults
 
 from prompts.validation_agent_prompt import (
     DESCRIPTION,
     INSTRUCTIONS,
+    # ADDITIONAL_CONTEXT,
 )
 
 
@@ -18,21 +19,20 @@ class ValidationAgent:
             name="ValidationAgent",
             model=Gemini(
                 id="gemini-2.5-flash",
-                temperature=0.1,
-                top_p=0.95,
+                temperature=0.0,
             ),
             description=DESCRIPTION,
             instructions=INSTRUCTIONS,
-            tool_call_limit=25,
+            # additional_context=ADDITIONAL_CONTEXT,
             use_json_mode=True,
-            response_model=ReportResultsTemp,
+            response_model=ReportResults,
             debug_mode=False,
             exponential_backoff=True,
             retries=2,
             delay_between_retries=30,  # Timeout of 30 seconds
         )
 
-    def validate_results(self, results: dict) -> ReportResultsTemp:
+    def validate_results(self, results: dict) -> ReportResults:
         """
         Runs the agent to validate the resutlts extracted from the report.
 
@@ -40,7 +40,7 @@ class ValidationAgent:
             data (list[dict]): The data to be verified.
 
         Returns:
-            ReportResultsTemp: The verified data.
+            ReportResults: The verified data.
         """
 
         prompt = f"""Please validate the following data:
@@ -49,7 +49,7 @@ class ValidationAgent:
         {results}.
         \"\"\"
 
-        OUTPUT: 
+        Validated Output: 
         """
 
         try:
@@ -61,7 +61,7 @@ class ValidationAgent:
         if response.content is None:
             raise AgentException(f"Missing response content.")
 
-        if not isinstance(response.content, ReportResultsTemp):
+        if not isinstance(response.content, ReportResults):
             raise AgentException(f"Expected ReportURL, got {type(response.content)}.")
 
         return response.content

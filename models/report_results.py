@@ -21,7 +21,7 @@ class Edge(BaseModel):
     properties: dict = Field(default={})  # additional properties of the edge
 
 
-class ReportResultsTemp(BaseModel):
+class ReportResults(BaseModel):
     nodes: List[Node] = Field(default=[])
     edges: List[Edge] = Field(default=[])
 
@@ -89,7 +89,7 @@ class Insider(BaseModel):
     )
 
 
-class ReportResults(BaseModel):
+class ReportResultsTemp(BaseModel):
     # report_url: str = Field(..., description="The URL of the analyzed report.")
     company: Company = Field(
         ..., description="The company to which the report belongs."

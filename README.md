@@ -1,24 +1,31 @@
 # AGNO Insiders App
 
-Un'applicazione Python basata su AI per identificare e raccogliere informazioni sui soggetti rilevanti (insiders) delle aziende italiane attraverso l'analisi automatica di report di governance e ricerche web.
+A Python AI-based application to identify and collect information about relevant subjects (insiders) of Italian companies by automatically analyzing corporate governance reports.
 
-## 🚀 Installazione
+The execution flow includes the following steps:
 
-### Prerequisiti
+1. Agentic search for the most recent available corporate governance report
+2. Extraction, chunking, and processing of the extracted text via an LLM
+3. Preliminary filtering and duplicate removal
+4. Final validation via an LLM
 
-- Python 3.12 o superiore
-- [uv](https://docs.astral.sh/uv/) per la gestione delle dipendenze
+## 🚀 Installation
+
+### Prerequisites
+
+- Python 3.12 or newer
+- [uv](https://docs.astral.sh/uv/) for dependency management
 
 ### Setup
 
-1. **Clona il repository**:
+1. **Clone the repository**:
 
    ```bash
    git clone <repository-url>
    cd agno-insiders-app
    ```
 
-2. **Installa le dipendenze**:
+2. **Install dependencies**:
 
    ```bash
    uv sync
@@ -26,28 +33,35 @@ Un'applicazione Python basata su AI per identificare e raccogliere informazioni 
    sudo apt install libmagic-dev poppler-utils tesseract-ocr
    ```
 
-3. **Configura le variabili d'ambiente**:
-   Crea un file `.env` nella root del progetto:
+3. **Configure environment variables**:
+   Create a `.env` file in the project root:
 
    ```env
-   # API Key per Google Gemini (richiesta)
+   # Google Gemini API Key (required)
    GOOGLE_API_KEY=your_google_api_key_here
 
-   # Chunk settings
-   CHUNK_MAX_CHARACTERS=50000
-   CHUNK_OVERLAP=100
+   # Neo4j Database connection settings
+   NEO4J_URI=your_neo4j_uri
+   NEO4J_USERNAME=your_neo4j_username
+   NEO4J_PASSWORD=your_neo4j_password
    ```
 
-## 📖 Utilizzo
+## 📖 Usage
 
-    ```bash
-    uv run main.py -c "company_name"
-    ```
+```bash
+uv run main.py -c "company_name"
+```
 
-## 📋 Dipendenze Principali
+If you prefer to skip the report search, you can provide the link directly:
 
-- **agno**: Framework per agenti AI e workflow
-- **google-genai**: Integrazione con modelli Gemini di Google
-- **crawl4ai**: Web crawling avanzato
-- **pydantic**: Validazione e serializzazione dati
-- **unsdtructured**: Elaborazione documenti PDF e chunking
+```bash
+uv run main.py -report_url "report_url"
+```
+
+## 📋 Main Dependencies
+
+- **agno**: Framework for AI agents and workflows
+- **google-genai**: Integration with Google's Gemini models
+- **crawl4ai**: Advanced web crawling
+- **pydantic**: Data validation and serialization
+- **unsdtructured**: PDF document processing and chunking

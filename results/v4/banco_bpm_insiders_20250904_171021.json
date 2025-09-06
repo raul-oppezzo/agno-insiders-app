@@ -1,0 +1,1569 @@
+{
+  "nodes": [
+    {
+      "id": "company_banco_bpm",
+      "label": "Company",
+      "properties": {
+        "name": "Banco BPM",
+        "isin": "",
+        "ticker": "",
+        "vatNumber": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "board_of_directors_banco_bpm",
+      "label": "Board",
+      "properties": {
+        "type": "board of directors",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "board_of_statutory_auditors_banco_bpm",
+      "label": "Board",
+      "properties": {
+        "type": "board of statutory auditors",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "committee_nomination_banco_bpm",
+      "label": "Committee",
+      "properties": {
+        "name": "Nomination Committee",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "committee_remuneration_banco_bpm",
+      "label": "Committee",
+      "properties": {
+        "name": "Comitato Remunerazioni",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "committee_internal_control_and_risks_banco_bpm",
+      "label": "Committee",
+      "properties": {
+        "name": "Internal Control and Risks Committee",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "committee_parti_correlate_banco_bpm",
+      "label": "Committee",
+      "properties": {
+        "name": "Comitato Parti Correlate",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "committee_sustainability_banco_bpm",
+      "label": "Committee",
+      "properties": {
+        "name": "Sustainability Committee",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_massimo_tononi",
+      "label": "Person",
+      "properties": {
+        "name": "Massimo Tononi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_maurizio_comoli",
+      "label": "Person",
+      "properties": {
+        "name": "Maurizio Comoli",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_giuseppe_castagna",
+      "label": "Person",
+      "properties": {
+        "name": "Giuseppe Castagna",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_mario_anolli",
+      "label": "Person",
+      "properties": {
+        "name": "Mario Anolli",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_paolo_boccardelli",
+      "label": "Person",
+      "properties": {
+        "name": "Paolo Boccardelli",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_paolo_bordogna",
+      "label": "Person",
+      "properties": {
+        "name": "Paolo Bordogna",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_nadine_faruque",
+      "label": "Person",
+      "properties": {
+        "name": "Nadine Farida Faruque",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_paola_ferretti",
+      "label": "Person",
+      "properties": {
+        "name": "Paola Ferretti",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_marina_mantelli",
+      "label": "Person",
+      "properties": {
+        "name": "Marina Mantelli",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_chiara_mio",
+      "label": "Person",
+      "properties": {
+        "name": "Chiara Mio",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_alberto_oliveti",
+      "label": "Person",
+      "properties": {
+        "name": "Alberto Oliveti",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_mauro_paoloni",
+      "label": "Person",
+      "properties": {
+        "name": "Mauro Paoloni",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_eugenio_rossetti",
+      "label": "Person",
+      "properties": {
+        "name": "Eugenio Rossetti",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_manuela_soffientini",
+      "label": "Person",
+      "properties": {
+        "name": "Manuela Soffientini",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_luigia_tauro",
+      "label": "Person",
+      "properties": {
+        "name": "Luigia Tauro",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_marcello_priori",
+      "label": "Person",
+      "properties": {
+        "name": "Marcello Priori",
+        "dateOfBirth": "1964",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_elbano_de_nuccio",
+      "label": "Person",
+      "properties": {
+        "name": "Elbano De Nuccio",
+        "dateOfBirth": "1970",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_maurizio_lauri",
+      "label": "Person",
+      "properties": {
+        "name": "Maurizio Lauri",
+        "dateOfBirth": "1962",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_silvia_muzi",
+      "label": "Person",
+      "properties": {
+        "name": "Silvia Muzi",
+        "dateOfBirth": "1969",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_nadia_valenti",
+      "label": "Person",
+      "properties": {
+        "name": "Nadia Valenti",
+        "dateOfBirth": "1974",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_sara_antonelli",
+      "label": "Person",
+      "properties": {
+        "name": "Sara Antonelli",
+        "dateOfBirth": "1989",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_marina_scandurra",
+      "label": "Person",
+      "properties": {
+        "name": "Marina Scandurra",
+        "dateOfBirth": "1969",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_mario_tagliaferri",
+      "label": "Person",
+      "properties": {
+        "name": "Mario Tagliaferri",
+        "dateOfBirth": "1961",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "address_verona_piazza_nogara_2",
+      "label": "Address",
+      "properties": {
+        "street": "Piazza Nogara 2",
+        "city": "Verona",
+        "postalCode": "",
+        "country": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_edoardo_faletti",
+      "label": "Person",
+      "properties": {
+        "name": "Edoardo Faletti",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_andrea_rovellini",
+      "label": "Person",
+      "properties": {
+        "name": "Andrea Rovellini",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_andrea_marconi",
+      "label": "Person",
+      "properties": {
+        "name": "Andrea Marconi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_edoardo_ginevra",
+      "label": "Person",
+      "properties": {
+        "name": "Edoardo Ginevra",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_domenico_de_angelis",
+      "label": "Person",
+      "properties": {
+        "name": "Domenico De Angelis",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_teresio_testa",
+      "label": "Person",
+      "properties": {
+        "name": "Teresio Testa",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_adolfo_pellegrino",
+      "label": "Person",
+      "properties": {
+        "name": "Adolfo Pellegrino",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_luca_manzoni",
+      "label": "Person",
+      "properties": {
+        "name": "Luca Manzoni",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "auditor_pricewaterhousecoopers",
+      "label": "Auditor",
+      "properties": {
+        "name": "PricewaterhouseCoopers",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "auditor_deloitte_touche",
+      "label": "Auditor",
+      "properties": {
+        "name": "Deloitte & Touche",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "committee_rischi_banco_bpm",
+      "label": "Committee",
+      "properties": {
+        "name": "Comitato Rischi",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "committee_crediti_banco_bpm",
+      "label": "Committee",
+      "properties": {
+        "name": "Comitato Crediti",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "committee_nuovi_prodotti_e_mercati_banco_bpm",
+      "label": "Committee",
+      "properties": {
+        "name": "Comitato Nuovi Prodotti e Mercati",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "committee_finanza_banco_bpm",
+      "label": "Committee",
+      "properties": {
+        "name": "Comitato Finanza",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "committee_environmental_social_and_governance_esg_banco_bpm",
+      "label": "Committee",
+      "properties": {
+        "name": "Comitato Environmental, Social and Governance (ESG)",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "committee_coordinamento_sistema_dei_controlli_interni_di_gruppo_banco_bpm",
+      "label": "Committee",
+      "properties": {
+        "name": "Comitato di Coordinamento Sistema dei Controlli Interni di Gruppo",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_maurizio_nigro",
+      "label": "Person",
+      "properties": {
+        "name": "Maurizio Nigro",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_arianna_rovetto",
+      "label": "Person",
+      "properties": {
+        "name": "Arianna Rovetto",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_marco_caruso",
+      "label": "Person",
+      "properties": {
+        "name": "Marco Caruso",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_francesco_cirillo",
+      "label": "Person",
+      "properties": {
+        "name": "Francesco Cirillo",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_andrea_francesco_antonio_alessandri",
+      "label": "Person",
+      "properties": {
+        "name": "Andrea Francesco Antonio Alessandri",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_gianpietro_val",
+      "label": "Person",
+      "properties": {
+        "name": "Gianpietro Val",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "address_milano_piazza_filippo_meda_4",
+      "label": "Address",
+      "properties": {
+        "street": "Piazza Filippo Meda 4",
+        "city": "Milano",
+        "postalCode": "20121",
+        "country": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "committee_organismo_di_vigilanza_banco_bpm",
+      "label": "Committee",
+      "properties": {
+        "name": "Organismo di Vigilanza",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_arne_riscassi",
+      "label": "Person",
+      "properties": {
+        "name": "Arne Riscassi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_manuela_montagner",
+      "label": "Person",
+      "properties": {
+        "name": "Manuela Montagner",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_silvia_leoni",
+      "label": "Person",
+      "properties": {
+        "name": "Silvia Leoni",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_gherardo_colombo",
+      "label": "Person",
+      "properties": {
+        "name": "Gherardo Colombo",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_iole_anna_savini",
+      "label": "Person",
+      "properties": {
+        "name": "Iole Anna Savini",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "id": "person_federico_maurizio_d_andrea",
+      "label": "Person",
+      "properties": {
+        "name": "Federico Maurizio d'Andrea",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "board_of_directors_banco_bpm",
+      "type": "PART_OF",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "board_of_statutory_auditors_banco_bpm",
+      "type": "PART_OF",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "committee_nomination_banco_bpm",
+      "type": "PART_OF",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "committee_remuneration_banco_bpm",
+      "type": "PART_OF",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "committee_internal_control_and_risks_banco_bpm",
+      "type": "PART_OF",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "committee_parti_correlate_banco_bpm",
+      "type": "PART_OF",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "committee_sustainability_banco_bpm",
+      "type": "PART_OF",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_massimo_tononi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banco_bpm",
+      "properties": {
+        "type": "Chairman",
+        "startDate": "04-04-2020",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_maurizio_comoli",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banco_bpm",
+      "properties": {
+        "type": "Deputy Chairman",
+        "startDate": "01-01-2017",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_giuseppe_castagna",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banco_bpm",
+      "properties": {
+        "type": "Chief Executive Officer",
+        "startDate": "01-01-2017",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_mario_anolli",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banco_bpm",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "01-01-2017",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_paolo_boccardelli",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banco_bpm",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "20-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_paolo_bordogna",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banco_bpm",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "20-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_nadine_faruque",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banco_bpm",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "04-04-2020",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_paola_ferretti",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banco_bpm",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "20-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_marina_mantelli",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banco_bpm",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "04-04-2020",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_chiara_mio",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banco_bpm",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "20-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_alberto_oliveti",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banco_bpm",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "20-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_mauro_paoloni",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banco_bpm",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "01-01-2017",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_eugenio_rossetti",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banco_bpm",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "04-04-2020",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_manuela_soffientini",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banco_bpm",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "01-01-2017",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_luigia_tauro",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_banco_bpm",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "04-04-2020",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_marcello_priori",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_banco_bpm",
+      "properties": {
+        "type": "Chairman",
+        "startDate": "01-01-2017",
+        "endDate": "2025-12-31",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_elbano_de_nuccio",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_banco_bpm",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "20-04-2023",
+        "endDate": "2025-12-31",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_maurizio_lauri",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_banco_bpm",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "04-04-2020",
+        "endDate": "2025-12-31",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_silvia_muzi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_banco_bpm",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "15-04-2021",
+        "endDate": "2025-12-31",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_nadia_valenti",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_banco_bpm",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "04-04-2020",
+        "endDate": "2025-12-31",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_sara_antonelli",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_banco_bpm",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "20-04-2023",
+        "endDate": "2025-12-31",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_marina_scandurra",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_banco_bpm",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "20-04-2023",
+        "endDate": "2025-12-31",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_mario_tagliaferri",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_banco_bpm",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "20-04-2023",
+        "endDate": "2025-12-31",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_mario_anolli",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_banco_bpm",
+      "properties": {
+        "chairman": "true",
+        "startDate": "26-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_marina_mantelli",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_banco_bpm",
+      "properties": {
+        "chairman": "false",
+        "startDate": "26-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_chiara_mio",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_banco_bpm",
+      "properties": {
+        "chairman": "false",
+        "startDate": "26-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_manuela_soffientini",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_banco_bpm",
+      "properties": {
+        "chairman": "false",
+        "startDate": "26-04-2023",
+        "endDate": "04-04-2020",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_paolo_bordogna",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_banco_bpm",
+      "properties": {
+        "chairman": "false",
+        "startDate": "26-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_mauro_paoloni",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_banco_bpm",
+      "properties": {
+        "chairman": "false",
+        "startDate": "26-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_eugenio_rossetti",
+      "type": "MEMBER_OF",
+      "dest": "committee_internal_control_and_risks_banco_bpm",
+      "properties": {
+        "chairman": "true",
+        "startDate": "26-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_mario_anolli",
+      "type": "MEMBER_OF",
+      "dest": "committee_internal_control_and_risks_banco_bpm",
+      "properties": {
+        "chairman": "false",
+        "startDate": "26-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_maurizio_comoli",
+      "type": "MEMBER_OF",
+      "dest": "committee_internal_control_and_risks_banco_bpm",
+      "properties": {
+        "chairman": "false",
+        "startDate": "26-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_nadine_faruque",
+      "type": "MEMBER_OF",
+      "dest": "committee_internal_control_and_risks_banco_bpm",
+      "properties": {
+        "chairman": "false",
+        "startDate": "26-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_paolo_bordogna",
+      "type": "MEMBER_OF",
+      "dest": "committee_internal_control_and_risks_banco_bpm",
+      "properties": {
+        "chairman": "false",
+        "startDate": "26-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_paolo_boccardelli",
+      "type": "MEMBER_OF",
+      "dest": "committee_parti_correlate_banco_bpm",
+      "properties": {
+        "chairman": "true",
+        "startDate": "07-04-2020",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_paola_ferretti",
+      "type": "MEMBER_OF",
+      "dest": "committee_parti_correlate_banco_bpm",
+      "properties": {
+        "chairman": "false",
+        "startDate": "07-04-2020",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_luigia_tauro",
+      "type": "MEMBER_OF",
+      "dest": "committee_parti_correlate_banco_bpm",
+      "properties": {
+        "chairman": "false",
+        "startDate": "07-04-2020",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_luigia_tauro",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_banco_bpm",
+      "properties": {
+        "chairman": "true",
+        "startDate": "26-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_chiara_mio",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_banco_bpm",
+      "properties": {
+        "chairman": "false",
+        "startDate": "26-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_alberto_oliveti",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_banco_bpm",
+      "properties": {
+        "chairman": "false",
+        "startDate": "26-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "company_banco_bpm",
+      "type": "LOCATED_AT",
+      "dest": "address_verona_piazza_nogara_2",
+      "properties": {
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_paolo_boccardelli",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_banco_bpm",
+      "properties": {
+        "chairman": "true",
+        "startDate": "26-04-2023",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_paola_ferretti",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_banco_bpm",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_marina_mantelli",
+      "type": "MEMBER_OF",
+      "dest": "committee_internal_control_and_risks_banco_bpm",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_alberto_oliveti",
+      "type": "MEMBER_OF",
+      "dest": "committee_parti_correlate_banco_bpm",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_edoardo_faletti",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "position_title": "Chief Risk Officer",
+        "startDate": "01-12-2024",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_andrea_rovellini",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "position_title": "Chief Risk Officer",
+        "startDate": "",
+        "endDate": "30-11-2024",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_andrea_marconi",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "position_title": "Secretary of the Board of Directors",
+        "startDate": "26-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_edoardo_ginevra",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "position_title": "Co-General Manager Chief Financial Officer",
+        "startDate": "20-03-2023",
+        "endDate": "31-07-2024",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_domenico_de_angelis",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "position_title": "Co-General Manager Chief Business Officer",
+        "startDate": "20-12-2022",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_teresio_testa",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "position_title": "Chief Lending Officer",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_adolfo_pellegrino",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "position_title": "Chief Innovation Officer",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_luca_manzoni",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "position_title": "Head of Corporate and Investment Banking",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "company_banco_bpm",
+      "type": "AUDITED_BY",
+      "dest": "auditor_pricewaterhousecoopers",
+      "properties": {
+        "startDate": "01-01-2017",
+        "endDate": "31-12-2025",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "company_banco_bpm",
+      "type": "AUDITED_BY",
+      "dest": "auditor_deloitte_touche",
+      "properties": {
+        "startDate": "01-01-2026",
+        "endDate": "31-12-2034",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "committee_rischi_banco_bpm",
+      "type": "PART_OF",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "committee_crediti_banco_bpm",
+      "type": "PART_OF",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "committee_nuovi_prodotti_e_mercati_banco_bpm",
+      "type": "PART_OF",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "committee_finanza_banco_bpm",
+      "type": "PART_OF",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "committee_environmental_social_and_governance_esg_banco_bpm",
+      "type": "PART_OF",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "committee_coordinamento_sistema_dei_controlli_interni_di_gruppo_banco_bpm",
+      "type": "PART_OF",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_giuseppe_castagna",
+      "type": "MEMBER_OF",
+      "dest": "committee_rischi_banco_bpm",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_giuseppe_castagna",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_banco_bpm",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_giuseppe_castagna",
+      "type": "MEMBER_OF",
+      "dest": "committee_finanza_banco_bpm",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_giuseppe_castagna",
+      "type": "MEMBER_OF",
+      "dest": "committee_environmental_social_and_governance_esg_banco_bpm",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_maurizio_nigro",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "position_title": "Data Protection Officer",
+        "startDate": "19-06-2018",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_arianna_rovetto",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "position_title": "First Delegate for Suspicious Transaction Reports",
+        "startDate": "29-09-2020",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_marco_caruso",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "position_title": "Head of Suspicious Transaction Reports Structure",
+        "startDate": "",
+        "endDate": "01-12-2024",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_francesco_cirillo",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "position_title": "Second Delegate for Suspicious Transaction Reports",
+        "startDate": "01-12-2024",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_andrea_francesco_antonio_alessandri",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "position_title": "Head of Internal Whistleblowing System",
+        "startDate": "16-09-2019",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_gianpietro_val",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "position_title": "Manager in charge of preparing the company's financial reports",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "committee_organismo_di_vigilanza_banco_bpm",
+      "type": "PART_OF",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "company_banco_bpm",
+      "type": "LOCATED_AT",
+      "dest": "address_milano_piazza_filippo_meda_4",
+      "properties": {
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_arne_riscassi",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "position_title": "Head of Investor Relations",
+        "startDate": "01-07-2024",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_manuela_montagner",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "position_title": "Head of Equity Investor Relations & Benchmarking",
+        "startDate": "01-12-2024",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_silvia_leoni",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "position_title": "Head of Fixed Income and ESG Investor Relations & Credit Rating Agencies",
+        "startDate": "01-12-2024",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_gherardo_colombo",
+      "type": "MEMBER_OF",
+      "dest": "committee_organismo_di_vigilanza_banco_bpm",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_iole_anna_savini",
+      "type": "MEMBER_OF",
+      "dest": "committee_organismo_di_vigilanza_banco_bpm",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_federico_maurizio_d_andrea",
+      "type": "MEMBER_OF",
+      "dest": "committee_organismo_di_vigilanza_banco_bpm",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_silvia_muzi",
+      "type": "MEMBER_OF",
+      "dest": "committee_organismo_di_vigilanza_banco_bpm",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_andrea_francesco_antonio_alessandri",
+      "type": "MEMBER_OF",
+      "dest": "committee_organismo_di_vigilanza_banco_bpm",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    },
+    {
+      "source": "person_andrea_francesco_antonio_alessandri",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banco_bpm",
+      "properties": {
+        "position_title": "Head of Internal Audit Corporate Control Function",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://gruppo.bancobpm.it/download/relazione-sul-governo-societario-e-gli-assetti-proprietari-esercizio-2024"
+      }
+    }
+  ]
+}

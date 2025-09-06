@@ -1,0 +1,1495 @@
+{
+  "nodes": [
+    {
+      "id": "company_intesa_sanpaolo",
+      "label": "Company",
+      "properties": {
+        "name": "Intesa Sanpaolo S.p.A.",
+        "isin": "",
+        "ticker": "",
+        "vatNumber": "11991500015",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "address_torino_piazza_san_carlo_156",
+      "label": "Address",
+      "properties": {
+        "street": "Piazza San Carlo, 156",
+        "city": "Torino",
+        "postalCode": "10121",
+        "country": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "auditor_ey",
+      "label": "Auditor",
+      "properties": {
+        "name": "EY S.p.A.",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "board_of_directors_intesa_sanpaolo",
+      "label": "Board",
+      "properties": {
+        "type": "board of directors",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "committee_control_sulla_gestione_intesa_sanpaolo",
+      "label": "Committee",
+      "properties": {
+        "name": "Control and Risk Committee",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "committee_nomine_intesa_sanpaolo",
+      "label": "Committee",
+      "properties": {
+        "name": "Nomination Committee",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "committee_remunerazioni_intesa_sanpaolo",
+      "label": "Committee",
+      "properties": {
+        "name": "Remuneration Committee",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "committee_operazioni_con_parti_correlate_intesa_sanpaolo",
+      "label": "Committee",
+      "properties": {
+        "name": "Related Parties Committee",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_gian_maria_gros_pietro",
+      "label": "Person",
+      "properties": {
+        "name": "Gian Maria Gros Pietro",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_paolo_andrea_colombo",
+      "label": "Person",
+      "properties": {
+        "name": "Paolo Andrea Colombo",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_carlo_messina",
+      "label": "Person",
+      "properties": {
+        "name": "Carlo Messina",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_franco_ceruti",
+      "label": "Person",
+      "properties": {
+        "name": "Franco Ceruti",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_anna_gatti",
+      "label": "Person",
+      "properties": {
+        "name": "Anna Gatti",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_liana_logiurato",
+      "label": "Person",
+      "properties": {
+        "name": "Liana Logiurato",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_maria_mazzarella",
+      "label": "Person",
+      "properties": {
+        "name": "Maria Mazzarella",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_luciano_nebbia",
+      "label": "Person",
+      "properties": {
+        "name": "Luciano Nebbia",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_bruno_maria_parigi",
+      "label": "Person",
+      "properties": {
+        "name": "Bruno Maria Parigi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_bruno_picca",
+      "label": "Person",
+      "properties": {
+        "name": "Bruno Picca",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_livia_pomodoro",
+      "label": "Person",
+      "properties": {
+        "name": "Livia Pomodoro",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_maria_alessandra_stefanelli",
+      "label": "Person",
+      "properties": {
+        "name": "Maria Alessandra Stefanelli",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_paola_tagliavini",
+      "label": "Person",
+      "properties": {
+        "name": "Paola Tagliavini",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_daniele_zamboni",
+      "label": "Person",
+      "properties": {
+        "name": "Daniele Zamboni",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_alberto_maria_pisani",
+      "label": "Person",
+      "properties": {
+        "name": "Alberto Maria Pisani",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_roberto_franchini",
+      "label": "Person",
+      "properties": {
+        "name": "Roberto Franchini",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_fabrizio_mosca",
+      "label": "Person",
+      "properties": {
+        "name": "Fabrizio Mosca",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_milena_teresa_motta",
+      "label": "Person",
+      "properties": {
+        "name": "Milena Teresa Motta",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_maria_cristina_zoppo",
+      "label": "Person",
+      "properties": {
+        "name": "Maria Cristina Zoppo",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "board_of_statutory_auditors_intesa_sanpaolo",
+      "label": "Board",
+      "properties": {
+        "type": "board of statutory auditors",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_laura_testoni",
+      "label": "Person",
+      "properties": {
+        "name": "Laura Testoni",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_guido_de_vecchi",
+      "label": "Person",
+      "properties": {
+        "name": "Guido de Vecchi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_elena_maria_proverbio",
+      "label": "Person",
+      "properties": {
+        "name": "Elena Maria Proverbio",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_massimo_fornaro",
+      "label": "Person",
+      "properties": {
+        "name": "Massimo Fornaro",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_paolo_maria_grandi",
+      "label": "Person",
+      "properties": {
+        "name": "Paolo Maria Grandi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_luca_bocca",
+      "label": "Person",
+      "properties": {
+        "name": "Luca Bocca",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_stefano_barrese",
+      "label": "Person",
+      "properties": {
+        "name": "Stefano Barrese",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_paola_bonassoli",
+      "label": "Person",
+      "properties": {
+        "name": "Paola Bonassoli",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_flavio_gianetti",
+      "label": "Person",
+      "properties": {
+        "name": "Flavio Gianetti",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_roberto_ruggeri",
+      "label": "Person",
+      "properties": {
+        "name": "Roberto Ruggeri",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_andrea_vismara",
+      "label": "Person",
+      "properties": {
+        "name": "Andrea Vismara",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "committee_direzione_intesa_sanpaolo",
+      "label": "Committee",
+      "properties": {
+        "name": "Management Committee",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "committee_rischi_finanziari_di_gruppo_intesa_sanpaolo",
+      "label": "Committee",
+      "properties": {
+        "name": "Group Non-Financial Controls and Risks Coordination Committee",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "committee_crediti_di_gruppo_intesa_sanpaolo",
+      "label": "Committee",
+      "properties": {
+        "name": "Group Credit Committee",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "committee_gruppo_sign_off_hold_to_collect_and_sell_intesa_sanpaolo",
+      "label": "Committee",
+      "properties": {
+        "name": "Group Sign Off Hold To Collect And Sell Committee",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "committee_modelli_interni_rischi_di_credito_e_di_pillar_2_intesa_sanpaolo",
+      "label": "Committee",
+      "properties": {
+        "name": "Internal Models Credit and Pillar 2 Risks Committee",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_bruno_pecci",
+      "label": "Person",
+      "properties": {
+        "name": "Bruno Pecci",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_paolo_vernero",
+      "label": "Person",
+      "properties": {
+        "name": "Paolo Vernero",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_andrea_cortellazzo",
+      "label": "Person",
+      "properties": {
+        "name": "Andrea Cortellazzo",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_franco_dalla_sega",
+      "label": "Person",
+      "properties": {
+        "name": "Franco Dalla Sega",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_massimo_bianchi",
+      "label": "Person",
+      "properties": {
+        "name": "Massimo Bianchi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_elena_brero",
+      "label": "Person",
+      "properties": {
+        "name": "Elena Brero",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "id": "person_oreste_cagnasso",
+      "label": "Person",
+      "properties": {
+        "name": "Oreste Cagnasso",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "board_of_directors_intesa_sanpaolo",
+      "type": "PART_OF",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "committee_control_sulla_gestione_intesa_sanpaolo",
+      "type": "PART_OF",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "committee_nomine_intesa_sanpaolo",
+      "type": "PART_OF",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "committee_remunerazioni_intesa_sanpaolo",
+      "type": "PART_OF",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "committee_operazioni_con_parti_correlate_intesa_sanpaolo",
+      "type": "PART_OF",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "company_intesa_sanpaolo",
+      "type": "LOCATED_AT",
+      "dest": "address_torino_piazza_san_carlo_156",
+      "properties": {
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "company_intesa_sanpaolo",
+      "type": "AUDITED_BY",
+      "dest": "auditor_ey",
+      "properties": {
+        "from": "01-01-2021",
+        "to": "31-12-2029",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "board_of_statutory_auditors_intesa_sanpaolo",
+      "type": "PART_OF",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_laura_testoni",
+      "type": "HOLDS_POSITION",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "position_title": "Chief Audit Officer",
+        "from": "",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_guido_de_vecchi",
+      "type": "HOLDS_POSITION",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "position_title": "Chief Governance, External and Institutional Affairs Officer",
+        "from": "",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_elena_maria_proverbio",
+      "type": "HOLDS_POSITION",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "position_title": "Chief Communication, ESG and Chief Sustainability Officer",
+        "from": "",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_massimo_fornaro",
+      "type": "HOLDS_POSITION",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "position_title": "Chief Operating & Transformation Officer",
+        "from": "",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_paolo_maria_grandi",
+      "type": "HOLDS_POSITION",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "position_title": "Chief Cost Management & AI, Data & Innovation Officer",
+        "from": "",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_luca_bocca",
+      "type": "HOLDS_POSITION",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "position_title": "Chief Risk Officer",
+        "from": "",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_stefano_barrese",
+      "type": "HOLDS_POSITION",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "position_title": "Chief Financial Officer",
+        "from": "",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_paola_bonassoli",
+      "type": "HOLDS_POSITION",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "position_title": "Chief People & Culture & Transformation Officer",
+        "from": "",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_flavio_gianetti",
+      "type": "HOLDS_POSITION",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "position_title": "Chief Legal, Equity & M&A Officer",
+        "from": "",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_roberto_ruggeri",
+      "type": "HOLDS_POSITION",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "position_title": "Chief Social Impact Officer",
+        "from": "",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_andrea_vismara",
+      "type": "HOLDS_POSITION",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "position_title": "Head of Corporate Bodies and Corporate Affairs",
+        "from": "29-04-2022",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "committee_direzione_intesa_sanpaolo",
+      "type": "PART_OF",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "committee_rischi_finanziari_di_gruppo_intesa_sanpaolo",
+      "type": "PART_OF",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "committee_crediti_di_gruppo_intesa_sanpaolo",
+      "type": "PART_OF",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "committee_gruppo_sign_off_hold_to_collect_and_sell_intesa_sanpaolo",
+      "type": "PART_OF",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "committee_modelli_interni_rischi_di_credito_e_di_pillar_2_intesa_sanpaolo",
+      "type": "PART_OF",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_paolo_vernero",
+      "type": "HOLDS_POSITION",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "position_title": "President of Supervisory Body",
+        "from": "24-05-2022",
+        "to": "31-12-2024",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_andrea_cortellazzo",
+      "type": "HOLDS_POSITION",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "position_title": "Member of Supervisory Body",
+        "from": "24-05-2022",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_franco_dalla_sega",
+      "type": "HOLDS_POSITION",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "position_title": "Member of Supervisory Body",
+        "from": "24-05-2022",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_massimo_bianchi",
+      "type": "HOLDS_POSITION",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "position_title": "Alternate Member of Supervisory Body",
+        "from": "24-05-2022",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_elena_brero",
+      "type": "HOLDS_POSITION",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "position_title": "Alternate Member of Supervisory Body",
+        "from": "24-05-2022",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_oreste_cagnasso",
+      "type": "HOLDS_POSITION",
+      "dest": "company_intesa_sanpaolo",
+      "properties": {
+        "position_title": "Alternate Member of Supervisory Body",
+        "from": "24-05-2022",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_gian_maria_gros_pietro",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_intesa_sanpaolo",
+      "properties": {
+        "type": "Chairman",
+        "from": "09-05-2013",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_paolo_andrea_colombo",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_intesa_sanpaolo",
+      "properties": {
+        "type": "Deputy Chair",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_carlo_messina",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_intesa_sanpaolo",
+      "properties": {
+        "type": "Chief Executive Officer and CEO",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_franco_ceruti",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_intesa_sanpaolo",
+      "properties": {
+        "type": "Independent Director",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_anna_gatti",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_intesa_sanpaolo",
+      "properties": {
+        "type": "Independent Director",
+        "from": "30-04-2019",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_liana_logiurato",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_intesa_sanpaolo",
+      "properties": {
+        "type": "Independent Director",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_maria_mazzarella",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_intesa_sanpaolo",
+      "properties": {
+        "type": "Independent Director",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_luciano_nebbia",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_intesa_sanpaolo",
+      "properties": {
+        "type": "Independent Director",
+        "from": "30-04-2019",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_bruno_maria_parigi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_intesa_sanpaolo",
+      "properties": {
+        "type": "Independent Director",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_bruno_picca",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_intesa_sanpaolo",
+      "properties": {
+        "type": "Independent Director",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_livia_pomodoro",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_intesa_sanpaolo",
+      "properties": {
+        "type": "Independent Director",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_maria_alessandra_stefanelli",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_intesa_sanpaolo",
+      "properties": {
+        "type": "Independent Director",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_paola_tagliavini",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_intesa_sanpaolo",
+      "properties": {
+        "type": "Independent Director",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_daniele_zamboni",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_intesa_sanpaolo",
+      "properties": {
+        "type": "Independent Director",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_alberto_maria_pisani",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_intesa_sanpaolo",
+      "properties": {
+        "type": "Independent Director",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_roberto_franchini",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_intesa_sanpaolo",
+      "properties": {
+        "type": "Independent Director",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_fabrizio_mosca",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_intesa_sanpaolo",
+      "properties": {
+        "type": "Independent Director",
+        "from": "30-04-2019",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_milena_teresa_motta",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_intesa_sanpaolo",
+      "properties": {
+        "type": "Independent Director",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_maria_cristina_zoppo",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_intesa_sanpaolo",
+      "properties": {
+        "type": "Independent Director",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_bruno_pecci",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_intesa_sanpaolo",
+      "properties": {
+        "type": "Independent Director",
+        "from": "09-05-2013",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_alberto_maria_pisani",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_sulla_gestione_intesa_sanpaolo",
+      "properties": {
+        "president": "true",
+        "from": "09-05-2013",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_roberto_franchini",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_sulla_gestione_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_fabrizio_mosca",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_sulla_gestione_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_milena_teresa_motta",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_sulla_gestione_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_maria_cristina_zoppo",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_sulla_gestione_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_maria_mazzarella",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_sulla_gestione_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "27-04-2016",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_liana_logiurato",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_sulla_gestione_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_anna_gatti",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_sulla_gestione_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "30-04-2019",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_bruno_pecci",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_sulla_gestione_intesa_sanpaolo",
+      "properties": {
+        "president": "true",
+        "from": "09-05-2013",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_livia_pomodoro",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomine_intesa_sanpaolo",
+      "properties": {
+        "president": "true",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_paolo_andrea_colombo",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomine_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_gian_maria_gros_pietro",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomine_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "09-05-2013",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_maria_mazzarella",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomine_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_bruno_picca",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomine_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_alberto_maria_pisani",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomine_intesa_sanpaolo",
+      "properties": {
+        "president": "true",
+        "from": "27-04-2016",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_maria_alessandra_stefanelli",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomine_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_luciano_nebbia",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomine_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "30-04-2019",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_franco_ceruti",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomine_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "27-04-2016",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_paolo_andrea_colombo",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerazioni_intesa_sanpaolo",
+      "properties": {
+        "president": "true",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_franco_ceruti",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerazioni_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_anna_gatti",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerazioni_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "30-04-2019",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_liana_logiurato",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerazioni_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_luciano_nebbia",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerazioni_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_roberto_franchini",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerazioni_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "27-04-2020",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_maria_alessandra_stefanelli",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerazioni_intesa_sanpaolo",
+      "properties": {
+        "president": "true",
+        "from": "29-04-2022",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_bruno_maria_parigi",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerazioni_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_paola_tagliavini",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_sulla_gestione_intesa_sanpaolo",
+      "properties": {
+        "president": "true",
+        "from": "29-04-2022",
+        "to": "29-0-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_bruno_maria_parigi",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_sulla_gestione_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_bruno_picca",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_sulla_gestione_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_daniele_zamboni",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_sulla_gestione_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_franco_ceruti",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_sulla_gestione_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_livia_pomodoro",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_sulla_gestione_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "27-04-2016",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_paolo_andrea_colombo",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_sulla_gestione_intesa_sanpaolo",
+      "properties": {
+        "president": "true",
+        "from": "27-04-2016",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_daniele_zamboni",
+      "type": "MEMBER_OF",
+      "dest": "committee_operazioni_con_parti_correlate_intesa_sanpaolo",
+      "properties": {
+        "president": "true",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_liana_logiurato",
+      "type": "MEMBER_OF",
+      "dest": "committee_operazioni_con_parti_correlate_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_maria_mazzarella",
+      "type": "MEMBER_OF",
+      "dest": "committee_operazioni_con_parti_correlate_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_maria_alessandra_stefanelli",
+      "type": "MEMBER_OF",
+      "dest": "committee_operazioni_con_parti_correlate_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_paola_tagliavini",
+      "type": "MEMBER_OF",
+      "dest": "committee_operazioni_con_parti_correlate_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "27-04-2016",
+        "to": "29-04-2025",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_milena_teresa_motta",
+      "type": "MEMBER_OF",
+      "dest": "committee_operazioni_con_parti_correlate_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "27-04-2016",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_bruno_maria_parigi",
+      "type": "MEMBER_OF",
+      "dest": "committee_operazioni_con_parti_correlate_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "29-04-2022",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    },
+    {
+      "source": "person_paolo_andrea_colombo",
+      "type": "MEMBER_OF",
+      "dest": "committee_operazioni_con_parti_correlate_intesa_sanpaolo",
+      "properties": {
+        "president": "false",
+        "from": "27-04-2016",
+        "to": "",
+        "source": "https://group.intesasanpaolo.com/content/dam/portalgroup/repository-documenti/investor-relations/Contenuti/RISORSE/Documenti%20PDF/governance/20250328_Relazione_Governance_it.pdf"
+      }
+    }
+  ]
+}

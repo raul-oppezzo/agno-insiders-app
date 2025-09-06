@@ -1,0 +1,942 @@
+{
+  "nodes": [
+    {
+      "id": "company_nexi",
+      "label": "Company",
+      "properties": {
+        "name": "NEXI",
+        "isin": "",
+        "ticker": "",
+        "vatNumber": "10542790968",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "address_milano_corso_sempione_55",
+      "label": "Address",
+      "properties": {
+        "street": "Corso Sempione 55",
+        "city": "Milano",
+        "postalCode": "",
+        "country": "",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "directors_nexi",
+      "label": "Board",
+      "properties": {
+        "type": "board of directors",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "statutory_auditors_nexi",
+      "label": "Board",
+      "properties": {
+        "type": "board of statutory auditors",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "committee_remuneration_and_nomination_nexi",
+      "label": "Committee",
+      "properties": {
+        "name": "Remuneration and Nomination Committee",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "committee_control_risks_and_sustainability_nexi",
+      "label": "Committee",
+      "properties": {
+        "name": "Control, Risks and Sustainability Committee",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "committee_strategic_nexi",
+      "label": "Committee",
+      "properties": {
+        "name": "Strategic Committee",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "committee_related_parties_operations_nexi",
+      "label": "Committee",
+      "properties": {
+        "name": "Related Parties Operations Committee",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_michaela_castelli",
+      "label": "Person",
+      "properties": {
+        "name": "Michaela Castelli",
+        "dateOfBirth": "07-09-1970",
+        "cityOfBirth": "Roma",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_paolo_bertoluzzo",
+      "label": "Person",
+      "properties": {
+        "name": "Paolo Bertoluzzo",
+        "dateOfBirth": "11-12-1965",
+        "cityOfBirth": "Padova",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_ernesto_albanese",
+      "label": "Person",
+      "properties": {
+        "name": "Ernesto Albanese",
+        "dateOfBirth": "1964",
+        "cityOfBirth": "Napoli",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_elena_antognazza",
+      "label": "Person",
+      "properties": {
+        "name": "Elena Antognazza",
+        "dateOfBirth": "1970",
+        "cityOfBirth": "Milano",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_luca_bassi",
+      "label": "Person",
+      "properties": {
+        "name": "Luca Bassi",
+        "dateOfBirth": "16-06-1970",
+        "cityOfBirth": "Busto Arsizio",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_maurizio_cereda",
+      "label": "Person",
+      "properties": {
+        "name": "Maurizio Cereda",
+        "dateOfBirth": "07-01-1964",
+        "cityOfBirth": "Milano",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_elisa_corghi",
+      "label": "Person",
+      "properties": {
+        "name": "Elisa Corghi",
+        "dateOfBirth": "11-08-1972",
+        "cityOfBirth": "Mantova",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_johannes_korp",
+      "label": "Person",
+      "properties": {
+        "name": "Johannes Korp",
+        "dateOfBirth": "28-11-1984",
+        "cityOfBirth": "Graz",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_marina_natale",
+      "label": "Person",
+      "properties": {
+        "name": "Marina Natale",
+        "dateOfBirth": "13-05-1962",
+        "cityOfBirth": "Saronno",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_luca_velussi",
+      "label": "Person",
+      "properties": {
+        "name": "Luca Velussi",
+        "dateOfBirth": "01-11-1969",
+        "cityOfBirth": "Monfalcone",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_francesco_casiraghi",
+      "label": "Person",
+      "properties": {
+        "name": "Francesco Casiraghi",
+        "dateOfBirth": "29-10-1978",
+        "cityOfBirth": "Reggio Emilia",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_andrea_nuzzi",
+      "label": "Person",
+      "properties": {
+        "name": "Andrea Nuzzi",
+        "dateOfBirth": "25-11-1974",
+        "cityOfBirth": "Genova",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_marinella_soldi",
+      "label": "Person",
+      "properties": {
+        "name": "Marinella Soldi",
+        "dateOfBirth": "04-11-1966",
+        "cityOfBirth": "Figline Valdarno",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_monica_coppo",
+      "label": "Person",
+      "properties": {
+        "name": "Monica Coppo",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_bo_einar_lohmann_nilsson",
+      "label": "Person",
+      "properties": {
+        "name": "Bo Einar Lohmann Nilsson",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_francesco_pettenati",
+      "label": "Person",
+      "properties": {
+        "name": "Francesco Pettenati",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "auditor_pricewaterhousecoopers",
+      "label": "Auditor",
+      "properties": {
+        "name": "PricewaterhouseCoopers",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_emanuele_boati",
+      "label": "Person",
+      "properties": {
+        "name": "Emanuele Boati",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_enrico_marchini",
+      "label": "Person",
+      "properties": {
+        "name": "Enrico Marchini",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_alessia_carnevale",
+      "label": "Person",
+      "properties": {
+        "name": "Alessia Carnevale",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_vishal_oberoi",
+      "label": "Person",
+      "properties": {
+        "name": "Vishal Oberoi",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_giacomo_bugna",
+      "label": "Person",
+      "properties": {
+        "name": "Giacomo Bugna",
+        "cityOfBirth": "Bari",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_mariella_tagliabue",
+      "label": "Person",
+      "properties": {
+        "name": "Mariella Tagliabue",
+        "dateOfBirth": "31-08-1970",
+        "cityOfBirth": "Monza (MB)",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_eugenio_pinto",
+      "label": "Person",
+      "properties": {
+        "name": "Eugenio Pinto",
+        "dateOfBirth": "20-09-1959",
+        "cityOfBirth": "Taranto",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_serena_gatteschi",
+      "label": "Person",
+      "properties": {
+        "name": "Serena Gatteschi",
+        "dateOfBirth": "25-09-1972",
+        "cityOfBirth": "Arezzo",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_sonia_peron",
+      "label": "Person",
+      "properties": {
+        "name": "Sonia Peron",
+        "dateOfBirth": "26-12-1970",
+        "cityOfBirth": "Padova",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "id": "person_stefania_mantegazza",
+      "label": "Person",
+      "properties": {
+        "name": "Stefania Mantegazza",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "company_nexi",
+      "type": "LOCATED_AT",
+      "dest": "address_milano_corso_sempione_55",
+      "properties": {
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "directors_nexi",
+      "type": "PART_OF",
+      "dest": "company_nexi",
+      "properties": {
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "statutory_auditors_nexi",
+      "type": "PART_OF",
+      "dest": "company_nexi",
+      "properties": {
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "committee_remuneration_and_nomination_nexi",
+      "type": "PART_OF",
+      "dest": "company_nexi",
+      "properties": {
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "committee_control_risks_and_sustainability_nexi",
+      "type": "PART_OF",
+      "dest": "company_nexi",
+      "properties": {
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "committee_strategic_nexi",
+      "type": "PART_OF",
+      "dest": "company_nexi",
+      "properties": {
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "committee_related_parties_operations_nexi",
+      "type": "PART_OF",
+      "dest": "company_nexi",
+      "properties": {
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_michaela_castelli",
+      "type": "MEMBER_OF",
+      "dest": "directors_nexi",
+      "properties": {
+        "type": "Chairman, Independent Director",
+        "startDate": "13-02-2019",
+        "endDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_paolo_bertoluzzo",
+      "type": "MEMBER_OF",
+      "dest": "directors_nexi",
+      "properties": {
+        "type": "Chief Executive Officer and General Manager",
+        "startDate": "13-02-2019",
+        "endDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_ernesto_albanese",
+      "type": "MEMBER_OF",
+      "dest": "directors_nexi",
+      "properties": {
+        "type": "Lead Independent Director",
+        "startDate": "22-12-2022",
+        "endDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_ernesto_albanese",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_risks_and_sustainability_nexi",
+      "properties": {
+        "chairman": "true",
+        "startDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_elena_antognazza",
+      "type": "MEMBER_OF",
+      "dest": "directors_nexi",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "05-05-2022",
+        "endDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_luca_bassi",
+      "type": "MEMBER_OF",
+      "dest": "directors_nexi",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "13-02-2019",
+        "endDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_maurizio_cereda",
+      "type": "MEMBER_OF",
+      "dest": "directors_nexi",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "31-12-2021",
+        "endDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_elisa_corghi",
+      "type": "MEMBER_OF",
+      "dest": "directors_nexi",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "26-09-2019",
+        "endDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_johannes_korp",
+      "type": "MEMBER_OF",
+      "dest": "directors_nexi",
+      "properties": {
+        "type": "Executive Director",
+        "startDate": "26-01-2023",
+        "endDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_marina_natale",
+      "type": "MEMBER_OF",
+      "dest": "directors_nexi",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "01-12-2021",
+        "endDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_luca_velussi",
+      "type": "MEMBER_OF",
+      "dest": "directors_nexi",
+      "properties": {
+        "type": "Executive Director",
+        "startDate": "08-05-2024",
+        "endDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_francesco_casiraghi",
+      "type": "MEMBER_OF",
+      "dest": "directors_nexi",
+      "properties": {
+        "type": "Executive Director",
+        "startDate": "21-04-2016",
+        "endDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_andrea_nuzzi",
+      "type": "MEMBER_OF",
+      "dest": "directors_nexi",
+      "properties": {
+        "type": "Executive Director",
+        "startDate": "23-09-2024",
+        "endDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_marinella_soldi",
+      "type": "MEMBER_OF",
+      "dest": "directors_nexi",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "01-02-2019",
+        "endDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_monica_coppo",
+      "type": "HOLDS_POSITION",
+      "dest": "company_nexi",
+      "properties": {
+        "position_title": "Head of Legal and Corporate Affairs Italy",
+        "startDate": "23-09-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_bo_einar_lohmann_nilsson",
+      "type": "MEMBER_OF",
+      "dest": "directors_nexi",
+      "properties": {
+        "type": "Director",
+        "startDate": "01-07-2021",
+        "endDate": "30-04-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_francesco_pettenati",
+      "type": "MEMBER_OF",
+      "dest": "directors_nexi",
+      "properties": {
+        "type": "Director",
+        "startDate": "31-12-2021",
+        "endDate": "30-08-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_paolo_bertoluzzo",
+      "type": "MEMBER_OF",
+      "dest": "committee_strategic_nexi",
+      "properties": {
+        "chairman": "false",
+        "startDate": "03-07-2018",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_michaela_castelli",
+      "type": "MEMBER_OF",
+      "dest": "committee_strategic_nexi",
+      "properties": {
+        "chairman": "false",
+        "startDate": "03-07-2018",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_michaela_castelli",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_nomination_nexi",
+      "properties": {
+        "chairman": "false",
+        "startDate": "25-02-2019",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_elisa_corghi",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_nomination_nexi",
+      "properties": {
+        "chairman": "false",
+        "startDate": "25-02-2019",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_maurizio_cereda",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_nomination_nexi",
+      "properties": {
+        "chairman": "false",
+        "startDate": "25-02-2019",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_luca_bassi",
+      "type": "MEMBER_OF",
+      "dest": "committee_strategic_nexi",
+      "properties": {
+        "chairman": "false",
+        "startDate": "03-07-2018",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_bo_einar_lohmann_nilsson",
+      "type": "MEMBER_OF",
+      "dest": "committee_strategic_nexi",
+      "properties": {
+        "chairman": "false",
+        "startDate": "03-07-2018",
+        "endDate": "30-04-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_johannes_korp",
+      "type": "MEMBER_OF",
+      "dest": "committee_strategic_nexi",
+      "properties": {
+        "chairman": "false",
+        "startDate": "03-07-2018",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_francesco_casiraghi",
+      "type": "MEMBER_OF",
+      "dest": "committee_strategic_nexi",
+      "properties": {
+        "chairman": "false",
+        "startDate": "03-07-2018",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_francesco_pettenati",
+      "type": "MEMBER_OF",
+      "dest": "committee_strategic_nexi",
+      "properties": {
+        "chairman": "false",
+        "startDate": "03-07-2018",
+        "endDate": "30-08-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_andrea_nuzzi",
+      "type": "MEMBER_OF",
+      "dest": "committee_strategic_nexi",
+      "properties": {
+        "chairman": "false",
+        "startDate": "23-09-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "company_nexi",
+      "type": "AUDITED_BY",
+      "dest": "auditor_pricewaterhousecoopers",
+      "properties": {
+        "startDate": "2019-02-13",
+        "endDate": "2027-12-31",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_marina_natale",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_risks_and_sustainability_nexi",
+      "properties": {
+        "chairman": "false",
+        "startDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_michaela_castelli",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_risks_and_sustainability_nexi",
+      "properties": {
+        "chairman": "false",
+        "startDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_marina_natale",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_operations_nexi",
+      "properties": {
+        "chairman": "true",
+        "startDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_elena_antognazza",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_operations_nexi",
+      "properties": {
+        "chairman": "false",
+        "startDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_elisa_corghi",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_operations_nexi",
+      "properties": {
+        "chairman": "false",
+        "startDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_emanuele_boati",
+      "type": "HOLDS_POSITION",
+      "dest": "company_nexi",
+      "properties": {
+        "position_title": "Head of Internal Audit",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_enrico_marchini",
+      "type": "HOLDS_POSITION",
+      "dest": "company_nexi",
+      "properties": {
+        "position_title": "Manager in charge of preparing corporate accounting documents",
+        "startDate": "2019-02-25",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_alessia_carnevale",
+      "type": "HOLDS_POSITION",
+      "dest": "company_nexi",
+      "properties": {
+        "position_title": "Group Risk Manager",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_vishal_oberoi",
+      "type": "HOLDS_POSITION",
+      "dest": "company_nexi",
+      "properties": {
+        "position_title": "Head of Group Compliance",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_giacomo_bugna",
+      "type": "MEMBER_OF",
+      "dest": "statutory_auditors_nexi",
+      "properties": {
+        "type": "Chairman",
+        "startDate": "05-05-2022",
+        "endDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_mariella_tagliabue",
+      "type": "MEMBER_OF",
+      "dest": "statutory_auditors_nexi",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "13-02-2019",
+        "endDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_eugenio_pinto",
+      "type": "MEMBER_OF",
+      "dest": "statutory_auditors_nexi",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "31-12-2021",
+        "endDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_serena_gatteschi",
+      "type": "MEMBER_OF",
+      "dest": "statutory_auditors_nexi",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "31-12-2021",
+        "endDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_sonia_peron",
+      "type": "MEMBER_OF",
+      "dest": "statutory_auditors_nexi",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "31-12-2021",
+        "endDate": "31-12-2024",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_luca_bassi",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_operations_nexi",
+      "properties": {
+        "chairman": "false",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_luca_bassi",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_nomination_nexi",
+      "properties": {
+        "chairman": "false",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_luca_bassi",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_risks_and_sustainability_nexi",
+      "properties": {
+        "chairman": "false",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_elisa_corghi",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_risks_and_sustainability_nexi",
+      "properties": {
+        "chairman": "false",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_marinella_soldi",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_risks_and_sustainability_nexi",
+      "properties": {
+        "chairman": "true",
+        "endDate": "18-10-2023",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_luca_velussi",
+      "type": "MEMBER_OF",
+      "dest": "committee_strategic_nexi",
+      "properties": {
+        "chairman": "false",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_marina_natale",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_nomination_nexi",
+      "properties": {
+        "chairman": "true",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_maurizio_cereda",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_operations_nexi",
+      "properties": {
+        "chairman": "true",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_maurizio_cereda",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_risks_and_sustainability_nexi",
+      "properties": {
+        "chairman": "false",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_elena_antognazza",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_nomination_nexi",
+      "properties": {
+        "chairman": "false",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_francesco_pettenati",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_operations_nexi",
+      "properties": {
+        "chairman": "false",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    },
+    {
+      "source": "person_stefania_mantegazza",
+      "type": "HOLDS_POSITION",
+      "dest": "company_nexi",
+      "properties": {
+        "position_title": "Responsabile Investor Relations",
+        "startDate": "01-04-2019",
+        "source": "https://www.nexigroup.com/content/dam/corp/downloads/group/governance/shareholders-meetings/2025-04-30/2024-it-nexi-relazione-corporate-governance.pdf"
+      }
+    }
+  ]
+}

@@ -1,0 +1,883 @@
+{
+  "nodes": [
+    {
+      "id": "company_a2a",
+      "label": "Company",
+      "properties": {
+        "name": "A2A S.p.A.",
+        "isin": "",
+        "ticker": "",
+        "vatNumber": "11957540153",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "address_brescia_via_lamarmora_230",
+      "label": "Address",
+      "properties": {
+        "street": "Via Lamarmora, 230",
+        "city": "Brescia",
+        "postalCode": "25124",
+        "country": "Italy",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "auditor_ey",
+      "label": "Auditor",
+      "properties": {
+        "name": "EY S.p.A.",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "board_of_directors_a2a",
+      "label": "Board",
+      "properties": {
+        "type": "board of directors",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "board_of_statutory_auditors_a2a",
+      "label": "Board",
+      "properties": {
+        "type": "board of statutory auditors",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "committee_control_and_risks_a2a",
+      "label": "Committee",
+      "properties": {
+        "name": "Control and Risks Committee",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "committee_remuneration_and_appointments_a2a",
+      "label": "Committee",
+      "properties": {
+        "name": "Remuneration and Appointments Committee",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "committee_esg_and_local_relations_a2a",
+      "label": "Committee",
+      "properties": {
+        "name": "ESG and Local Relations Committee",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "committee_related_parties_a2a",
+      "label": "Committee",
+      "properties": {
+        "name": "Related Parties Committee",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_roberto_tasca",
+      "label": "Person",
+      "properties": {
+        "name": "Roberto Tasca",
+        "dateOfBirth": "",
+        "cityOfBirth": "Milan",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_giovanni_comboni",
+      "label": "Person",
+      "properties": {
+        "name": "Giovanni Comboni",
+        "dateOfBirth": "",
+        "cityOfBirth": "Crema",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_renato_mazzoncini",
+      "label": "Person",
+      "properties": {
+        "name": "Renato Mazzoncini",
+        "dateOfBirth": "",
+        "cityOfBirth": "Brescia",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_elisabetta_cristiana_bombana",
+      "label": "Person",
+      "properties": {
+        "name": "Elisabetta Cristiana Bombana",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_vincenzo_cariello",
+      "label": "Person",
+      "properties": {
+        "name": "Vincenzo Cariello",
+        "dateOfBirth": "",
+        "cityOfBirth": "Arezzo",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_maria_elisa_d_amico",
+      "label": "Person",
+      "properties": {
+        "name": "Maria Elisa DAmico",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_susanna_dorigoni",
+      "label": "Person",
+      "properties": {
+        "name": "Susanna Dorigoni",
+        "dateOfBirth": "",
+        "cityOfBirth": "Merano",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_fabio_lavini",
+      "label": "Person",
+      "properties": {
+        "name": "Fabio Lavini",
+        "dateOfBirth": "",
+        "cityOfBirth": "Comezzano Cizzago",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_mario_gualtiero_francesco_motta",
+      "label": "Person",
+      "properties": {
+        "name": "Mario Gualtiero Francesco Motta",
+        "dateOfBirth": "",
+        "cityOfBirth": "Catania",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_elisabetta_pistis",
+      "label": "Person",
+      "properties": {
+        "name": "Elisabetta Pistis",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_maria_grazia_speranza",
+      "label": "Person",
+      "properties": {
+        "name": "Maria Grazia Speranza",
+        "dateOfBirth": "30-03-1957",
+        "cityOfBirth": "Gazzaniga",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_alessandro_zunino",
+      "label": "Person",
+      "properties": {
+        "name": "Alessandro Zunino",
+        "dateOfBirth": "25-05-1967",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_silvia_muzi",
+      "label": "Person",
+      "properties": {
+        "name": "Silvia Muzi",
+        "dateOfBirth": "18-07-1969",
+        "cityOfBirth": "Rome",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_maurizio_dallocchio",
+      "label": "Person",
+      "properties": {
+        "name": "Maurizio Dallocchio",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_chiara_segala",
+      "label": "Person",
+      "properties": {
+        "name": "Chiara Segala",
+        "dateOfBirth": "04-08-1972",
+        "cityOfBirth": "Brescia",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_vieri_chimenti",
+      "label": "Person",
+      "properties": {
+        "name": "Vieri Chimenti",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_patrizia_lucia_maria_riva",
+      "label": "Person",
+      "properties": {
+        "name": "Patrizia Lucia Maria Riva",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_marco_emilio_angelo_patuano",
+      "label": "Person",
+      "properties": {
+        "name": "Marco Emilio Angelo Patuano",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_stefania_bariatti",
+      "label": "Person",
+      "properties": {
+        "name": "Stefania Bariatti",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_christine_perrotti",
+      "label": "Person",
+      "properties": {
+        "name": "Christine Perrotti",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "auditor_kpmg",
+      "label": "Auditor",
+      "properties": {
+        "name": "KPMG S.p.A.",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "id": "person_luca_moroni",
+      "label": "Person",
+      "properties": {
+        "name": "Luca Moroni",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "board_of_directors_a2a",
+      "type": "PART_OF",
+      "dest": "company_a2a",
+      "properties": {
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "board_of_statutory_auditors_a2a",
+      "type": "PART_OF",
+      "dest": "company_a2a",
+      "properties": {
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "committee_control_and_risks_a2a",
+      "type": "PART_OF",
+      "dest": "company_a2a",
+      "properties": {
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "committee_remuneration_and_appointments_a2a",
+      "type": "PART_OF",
+      "dest": "company_a2a",
+      "properties": {
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "committee_esg_and_local_relations_a2a",
+      "type": "PART_OF",
+      "dest": "company_a2a",
+      "properties": {
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "committee_related_parties_a2a",
+      "type": "PART_OF",
+      "dest": "company_a2a",
+      "properties": {
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "company_a2a",
+      "type": "LOCATED_AT",
+      "dest": "address_brescia_via_lamarmora_230",
+      "properties": {
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "company_a2a",
+      "type": "AUDITED_BY",
+      "dest": "auditor_ey",
+      "properties": {
+        "startDate": "11-06-2015",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_roberto_tasca",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_a2a",
+      "properties": {
+        "type": "Chairman",
+        "startDate": "11-10-2023",
+        "endDate": "31-12-2025",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_roberto_tasca",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_a2a",
+      "properties": {
+        "chairman": "false",
+        "startDate": "11-05-2023",
+        "endDate": "11-10-2023",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_giovanni_comboni",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_a2a",
+      "properties": {
+        "type": "Deputy Chair",
+        "startDate": "28-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_renato_mazzoncini",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_a2a",
+      "properties": {
+        "type": "Chief Executive Officer and General Manager",
+        "startDate": "28-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_elisabetta_cristiana_bombana",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_a2a",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "28-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_vincenzo_cariello",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_a2a",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "28-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_vincenzo_cariello",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_appointments_a2a",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_maria_elisa_d_amico",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_a2a",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "28-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_susanna_dorigoni",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_a2a",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "28-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_susanna_dorigoni",
+      "type": "MEMBER_OF",
+      "dest": "committee_esg_and_local_relations_a2a",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_fabio_lavini",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_a2a",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "28-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_mario_gualtiero_francesco_motta",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_a2a",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "11-10-2023",
+        "endDate": "31-12-2025",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_elisabetta_pistis",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_a2a",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "28-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_maria_grazia_speranza",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_a2a",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "28-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_alessandro_zunino",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_a2a",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "28-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_alessandro_zunino",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_a2a",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_silvia_muzi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_a2a",
+      "properties": {
+        "type": "Chairman",
+        "startDate": "28-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_maurizio_dallocchio",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_a2a",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "28-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_chiara_segala",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_a2a",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "28-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_vieri_chimenti",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_a2a",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "28-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_patrizia_lucia_maria_riva",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_a2a",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "28-04-2023",
+        "endDate": "31-12-2025",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_marco_emilio_angelo_patuano",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_a2a",
+      "properties": {
+        "type": "Chairman",
+        "startDate": "28-04-2023",
+        "endDate": "28-07-2023",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_roberto_tasca",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_appointments_a2a",
+      "properties": {
+        "chairman": "false",
+        "startDate": "11-05-2023",
+        "endDate": "11-10-2023",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_susanna_dorigoni",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_appointments_a2a",
+      "properties": {
+        "chairman": "true",
+        "startDate": "11-05-2023",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_giovanni_comboni",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_appointments_a2a",
+      "properties": {
+        "chairman": "false",
+        "startDate": "11-05-2023",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_elisabetta_pistis",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_appointments_a2a",
+      "properties": {
+        "chairman": "false",
+        "startDate": "11-10-2023",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_roberto_tasca",
+      "type": "MEMBER_OF",
+      "dest": "committee_esg_and_local_relations_a2a",
+      "properties": {
+        "chairman": "true",
+        "startDate": "11-10-2023",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_alessandro_zunino",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_a2a",
+      "properties": {
+        "chairman": "true",
+        "startDate": "11-05-2023",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_elisabetta_cristiana_bombana",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_a2a",
+      "properties": {
+        "chairman": "false",
+        "startDate": "11-05-2023",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_maria_grazia_speranza",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_a2a",
+      "properties": {
+        "chairman": "false",
+        "startDate": "11-05-2023",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_maria_grazia_speranza",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_a2a",
+      "properties": {
+        "chairman": "false",
+        "startDate": "11-05-2023",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_mario_gualtiero_francesco_motta",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_a2a",
+      "properties": {
+        "chairman": "false",
+        "startDate": "11-10-2023",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_marco_emilio_angelo_patuano",
+      "type": "MEMBER_OF",
+      "dest": "committee_esg_and_local_relations_a2a",
+      "properties": {
+        "chairman": "true",
+        "startDate": "11-05-2023",
+        "endDate": "28-07-2023",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_vincenzo_cariello",
+      "type": "MEMBER_OF",
+      "dest": "committee_esg_and_local_relations_a2a",
+      "properties": {
+        "chairman": "false",
+        "startDate": "11-05-2023",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_vincenzo_cariello",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_a2a",
+      "properties": {
+        "chairman": "false",
+        "startDate": "13-05-2021",
+        "endDate": "11-05-2023",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_fabio_lavini",
+      "type": "MEMBER_OF",
+      "dest": "committee_esg_and_local_relations_a2a",
+      "properties": {
+        "chairman": "false",
+        "startDate": "11-05-2023",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_elisabetta_pistis",
+      "type": "MEMBER_OF",
+      "dest": "committee_esg_and_local_relations_a2a",
+      "properties": {
+        "chairman": "false",
+        "startDate": "11-05-2023",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_stefania_bariatti",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_a2a",
+      "properties": {
+        "chairman": "true",
+        "startDate": "13-05-2021",
+        "endDate": "11-05-2023",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_christine_perrotti",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_a2a",
+      "properties": {
+        "chairman": "false",
+        "startDate": "13-05-2021",
+        "endDate": "11-05-2023",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_maria_elisa_d_amico",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_a2a",
+      "properties": {
+        "chairman": "false",
+        "startDate": "11-05-2023",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "company_a2a",
+      "type": "AUDITED_BY",
+      "dest": "auditor_kpmg",
+      "properties": {
+        "startDate": "01-01-2025",
+        "endDate": "31-12-2033",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_luca_moroni",
+      "type": "HOLDS_POSITION",
+      "dest": "company_a2a",
+      "properties": {
+        "position_title": "Financial Reporting Manager",
+        "startDate": "22-09-2022",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_susanna_dorigoni",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_a2a",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_mario_gualtiero_francesco_motta",
+      "type": "MEMBER_OF",
+      "dest": "committee_remuneration_and_appointments_a2a",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    },
+    {
+      "source": "person_alessandro_zunino",
+      "type": "MEMBER_OF",
+      "dest": "committee_esg_and_local_relations_a2a",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://live.euronext.com/sites/default/files/esg_document_files/2025-05/74186_report-corporate-governance-ownership-structures-2024_2025-05-30_10%3A49.pdf"
+      }
+    }
+  ]
+}

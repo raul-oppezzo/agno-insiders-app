@@ -1,0 +1,1495 @@
+{
+  "nodes": [
+    {
+      "id": "company_banca_monte_dei_paschi_di_siena",
+      "label": "Company",
+      "properties": {
+        "name": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+        "isin": "",
+        "ticker": "BMPS",
+        "vatNumber": "01483500524",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "auditor_pricewaterhousecoopers",
+      "label": "Auditor",
+      "properties": {
+        "name": "PricewaterhouseCoopers S.p.A.",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "label": "Board",
+      "properties": {
+        "type": "board of directors",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "board_of_statutory_auditors_company_banca_monte_dei_paschi_di_siena",
+      "label": "Board",
+      "properties": {
+        "type": "board of statutory auditors",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "committee_rischi_e_sostenibilita_company_banca_monte_dei_paschi_di_siena",
+      "label": "Committee",
+      "properties": {
+        "name": "Comitato Rischi e Sostenibilità",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "committee_nomine_company_banca_monte_dei_paschi_di_siena",
+      "label": "Committee",
+      "properties": {
+        "name": "Comitato Nomine",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "committee_remunerazione_company_banca_monte_dei_paschi_di_siena",
+      "label": "Committee",
+      "properties": {
+        "name": "Comitato Remunerazione",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "committee_per_le_operazioni_con_le_parti_correlate_company_banca_monte_dei_paschi_di_siena",
+      "label": "Committee",
+      "properties": {
+        "name": "Comitato per le Operazioni con le Parti Correlate",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "committee_it_e_digitalizzazione_company_banca_monte_dei_paschi_di_siena",
+      "label": "Committee",
+      "properties": {
+        "name": "Comitato IT e Digitalizzazione",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_maurizio_bai",
+      "label": "Person",
+      "properties": {
+        "name": "Maurizio Bai",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_nicola_maione",
+      "label": "Person",
+      "properties": {
+        "name": "Nicola Maione",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_gianluca_brancadoro",
+      "label": "Person",
+      "properties": {
+        "name": "Gianluca Brancadoro",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_luigi_lovaglio",
+      "label": "Person",
+      "properties": {
+        "name": "Luigi Lovaglio",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_alessandra_barzaghi",
+      "label": "Person",
+      "properties": {
+        "name": "Alessandra Barzaghi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_alessandro_caltagirone",
+      "label": "Person",
+      "properties": {
+        "name": "Alessandro Caltagirone",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_paola_de_martini",
+      "label": "Person",
+      "properties": {
+        "name": "Paola De Martini",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_elena_de_simone",
+      "label": "Person",
+      "properties": {
+        "name": "Elena De Simone",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_stefano_di_stefano",
+      "label": "Person",
+      "properties": {
+        "name": "Stefano Di Stefano",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_domenico_lombardi",
+      "label": "Person",
+      "properties": {
+        "name": "Domenico Lombardi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_paola_lucantoni",
+      "label": "Person",
+      "properties": {
+        "name": "Paola Lucantoni",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_raffaele_oriani",
+      "label": "Person",
+      "properties": {
+        "name": "Raffaele Oriani",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_marcella_panucci",
+      "label": "Person",
+      "properties": {
+        "name": "Marcella Panucci",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_francesca_paramico_renzulli",
+      "label": "Person",
+      "properties": {
+        "name": "Francesca Paramico Renzulli",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_renato_sala",
+      "label": "Person",
+      "properties": {
+        "name": "Renato Sala",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_barbara_tadolini",
+      "label": "Person",
+      "properties": {
+        "name": "Barbara Tadolini",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_marco_giorgino",
+      "label": "Person",
+      "properties": {
+        "name": "Marco Giorgino",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_paolo_fabris_de_fabris",
+      "label": "Person",
+      "properties": {
+        "name": "Paolo Fabris De Fabris",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_lucia_foti_belligambi",
+      "label": "Person",
+      "properties": {
+        "name": "Lucia Foti Belligambi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_laura_martiniello",
+      "label": "Person",
+      "properties": {
+        "name": "Laura Martiniello",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_anna_paola_negri_clementi",
+      "label": "Person",
+      "properties": {
+        "name": "Anna Paola Negri Clementi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_donatella_visconti",
+      "label": "Person",
+      "properties": {
+        "name": "Donatella Visconti",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_riccardo_quagliana",
+      "label": "Person",
+      "properties": {
+        "name": "Riccardo Quagliana",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_massimiliano_bosio",
+      "label": "Person",
+      "properties": {
+        "name": "Massimiliano Bosio",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_leonardo_bellucci",
+      "label": "Person",
+      "properties": {
+        "name": "Leonardo Bellucci",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_lorenzo_boetti",
+      "label": "Person",
+      "properties": {
+        "name": "Lorenzo Boetti",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "committee_organismo_di_vigilanza_231_company_banca_monte_dei_paschi_di_siena",
+      "label": "Committee",
+      "properties": {
+        "name": "Organismo di Vigilanza 231",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_ettore_carneade",
+      "label": "Person",
+      "properties": {
+        "name": "Ettore Carneade",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_stefano_moni",
+      "label": "Person",
+      "properties": {
+        "name": "Stefano Moni",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_roberto_regoli",
+      "label": "Person",
+      "properties": {
+        "name": "Roberto Regoli",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_romina_guglielmetti",
+      "label": "Person",
+      "properties": {
+        "name": "Romina Guglielmetti",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_gianluca_tognozzi",
+      "label": "Person",
+      "properties": {
+        "name": "Gianluca Tognozzi",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_nicola_massimo_clarelli",
+      "label": "Person",
+      "properties": {
+        "name": "Nicola Massimo Clarelli",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_enrico_ciai",
+      "label": "Person",
+      "properties": {
+        "name": "Enrico Ciai",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_lavinia_linguanti",
+      "label": "Person",
+      "properties": {
+        "name": "Lavinia Linguanti",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_giacomo_granata",
+      "label": "Person",
+      "properties": {
+        "name": "Giacomo Granata",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_pierpaolo_cotone",
+      "label": "Person",
+      "properties": {
+        "name": "Pierpaolo Cotone",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_paola_lucia_isabella_giordano",
+      "label": "Person",
+      "properties": {
+        "name": "Paola Lucia Isabella Giordano",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_roberto_serrentino",
+      "label": "Person",
+      "properties": {
+        "name": "Roberto Serrentino",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_piera_vitali",
+      "label": "Person",
+      "properties": {
+        "name": "Piera Vitali",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "address_siena_piazza_salimbeni_3",
+      "label": "Address",
+      "properties": {
+        "street": "Piazza Salimbeni, 3",
+        "city": "Siena",
+        "postalCode": "53100",
+        "country": "Italy",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_elisabetta_pozzi",
+      "label": "Person",
+      "properties": {
+        "name": "Elisabetta Pozzi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "id": "person_maria_costante",
+      "label": "Person",
+      "properties": {
+        "name": "Maria Costante",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "company_banca_monte_dei_paschi_di_siena",
+      "type": "AUDITED_BY",
+      "dest": "auditor_pricewaterhousecoopers",
+      "properties": {
+        "startDate": "01-01-2020",
+        "endDate": "31-12-2028",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "type": "PART_OF",
+      "dest": "company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "board_of_statutory_auditors_company_banca_monte_dei_paschi_di_siena",
+      "type": "PART_OF",
+      "dest": "company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "committee_rischi_e_sostenibilita_company_banca_monte_dei_paschi_di_siena",
+      "type": "PART_OF",
+      "dest": "company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "committee_nomine_company_banca_monte_dei_paschi_di_siena",
+      "type": "PART_OF",
+      "dest": "company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "committee_remunerazione_company_banca_monte_dei_paschi_di_siena",
+      "type": "PART_OF",
+      "dest": "company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "committee_per_le_operazioni_con_le_parti_correlate_company_banca_monte_dei_paschi_di_siena",
+      "type": "PART_OF",
+      "dest": "company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "committee_it_e_digitalizzazione_company_banca_monte_dei_paschi_di_siena",
+      "type": "PART_OF",
+      "dest": "company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_maurizio_bai",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "position_title": "Vice Direttore Generale Vicario della Banca",
+        "startDate": "06-02-2024",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_nicola_maione",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Chairman",
+        "startDate": "2023-05-18",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_gianluca_brancadoro",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Deputy Chairman",
+        "startDate": "2023-05-18",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_gianluca_brancadoro",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerazione_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "true",
+        "startDate": "2023-04-20",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_luigi_lovaglio",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Chief Executive Officer and General Manager",
+        "startDate": "20-04-2023",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_alessandra_barzaghi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "2023-05-18",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_alessandra_barzaghi",
+      "type": "MEMBER_OF",
+      "dest": "committee_rischi_e_sostenibilita_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "true",
+        "startDate": "2023-04-20",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_alessandra_barzaghi",
+      "type": "MEMBER_OF",
+      "dest": "committee_it_e_digitalizzazione_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "20-04-2023",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_alessandro_caltagirone",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Executive Director",
+        "startDate": "27-12-2024",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_alessandro_caltagirone",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomine_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "27-12-2024",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_alessandro_caltagirone",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerazione_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "27-12-2024",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_paola_de_martini",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Lead Independent Director",
+        "startDate": "2023-05-18",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_paola_de_martini",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomine_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "20-04-2023",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_elena_de_simone",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Executive Director",
+        "startDate": "27-12-2024",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_elena_de_simone",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerazione_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "27-12-2024",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_elena_de_simone",
+      "type": "MEMBER_OF",
+      "dest": "committee_it_e_digitalizzazione_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "05-02-2025",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_stefano_di_stefano",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "20-04-2023",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_stefano_di_stefano",
+      "type": "MEMBER_OF",
+      "dest": "committee_rischi_e_sostenibilita_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "20-04-2023",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_domenico_lombardi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "2023-05-18",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_domenico_lombardi",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomine_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "true",
+        "startDate": "2023-04-20",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_domenico_lombardi",
+      "type": "MEMBER_OF",
+      "dest": "committee_rischi_e_sostenibilita_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "20-04-2023",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_domenico_lombardi",
+      "type": "MEMBER_OF",
+      "dest": "committee_per_le_operazioni_con_le_parti_correlate_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "20-04-2023",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_paola_lucantoni",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "2023-05-18",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_paola_lucantoni",
+      "type": "MEMBER_OF",
+      "dest": "committee_rischi_e_sostenibilita_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "20-04-2023",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_paola_lucantoni",
+      "type": "MEMBER_OF",
+      "dest": "committee_it_e_digitalizzazione_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "20-04-2023",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_raffaele_oriani",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "11-04-2024",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_raffaele_oriani",
+      "type": "MEMBER_OF",
+      "dest": "committee_it_e_digitalizzazione_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "true",
+        "startDate": "2024-09-01",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_raffaele_oriani",
+      "type": "MEMBER_OF",
+      "dest": "committee_per_le_operazioni_con_le_parti_correlate_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "11-04-2024",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_marcella_panucci",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "27-12-2024",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_marcella_panucci",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerazione_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "27-12-2024",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_marcella_panucci",
+      "type": "MEMBER_OF",
+      "dest": "committee_per_le_operazioni_con_le_parti_correlate_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "true",
+        "startDate": "2024-12-01",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_francesca_paramico_renzulli",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "27-12-2024",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_francesca_paramico_renzulli",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomine_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "27-12-2024",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_francesca_paramico_renzulli",
+      "type": "MEMBER_OF",
+      "dest": "committee_it_e_digitalizzazione_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "05-02-2025",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_renato_sala",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "2023-05-18",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_renato_sala",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomine_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "20-04-2023",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_renato_sala",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerazione_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "20-04-2023",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_renato_sala",
+      "type": "MEMBER_OF",
+      "dest": "committee_per_le_operazioni_con_le_parti_correlate_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "20-04-2023",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_barbara_tadolini",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "27-12-2024",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_barbara_tadolini",
+      "type": "MEMBER_OF",
+      "dest": "committee_rischi_e_sostenibilita_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "05-02-2025",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_barbara_tadolini",
+      "type": "MEMBER_OF",
+      "dest": "committee_per_le_operazioni_con_le_parti_correlate_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "27-12-2024",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_marco_giorgino",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "20-04-2023",
+        "endDate": "13-11-2023",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_paolo_fabris_de_fabris",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "20-04-2023",
+        "endDate": "17-12-2024",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_lucia_foti_belligambi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "20-04-2023",
+        "endDate": "17-12-2024",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_laura_martiniello",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "20-04-2023",
+        "endDate": "17-12-2024",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_anna_paola_negri_clementi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "20-04-2023",
+        "endDate": "17-12-2024",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_donatella_visconti",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Independent Director",
+        "startDate": "20-04-2023",
+        "endDate": "17-12-2024",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_riccardo_quagliana",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "position_title": "Head of Group General Counsel Department",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_laura_martiniello",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomine_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "17-12-2024",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_donatella_visconti",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomine_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "17-12-2024",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_paola_de_martini",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerazione_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "05-02-2025",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_lucia_foti_belligambi",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerazione_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "17-12-2024",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_anna_paola_negri_clementi",
+      "type": "MEMBER_OF",
+      "dest": "committee_remunerazione_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "17-12-2024",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_massimiliano_bosio",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "position_title": "Chief Audit Executive",
+        "startDate": "01-05-2021",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_leonardo_bellucci",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "position_title": "Chief Risk Officer",
+        "startDate": "",
+        "endDate": "31-12-2024",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_lorenzo_boetti",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "position_title": "Chief Risk Officer",
+        "startDate": "01-02-2025",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "committee_organismo_di_vigilanza_231_company_banca_monte_dei_paschi_di_siena",
+      "type": "PART_OF",
+      "dest": "company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_ettore_carneade",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "position_title": "Chief Compliance Executive",
+        "startDate": "01-10-2018",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_stefano_moni",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "position_title": "Responsabile della Funzione di Convalida Interna",
+        "startDate": "01-06-2021",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_roberto_regoli",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "position_title": "Responsabile della Funzione Antiriciclaggio",
+        "startDate": "01-05-2024",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_romina_guglielmetti",
+      "type": "MEMBER_OF",
+      "dest": "committee_organismo_di_vigilanza_231_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_paola_de_martini",
+      "type": "MEMBER_OF",
+      "dest": "committee_organismo_di_vigilanza_231_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "05-02-2025",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_gianluca_tognozzi",
+      "type": "MEMBER_OF",
+      "dest": "committee_organismo_di_vigilanza_231_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_paolo_fabris_de_fabris",
+      "type": "MEMBER_OF",
+      "dest": "committee_organismo_di_vigilanza_231_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "17-12-2024",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_nicola_massimo_clarelli",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "position_title": "Dirigente Preposto alla redazione dei documenti contabili societari e Responsabile della Funzione Amministrazione e Bilancio",
+        "startDate": "01-11-2016",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_alessandra_barzaghi",
+      "type": "MEMBER_OF",
+      "dest": "committee_per_le_operazioni_con_le_parti_correlate_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "05-02-2025",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_paolo_fabris_de_fabris",
+      "type": "MEMBER_OF",
+      "dest": "committee_per_le_operazioni_con_le_parti_correlate_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "17-12-2024",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_paola_de_martini",
+      "type": "MEMBER_OF",
+      "dest": "committee_per_le_operazioni_con_le_parti_correlate_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "true",
+        "startDate": "27-12-2024",
+        "endDate": "05-02-2025",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_lucia_foti_belligambi",
+      "type": "MEMBER_OF",
+      "dest": "committee_per_le_operazioni_con_le_parti_correlate_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "17-12-2024",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_anna_paola_negri_clementi",
+      "type": "MEMBER_OF",
+      "dest": "committee_per_le_operazioni_con_le_parti_correlate_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "17-12-2024",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_donatella_visconti",
+      "type": "MEMBER_OF",
+      "dest": "committee_per_le_operazioni_con_le_parti_correlate_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "17-12-2024",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_enrico_ciai",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Chairman",
+        "startDate": "20-04-2023",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_lavinia_linguanti",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "20-04-2023",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_giacomo_granata",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "11-04-2024",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_pierpaolo_cotone",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "20-04-2023",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_paola_lucia_isabella_giordano",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "11-04-2024",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_roberto_serrentino",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "20-04-2023",
+        "endDate": "15-05-2023",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_piera_vitali",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "20-04-2023",
+        "endDate": "02-05-2023",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "company_banca_monte_dei_paschi_di_siena",
+      "type": "LOCATED_AT",
+      "dest": "address_siena_piazza_salimbeni_3",
+      "properties": {
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_elisabetta_pozzi",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "position_title": "Staff Investor Relations",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_maria_costante",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "position_title": "Staff Sostenibilità e ESG",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    },
+    {
+      "source": "person_riccardo_quagliana",
+      "type": "HOLDS_POSITION",
+      "dest": "company_banca_monte_dei_paschi_di_siena",
+      "properties": {
+        "position_title": "Group General Counsel",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppomps.it/static/upload/250/250164-mps-relazione-governance-2024-it_def.pdf"
+      }
+    }
+  ]
+}

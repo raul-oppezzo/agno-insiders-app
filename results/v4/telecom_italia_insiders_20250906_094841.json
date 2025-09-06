@@ -1,0 +1,1701 @@
+{
+  "nodes": [
+    {
+      "id": "company_tim",
+      "label": "Company",
+      "properties": {
+        "name": "TIM S.p.A.",
+        "isin": "",
+        "ticker": "",
+        "vatNumber": "00488410010",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "address_milano_via_gaetano_negri_1",
+      "label": "Address",
+      "properties": {
+        "street": "Via Gaetano Negri n. 1",
+        "city": "Milano",
+        "postalCode": "20123",
+        "country": "Italy",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "board_of_directors_tim",
+      "label": "Board",
+      "properties": {
+        "type": "board of directors",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "board_of_statutory_auditors_tim",
+      "label": "Board",
+      "properties": {
+        "type": "board of statutory auditors",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "committee_control_and_risks_tim",
+      "label": "Committee",
+      "properties": {
+        "name": "Control and Risk Committee",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "committee_nomination_and_remuneration_tim",
+      "label": "Committee",
+      "properties": {
+        "name": "Nomination and Remuneration Committee",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "committee_related_parties_tim",
+      "label": "Committee",
+      "properties": {
+        "name": "Related Parties Committee",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "committee_sustainability_tim",
+      "label": "Committee",
+      "properties": {
+        "name": "Sustainability Committee",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_alberta_figari",
+      "label": "Person",
+      "properties": {
+        "name": "Alberta Figari",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_pietro_labriola",
+      "label": "Person",
+      "properties": {
+        "name": "Pietro Labriola",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_giovanni_gorno_tempini",
+      "label": "Person",
+      "properties": {
+        "name": "Giovanni Gorno Tempini",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_paola_camagni",
+      "label": "Person",
+      "properties": {
+        "name": "Paola Camagni",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_federico_ferro_luzzi",
+      "label": "Person",
+      "properties": {
+        "name": "Federico Ferro Luzzi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_domitilla_benigni",
+      "label": "Person",
+      "properties": {
+        "name": "Domitilla Benigni",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_umberto_paolucci",
+      "label": "Person",
+      "properties": {
+        "name": "Umberto Paolucci",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_stefano_siragusa",
+      "label": "Person",
+      "properties": {
+        "name": "Stefano Siragusa",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_paola_giannotti_de_ponti",
+      "label": "Person",
+      "properties": {
+        "name": "Paola Giannotti De Ponti",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_agostino_nuzzolo",
+      "label": "Person",
+      "properties": {
+        "name": "Agostino Nuzzolo",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_salvatore_rossi",
+      "label": "Person",
+      "properties": {
+        "name": "Salvatore Rossi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_rocco_ramondino",
+      "label": "Person",
+      "properties": {
+        "name": "Rocco Ramondino",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "auditor_ey",
+      "label": "Auditor",
+      "properties": {
+        "name": "EY S.p.A.",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_massimiliano_turconi",
+      "label": "Person",
+      "properties": {
+        "name": "Massimiliano Turconi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_anna_doro",
+      "label": "Person",
+      "properties": {
+        "name": "Anna Doro",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_adrian_calaza_noia",
+      "label": "Person",
+      "properties": {
+        "name": "Adrian Calaza Noia",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_maria_enrica_danese",
+      "label": "Person",
+      "properties": {
+        "name": "Maria Enrica Danese",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_francesco_fallacara",
+      "label": "Person",
+      "properties": {
+        "name": "Francesco Fallacara",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_mara_vanzetta",
+      "label": "Person",
+      "properties": {
+        "name": "Mara Vanzetta",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_francesco_schiavone_panni",
+      "label": "Person",
+      "properties": {
+        "name": "Francesco Schiavone Panni",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_massimo_gambini",
+      "label": "Person",
+      "properties": {
+        "name": "Massimo Gambini",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_massimiliano_di_maria",
+      "label": "Person",
+      "properties": {
+        "name": "Massimiliano Di Maria",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_carlotta_veneziani",
+      "label": "Person",
+      "properties": {
+        "name": "Carlotta Veneziani",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_paolo_prandi",
+      "label": "Person",
+      "properties": {
+        "name": "Paolo Prandi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_laura_fiordelisi",
+      "label": "Person",
+      "properties": {
+        "name": "Laura Fiordelisi",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_boccardelli_paolo",
+      "label": "Person",
+      "properties": {
+        "name": "Boccardelli Paolo",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_bonomo_paola",
+      "label": "Person",
+      "properties": {
+        "name": "Bonomo Paola",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_carli_maurizio",
+      "label": "Person",
+      "properties": {
+        "name": "Carli Maurizio",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_falcone_cristiana",
+      "label": "Person",
+      "properties": {
+        "name": "Falcone Cristiana",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_gallazzi_giulio",
+      "label": "Person",
+      "properties": {
+        "name": "Gallazzi Giulio",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_moretti_marella",
+      "label": "Person",
+      "properties": {
+        "name": "Moretti Marella",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_pansa_alessandro",
+      "label": "Person",
+      "properties": {
+        "name": "Pansa Alessandro",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_romagnoli_ilaria",
+      "label": "Person",
+      "properties": {
+        "name": "Romagnoli Ilaria",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_sapienza_paola",
+      "label": "Person",
+      "properties": {
+        "name": "Sapienza Paola",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_sarmi_massimo",
+      "label": "Person",
+      "properties": {
+        "name": "Sarmi Massimo",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_angelo_rocco_bonissoni",
+      "label": "Person",
+      "properties": {
+        "name": "Angelo Rocco Bonissoni",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_francesca_di_donato",
+      "label": "Person",
+      "properties": {
+        "name": "Francesca Di Donato",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_franco_maurizio_lagro",
+      "label": "Person",
+      "properties": {
+        "name": "Franco Maurizio Lagro",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_ilaria_antonella_belluco",
+      "label": "Person",
+      "properties": {
+        "name": "Ilaria Antonella Belluco",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "id": "person_paolo_lesbo",
+      "label": "Person",
+      "properties": {
+        "name": "Paolo Lesbo",
+        "dateOfBirth": "",
+        "cityOfBirth": "",
+        "taxCode": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "company_tim",
+      "type": "LOCATED_AT",
+      "dest": "address_milano_via_gaetano_negri_1",
+      "properties": {
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "board_of_directors_tim",
+      "type": "PART_OF",
+      "dest": "company_tim",
+      "properties": {
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "board_of_statutory_auditors_tim",
+      "type": "PART_OF",
+      "dest": "company_tim",
+      "properties": {
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "committee_control_and_risks_tim",
+      "type": "PART_OF",
+      "dest": "company_tim",
+      "properties": {
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "committee_nomination_and_remuneration_tim",
+      "type": "PART_OF",
+      "dest": "company_tim",
+      "properties": {
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "committee_related_parties_tim",
+      "type": "PART_OF",
+      "dest": "company_tim",
+      "properties": {
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "committee_sustainability_tim",
+      "type": "PART_OF",
+      "dest": "company_tim",
+      "properties": {
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_alberta_figari",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_tim",
+      "properties": {
+        "type": "Chairman",
+        "startDate": "24-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_pietro_labriola",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_tim",
+      "properties": {
+        "type": "Chief Executive Officer and General Manager",
+        "startDate": "24-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_giovanni_gorno_tempini",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_tim",
+      "properties": {
+        "type": "Non-Independent Non-Executive Director",
+        "startDate": "23-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_paola_camagni",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_tim",
+      "properties": {
+        "type": "Independent Non-Executive Director",
+        "startDate": "23-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_federico_ferro_luzzi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_tim",
+      "properties": {
+        "type": "Independent Non-Executive Director",
+        "startDate": "23-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_domitilla_benigni",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_tim",
+      "properties": {
+        "type": "Independent Non-Executive Director",
+        "startDate": "23-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_umberto_paolucci",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_tim",
+      "properties": {
+        "type": "Independent Non-Executive Director",
+        "startDate": "23-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_stefano_siragusa",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_tim",
+      "properties": {
+        "type": "Independent Non-Executive Director",
+        "startDate": "23-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_paola_giannotti_de_ponti",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_tim",
+      "properties": {
+        "type": "Independent Non-Executive Director",
+        "startDate": "23-04-2024",
+        "endDate": "2026-12-31",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_alberta_figari",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_tim",
+      "properties": {
+        "chairman": "true",
+        "startDate": "24-04-2024",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_pietro_labriola",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "24-04-2024",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_giovanni_gorno_tempini",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "24-04-2024",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_domitilla_benigni",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "24-04-2024",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_stefano_siragusa",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "24-04-2024",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_agostino_nuzzolo",
+      "type": "HOLDS_POSITION",
+      "dest": "company_tim",
+      "properties": {
+        "position_title": "General Counsel",
+        "startDate": "01-01-2017",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_agostino_nuzzolo",
+      "type": "HOLDS_POSITION",
+      "dest": "company_tim",
+      "properties": {
+        "position_title": "Secretary of the Board",
+        "startDate": "01-01-2017",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_salvatore_rossi",
+      "type": "HOLDS_POSITION",
+      "dest": "company_tim",
+      "properties": {
+        "position_title": "Non-executive Chairman",
+        "startDate": "",
+        "endDate": "23-04-2024",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_rocco_ramondino",
+      "type": "HOLDS_POSITION",
+      "dest": "company_tim",
+      "properties": {
+        "position_title": "Group Compliance Officer",
+        "startDate": "20-12-2024",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_agostino_nuzzolo",
+      "type": "HOLDS_POSITION",
+      "dest": "company_tim",
+      "properties": {
+        "position_title": "Data Protection Officer",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_agostino_nuzzolo",
+      "type": "HOLDS_POSITION",
+      "dest": "company_tim",
+      "properties": {
+        "position_title": "Responsabile della Direzione Legal Regulatory & Tax",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "company_tim",
+      "type": "AUDITED_BY",
+      "dest": "auditor_ey",
+      "properties": {
+        "startDate": "29-03-2019",
+        "endDate": "31-12-2027",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_massimiliano_turconi",
+      "type": "HOLDS_POSITION",
+      "dest": "company_tim",
+      "properties": {
+        "position_title": "Responsabile della Direzione Audit",
+        "startDate": "2021",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_anna_doro",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_tim",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "23-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_adrian_calaza_noia",
+      "type": "HOLDS_POSITION",
+      "dest": "company_tim",
+      "properties": {
+        "position_title": "Dirigente preposto alla redazione dei documenti contabili",
+        "startDate": "24-04-2024",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_maria_enrica_danese",
+      "type": "HOLDS_POSITION",
+      "dest": "company_tim",
+      "properties": {
+        "position_title": "Dirigente preposto per la rendicontazione di sostenibilità",
+        "startDate": "11-12-2024",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_francesco_fallacara",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_tim",
+      "properties": {
+        "type": "Chairman",
+        "startDate": "23-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_mara_vanzetta",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_tim",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "23-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_francesco_schiavone_panni",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_tim",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "23-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_massimo_gambini",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_tim",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "23-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_massimiliano_di_maria",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_tim",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "23-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_carlotta_veneziani",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_tim",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "23-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_paolo_prandi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_tim",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "23-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_laura_fiordelisi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_tim",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "23-04-2024",
+        "endDate": "31-12-2026",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_alberta_figari",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_remuneration_tim",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_domitilla_benigni",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_domitilla_benigni",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_remuneration_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_paola_camagni",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_tim",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_paola_camagni",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_remuneration_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_paola_camagni",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_paola_camagni",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_federico_ferro_luzzi",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_federico_ferro_luzzi",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_remuneration_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_federico_ferro_luzzi",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_federico_ferro_luzzi",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_paola_giannotti_de_ponti",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "23-04-2024",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_paola_giannotti_de_ponti",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_remuneration_tim",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_paola_giannotti_de_ponti",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "23-04-2024",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_paola_giannotti_de_ponti",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_tim",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_giovanni_gorno_tempini",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_remuneration_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_umberto_paolucci",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_umberto_paolucci",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_umberto_paolucci",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_stefano_siragusa",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_remuneration_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_stefano_siragusa",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_salvatore_rossi",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_tim",
+      "properties": {
+        "type": "Amministratore",
+        "startDate": "21-10-2019",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_salvatore_rossi",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_salvatore_rossi",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_remuneration_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_salvatore_rossi",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_tim",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_salvatore_rossi",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_tim",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_boccardelli_paolo",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_tim",
+      "properties": {
+        "type": "Amministratore",
+        "startDate": "31-03-2021",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_boccardelli_paolo",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_boccardelli_paolo",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_remuneration_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_boccardelli_paolo",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_boccardelli_paolo",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_bonomo_paola",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_tim",
+      "properties": {
+        "type": "Amministratore",
+        "startDate": "04-05-2018",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_bonomo_paola",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_tim",
+      "properties": {
+        "chairman": "true",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_bonomo_paola",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_remuneration_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_bonomo_paola",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_bonomo_paola",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_carli_maurizio",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_tim",
+      "properties": {
+        "type": "Amministratore",
+        "startDate": "31-03-2021",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_carli_maurizio",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_carli_maurizio",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_remuneration_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_carli_maurizio",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_carli_maurizio",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_falcone_cristiana",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_tim",
+      "properties": {
+        "type": "Amministratore",
+        "startDate": "31-03-2021",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_falcone_cristiana",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_falcone_cristiana",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_remuneration_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_falcone_cristiana",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_falcone_cristiana",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_gallazzi_giulio",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_tim",
+      "properties": {
+        "type": "Amministratore",
+        "startDate": "30-11-2022",
+        "endDate": "20-04-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_moretti_marella",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_tim",
+      "properties": {
+        "type": "Amministratore",
+        "startDate": "04-05-2017",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_moretti_marella",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_moretti_marella",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_remuneration_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_moretti_marella",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_moretti_marella",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_pansa_alessandro",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_tim",
+      "properties": {
+        "type": "Amministratore",
+        "startDate": "14-06-2023",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_romagnoli_ilaria",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_tim",
+      "properties": {
+        "type": "Amministratore",
+        "startDate": "31-03-2021",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_romagnoli_ilaria",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_romagnoli_ilaria",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_remuneration_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_romagnoli_ilaria",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_romagnoli_ilaria",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_sapienza_paola",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_tim",
+      "properties": {
+        "type": "Amministratore",
+        "startDate": "31-03-2021",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_sapienza_paola",
+      "type": "MEMBER_OF",
+      "dest": "committee_control_and_risks_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_sapienza_paola",
+      "type": "MEMBER_OF",
+      "dest": "committee_nomination_and_remuneration_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_sapienza_paola",
+      "type": "MEMBER_OF",
+      "dest": "committee_related_parties_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_sapienza_paola",
+      "type": "MEMBER_OF",
+      "dest": "committee_sustainability_tim",
+      "properties": {
+        "chairman": "false",
+        "startDate": "",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_sarmi_massimo",
+      "type": "MEMBER_OF",
+      "dest": "board_of_directors_tim",
+      "properties": {
+        "type": "Amministratore",
+        "startDate": "15-12-2022",
+        "endDate": "20-04-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_angelo_rocco_bonissoni",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_tim",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "31-03-2021",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_francesca_di_donato",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_tim",
+      "properties": {
+        "type": "Statutory Auditor",
+        "startDate": "31-03-2021",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_franco_maurizio_lagro",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_tim",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "31-03-2021",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_ilaria_antonella_belluco",
+      "type": "MEMBER_OF",
+      "dest": "board_of_statutory_auditors_tim",
+      "properties": {
+        "type": "Alternate Auditor",
+        "startDate": "31-03-2021",
+        "endDate": "31-12-2023",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_paolo_lesbo",
+      "type": "HOLDS_POSITION",
+      "dest": "company_tim",
+      "properties": {
+        "position_title": "Head of Investor Relations",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    },
+    {
+      "source": "person_adrian_calaza_noia",
+      "type": "HOLDS_POSITION",
+      "dest": "company_tim",
+      "properties": {
+        "position_title": "Chief Financial Officer",
+        "startDate": "",
+        "endDate": "",
+        "source": "https://www.gruppotim.it/content/dam/gt/investitori/doc---avvisi/anno-2025/TIM_Relazione%20sul%20governo%20societario%20e%20gli%20assetti%20proprietari%202024.pdf"
+      }
+    }
+  ]
+}
